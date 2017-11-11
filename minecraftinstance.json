@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-11-09T18:16:06.1926628Z",
+  "lastPlayed": "2017-11-10T16:55:05.7880445Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -44,7 +44,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9822514Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1356382Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1367353Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2495641Z",
       "fileCount": 1,
       "fileSize": 110317
     },
@@ -59,7 +59,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1567153Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6407672Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1367353Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2500651Z",
       "fileCount": 1,
       "fileSize": 25935
     },
@@ -74,7 +74,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1727578Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6718947Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1372373Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2500651Z",
       "fileCount": 1,
       "fileSize": 736936
     },
@@ -89,7 +89,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6946527Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1097733Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1372373Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2500651Z",
       "fileCount": 1,
       "fileSize": 60925
     },
@@ -104,7 +104,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6249675Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0749932Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1377138Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2505666Z",
       "fileCount": 1,
       "fileSize": 3678955
     },
@@ -119,7 +119,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3778025Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.87694Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1377138Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2505666Z",
       "fileCount": 1,
       "fileSize": 3098466
     },
@@ -134,7 +134,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3767992Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.8644075Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1377138Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2505666Z",
       "fileCount": 1,
       "fileSize": 164579
     },
@@ -149,7 +149,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4886054Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.9366006Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1382419Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2510682Z",
       "fileCount": 1,
       "fileSize": 865513
     },
@@ -164,7 +164,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5562789Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3935276Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1382419Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2510682Z",
       "fileCount": 1,
       "fileSize": 153913
     },
@@ -179,7 +179,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6134365Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4401521Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1382419Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2510682Z",
       "fileCount": 1,
       "fileSize": 581564
     },
@@ -194,7 +194,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.2885647Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.2220723Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1387442Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2515692Z",
       "fileCount": 1,
       "fileSize": 547547
     },
@@ -209,7 +209,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5968659Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4185947Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1382419Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2515692Z",
       "fileCount": 1,
       "fileSize": 21519
     },
@@ -224,7 +224,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1777712Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.2175604Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1387442Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2520704Z",
       "fileCount": 1,
       "fileSize": 5573
     },
@@ -239,7 +239,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1587207Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6452796Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1387442Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2520704Z",
       "fileCount": 1,
       "fileSize": 54083
     },
@@ -254,7 +254,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4590177Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3494102Z",
-      "queryTimestamp": "2017-11-09T17:43:49.139245Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2525714Z",
       "fileCount": 1,
       "fileSize": 1097937
     },
@@ -269,7 +269,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6204287Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0509032Z",
-      "queryTimestamp": "2017-11-09T17:43:49.139245Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2525714Z",
       "fileCount": 1,
       "fileSize": 205099
     },
@@ -284,7 +284,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6189443Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4486757Z",
-      "queryTimestamp": "2017-11-09T17:43:49.139245Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2530732Z",
       "fileCount": 1,
       "fileSize": 388526
     },
@@ -299,7 +299,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9040489Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1197994Z",
-      "queryTimestamp": "2017-11-09T17:43:49.139747Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2530732Z",
       "fileCount": 1,
       "fileSize": 44878
     },
@@ -314,7 +314,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4635381Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3544237Z",
-      "queryTimestamp": "2017-11-09T17:43:49.139747Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2530732Z",
       "fileCount": 1,
       "fileSize": 117480
     },
@@ -329,7 +329,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4660457Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3559278Z",
-      "queryTimestamp": "2017-11-09T17:43:49.139747Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2535753Z",
       "fileCount": 1,
       "fileSize": 27195
     },
@@ -344,7 +344,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.2865586Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.7962271Z",
-      "queryTimestamp": "2017-11-09T17:43:49.139747Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2535753Z",
       "fileCount": 1,
       "fileSize": 96171
     },
@@ -359,7 +359,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5657918Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0057957Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1402199Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2540755Z",
       "fileCount": 1,
       "fileSize": 177890
     },
@@ -374,7 +374,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3492253Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.8629029Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1402199Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2540755Z",
       "fileCount": 1,
       "fileSize": 3701794
     },
@@ -389,7 +389,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4820894Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3900187Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1407485Z",
+      "queryTimestamp": "2017-11-11T09:39:30.254577Z",
       "fileCount": 1,
       "fileSize": 1643727
     },
@@ -404,7 +404,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5653015Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0047802Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1407485Z",
+      "queryTimestamp": "2017-11-11T09:39:30.254577Z",
       "fileCount": 1,
       "fileSize": 22582
     },
@@ -419,7 +419,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5668051Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4100718Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1407485Z",
+      "queryTimestamp": "2017-11-11T09:39:30.254577Z",
       "fileCount": 1,
       "fileSize": 374354
     },
@@ -434,7 +434,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.33218Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.2687234Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1412506Z",
+      "queryTimestamp": "2017-11-11T09:39:30.255078Z",
       "fileCount": 1,
       "fileSize": 4404743
     },
@@ -449,7 +449,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5683125Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.415085Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1412506Z",
+      "queryTimestamp": "2017-11-11T09:39:30.255078Z",
       "fileCount": 1,
       "fileSize": 817316
     },
@@ -464,7 +464,7 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.5001005Z",
       "lastWriteTimeUtc": "2017-11-09T18:03:12.4618632Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0100518Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2555796Z",
       "fileCount": 1,
       "fileSize": 5519460
     },
@@ -479,7 +479,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1592214Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6513271Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1412506Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2560806Z",
       "fileCount": 1,
       "fileSize": 910681
     },
@@ -494,7 +494,7 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.5387246Z",
       "lastWriteTimeUtc": "2017-11-09T18:03:39.7424687Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0105567Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2560806Z",
       "fileCount": 1,
       "fileSize": 1822850
     },
@@ -509,7 +509,7 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.5527684Z",
       "lastWriteTimeUtc": "2017-11-09T18:02:56.2832757Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0105567Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2560806Z",
       "fileCount": 1,
       "fileSize": 41838
     },
@@ -524,7 +524,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3316795Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.8413455Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1417529Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2565821Z",
       "fileCount": 1,
       "fileSize": 5200
     },
@@ -539,7 +539,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5728203Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.017815Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1417529Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2565821Z",
       "fileCount": 1,
       "fileSize": 2177501
     },
@@ -554,7 +554,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6791044Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1010363Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1417529Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2570834Z",
       "fileCount": 1,
       "fileSize": 1901184
     },
@@ -569,7 +569,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1471669Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6284733Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1422526Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2570834Z",
       "fileCount": 1,
       "fileSize": 267507
     },
@@ -584,7 +584,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4174159Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3363759Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1422526Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2575846Z",
       "fileCount": 1,
       "fileSize": 7122826
     },
@@ -599,24 +599,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.8915057Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1251103Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1422526Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2575846Z",
       "fileCount": 1,
       "fileSize": 2752448
-    },
-    {
-      "folderName": "CodeChickenLib-1.12-3.1.3.313-universal.jar",
-      "fingerprint": 1931211948,
-      "fileDateHash": 1033810498,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1931211948
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.1391704Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.6269955Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1427286Z",
-      "fileCount": 1,
-      "fileSize": 645099
     },
     {
       "folderName": "RedstoneArsenal-1.12-2.3.6.16-universal.jar",
@@ -629,9 +614,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.599392Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.047895Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1427286Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2580859Z",
       "fileCount": 1,
       "fileSize": 223155
+    },
+    {
+      "folderName": "CodeChickenLib-1.12-3.1.3.313-universal.jar",
+      "fingerprint": 1931211948,
+      "fileDateHash": 1033810498,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1931211948
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.1391704Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.6269955Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2580859Z",
+      "fileCount": 1,
+      "fileSize": 645099
     },
     {
       "folderName": "valkyrielib-1.12.X-2.0.4b.jar",
@@ -644,7 +644,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6936496Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4893139Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1427286Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2580859Z",
       "fileCount": 1,
       "fileSize": 234255
     },
@@ -659,7 +659,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4730558Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3684608Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1432572Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2585874Z",
       "fileCount": 1,
       "fileSize": 105475
     },
@@ -674,7 +674,7 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.5467508Z",
       "lastWriteTimeUtc": "2017-11-09T18:03:48.916472Z",
-      "queryTimestamp": "2017-11-09T18:10:11.01206Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2585874Z",
       "fileCount": 1,
       "fileSize": 1626681
     },
@@ -689,7 +689,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9817491Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1346354Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1432572Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2585874Z",
       "fileCount": 1,
       "fileSize": 63089
     },
@@ -704,39 +704,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6244654Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0769723Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1432572Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2590887Z",
       "fileCount": 1,
       "fileSize": 196665
-    },
-    {
-      "folderName": "mcjtylib-1.12-2.4.5.jar",
-      "fingerprint": 803633224,
-      "fileDateHash": 3132768619,
-      "sectionID": 6,
-      "individualFingerprints": [
-        803633224
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.4916133Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.3925253Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1437602Z",
-      "fileCount": 1,
-      "fileSize": 323211
-    },
-    {
-      "folderName": "secretroomsmod-2.0.0.jar",
-      "fingerprint": 71824906,
-      "fileDateHash": 447865625,
-      "sectionID": 6,
-      "individualFingerprints": [
-        71824906
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.6184234Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.4456883Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1437602Z",
-      "fileCount": 1,
-      "fileSize": 158715
     },
     {
       "folderName": "SolarFluxReborn_1.12.2-3.42r.jar",
@@ -749,9 +719,39 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6214496Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0524282Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1437602Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2590887Z",
       "fileCount": 1,
       "fileSize": 197899
+    },
+    {
+      "folderName": "secretroomsmod-2.0.0.jar",
+      "fingerprint": 71824906,
+      "fileDateHash": 447865625,
+      "sectionID": 6,
+      "individualFingerprints": [
+        71824906
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.6184234Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.4456883Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2590887Z",
+      "fileCount": 1,
+      "fileSize": 158715
+    },
+    {
+      "folderName": "mcjtylib-1.12-2.4.5.jar",
+      "fingerprint": 803633224,
+      "fileDateHash": 3132768619,
+      "sectionID": 6,
+      "individualFingerprints": [
+        803633224
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.4916133Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.3925253Z",
+      "queryTimestamp": "2017-11-11T09:39:30.25959Z",
+      "fileCount": 1,
+      "fileSize": 323211
     },
     {
       "folderName": "torchmaster_1.12.2-1.6.1.53.jar",
@@ -764,7 +764,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6916448Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4868022Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1442584Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2600915Z",
       "fileCount": 1,
       "fileSize": 118961
     },
@@ -779,7 +779,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.2930761Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.8147758Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1442584Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2600915Z",
       "fileCount": 1,
       "fileSize": 3779552
     },
@@ -794,7 +794,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6996654Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4932936Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1442584Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2600915Z",
       "fileCount": 1,
       "fileSize": 152727
     },
@@ -809,7 +809,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1637109Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6548587Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1447592Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2600915Z",
       "fileCount": 1,
       "fileSize": 176289
     },
@@ -824,24 +824,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3632629Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.8368335Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1447592Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2605928Z",
       "fileCount": 1,
       "fileSize": 696181
-    },
-    {
-      "folderName": "ElecCore-1.12-1.8.430.jar",
-      "fingerprint": 3520281015,
-      "fileDateHash": 94883293,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3520281015
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.2830494Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.7952227Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1447592Z",
-      "fileCount": 1,
-      "fileSize": 841540
     },
     {
       "folderName": "MTLib-3.0.1.jar",
@@ -854,7 +839,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5597858Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.9310848Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1447592Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2605928Z",
       "fileCount": 1,
       "fileSize": 28850
     },
@@ -869,7 +854,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.8343624Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1090673Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1452669Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2605928Z",
       "fileCount": 1,
       "fileSize": 14408028
     },
@@ -884,7 +869,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4755617Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3809954Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1457354Z",
+      "queryTimestamp": "2017-11-11T09:39:30.261094Z",
       "fileCount": 1,
       "fileSize": 1842661
     },
@@ -899,7 +884,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3913386Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.2837645Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1457354Z",
+      "queryTimestamp": "2017-11-11T09:39:30.261094Z",
       "fileCount": 1,
       "fileSize": 1989
     },
@@ -914,7 +899,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1426775Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.5095951Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1462372Z",
+      "queryTimestamp": "2017-11-11T09:39:30.261094Z",
       "fileCount": 1,
       "fileSize": 681901
     },
@@ -929,39 +914,24 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.4980952Z",
       "lastWriteTimeUtc": "2017-11-09T18:04:25.4546646Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0150653Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2615953Z",
       "fileCount": 1,
       "fileSize": 532474
     },
     {
-      "folderName": "DefaultOptions_1.12.1-9.2.4.jar",
-      "fingerprint": 2755078371,
-      "fileDateHash": 182045981,
+      "folderName": "ImmersiveEngineering-0.12-74-core.jar",
+      "fingerprint": 2780021494,
+      "fileDateHash": 2133284612,
       "sectionID": 6,
       "individualFingerprints": [
-        2755078371
+        2780021494
       ],
       "status": 1,
-      "timestamp": "2017-11-09T17:43:48.1772723Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.6759054Z",
-      "queryTimestamp": "2017-11-09T17:43:49.146738Z",
+      "timestamp": "2017-11-11T09:39:28.599166Z",
+      "lastWriteTimeUtc": "2017-11-09T18:16:19.6462069Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
       "fileCount": 1,
-      "fileSize": 12280
-    },
-    {
-      "folderName": "funky-locomotion-1.12-alpha-0.0.1.jar",
-      "fingerprint": 3670082775,
-      "fileDateHash": 141550833,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3670082775
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.3687779Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.2707019Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1462372Z",
-      "fileCount": 1,
-      "fileSize": 227499
+      "fileSize": 7232
     },
     {
       "folderName": "tinyprogressions-1.12-3.2.10 - Beta.jar",
@@ -974,39 +944,39 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.689139Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4852715Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1462372Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2615953Z",
       "fileCount": 1,
       "fileSize": 644751
     },
     {
-      "folderName": "AppleSkin-mc1.12-1.0.9.jar",
-      "fingerprint": 1708065614,
-      "fileDateHash": 524619677,
+      "folderName": "funky-locomotion-1.12-alpha-0.0.1.jar",
+      "fingerprint": 3670082775,
+      "fileDateHash": 141550833,
       "sectionID": 6,
       "individualFingerprints": [
-        1708065614
+        3670082775
       ],
       "status": 1,
-      "timestamp": "2017-11-09T17:43:47.9070573Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.1311263Z",
-      "queryTimestamp": "2017-11-09T17:43:49.146738Z",
+      "timestamp": "2017-11-09T17:43:48.3687779Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.2707019Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2615953Z",
       "fileCount": 1,
-      "fileSize": 32317
+      "fileSize": 227499
     },
     {
-      "folderName": "bdlib-1.14.3.10-mc1.12.2.jar",
-      "fingerprint": 1646579383,
-      "fileDateHash": 3537799231,
+      "folderName": "DefaultOptions_1.12.1-9.2.4.jar",
+      "fingerprint": 2755078371,
+      "fileDateHash": 182045981,
       "sectionID": 6,
       "individualFingerprints": [
-        1646579383
+        2755078371
       ],
       "status": 1,
-      "timestamp": "2017-11-09T17:43:47.9822514Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.2090518Z",
-      "queryTimestamp": "2017-11-09T17:43:49.146738Z",
+      "timestamp": "2017-11-09T17:43:48.1772723Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.6759054Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2615953Z",
       "fileCount": 1,
-      "fileSize": 1962376
+      "fileSize": 12280
     },
     {
       "folderName": "gravestone-1.10.0.jar",
@@ -1019,24 +989,39 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3767992Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.2832607Z",
-      "queryTimestamp": "2017-11-09T17:43:49.146738Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2620966Z",
       "fileCount": 1,
       "fileSize": 76712
     },
     {
-      "folderName": "ExtremeReactors-1.12-0.4.5.44.jar",
-      "fingerprint": 1119302030,
-      "fileDateHash": 268457257,
+      "folderName": "bdlib-1.14.3.10-mc1.12.2.jar",
+      "fingerprint": 1646579383,
+      "fileDateHash": 3537799231,
       "sectionID": 6,
       "individualFingerprints": [
-        1119302030
+        1646579383
       ],
       "status": 1,
-      "timestamp": "2017-11-09T17:43:48.3276683Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.8323213Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1472387Z",
+      "timestamp": "2017-11-09T17:43:47.9822514Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.2090518Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2620966Z",
       "fileCount": 1,
-      "fileSize": 1056795
+      "fileSize": 1962376
+    },
+    {
+      "folderName": "AppleSkin-mc1.12-1.0.9.jar",
+      "fingerprint": 1708065614,
+      "fileDateHash": 524619677,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1708065614
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:47.9070573Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.1311263Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2620966Z",
+      "fileCount": 1,
+      "fileSize": 32317
     },
     {
       "folderName": "InventoryTweaks-1.63.jar",
@@ -1049,24 +1034,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4580152Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.9270969Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1472387Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2625979Z",
       "fileCount": 1,
       "fileSize": 263258
     },
     {
-      "folderName": "industrialforegoing-1.12.2-1.5.5-92.jar",
-      "fingerprint": 2467242879,
-      "fileDateHash": 950564856,
+      "folderName": "ExtremeReactors-1.12-0.4.5.44.jar",
+      "fingerprint": 1119302030,
+      "fileDateHash": 268457257,
       "sectionID": 6,
       "individualFingerprints": [
-        2467242879
+        1119302030
       ],
       "status": 1,
-      "timestamp": "2017-11-09T18:10:10.5216579Z",
-      "lastWriteTimeUtc": "2017-11-09T18:03:21.3114738Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0165694Z",
+      "timestamp": "2017-11-09T17:43:48.3276683Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.8323213Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2625979Z",
       "fileCount": 1,
-      "fileSize": 987662
+      "fileSize": 1056795
     },
     {
       "folderName": "mysticalagriculture-1.12-1.6.6.jar",
@@ -1079,24 +1064,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5602686Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4060609Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1472387Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2625979Z",
       "fileCount": 1,
       "fileSize": 1265934
     },
     {
-      "folderName": "ImmersiveEngineering-0.12-74.jar",
-      "fingerprint": 1774861179,
-      "fileDateHash": 622253806,
+      "folderName": "industrialforegoing-1.12.2-1.5.5-92.jar",
+      "fingerprint": 2467242879,
+      "fileDateHash": 950564856,
       "sectionID": 6,
       "individualFingerprints": [
-        1774861179
+        2467242879
       ],
       "status": 1,
-      "timestamp": "2017-11-09T17:43:48.3913386Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.9110544Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1477645Z",
+      "timestamp": "2017-11-09T18:10:10.5216579Z",
+      "lastWriteTimeUtc": "2017-11-09T18:03:21.3114738Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2630994Z",
       "fileCount": 1,
-      "fileSize": 5917939
+      "fileSize": 987662
     },
     {
       "folderName": "plustic-6.3.2.0.jar",
@@ -1109,9 +1094,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5713165Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4180932Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1477645Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2630994Z",
       "fileCount": 1,
       "fileSize": 337605
+    },
+    {
+      "folderName": "ImmersiveEngineering-0.12-74.jar",
+      "fingerprint": 1774861179,
+      "fileDateHash": 622253806,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1774861179
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.3913386Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.9110544Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2630994Z",
+      "fileCount": 1,
+      "fileSize": 5917939
     },
     {
       "folderName": "Xtones-1.12-1.0.6-9.jar",
@@ -1124,9 +1124,120 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6976613Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1152872Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1477645Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2636006Z",
       "fileCount": 1,
       "fileSize": 460677
+    },
+    {
+      "folderName": "New World",
+      "fingerprint": 3797100023,
+      "fileDateHash": 1015723690,
+      "sectionID": 17,
+      "individualFingerprints": [
+        188501490,
+        188501490,
+        193831578,
+        224251200,
+        224251200,
+        327258474,
+        327258474,
+        327258474,
+        327258474,
+        327258474,
+        327258474,
+        327258474,
+        327258474,
+        327258474,
+        327258474,
+        327258474,
+        327258474,
+        416406609,
+        553115261,
+        573550683,
+        640816468,
+        682895157,
+        716554701,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        781594955,
+        858692384,
+        864554062,
+        916935670,
+        948100500,
+        1202007237,
+        1310082188,
+        1375862495,
+        1537473189,
+        1586429003,
+        1657594258,
+        1803953797,
+        1930800166,
+        2013024276,
+        2089132164,
+        2238397679,
+        2639503082,
+        2643933950,
+        2705440576,
+        2708530713,
+        2744310906,
+        2899834352,
+        2918629679,
+        3022678628,
+        3025833850,
+        3125529666,
+        3125529666,
+        3132317779,
+        3177965112,
+        3177965112,
+        3184781582,
+        3226401053,
+        3245969421,
+        3308255458,
+        3383409723,
+        3465701048,
+        3556002396,
+        3582932549,
+        3614624867,
+        3657814391,
+        3661656074,
+        3698527259,
+        3732824296,
+        3746129050,
+        3837948762,
+        4036422720,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4251492184,
+        4272588933
+      ],
+      "status": 1,
+      "timestamp": "2017-11-11T09:39:28.6327556Z",
+      "lastWriteTimeUtc": "2017-11-10T16:03:22.7607471Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2636006Z",
+      "fileCount": 30,
+      "fileSize": 0
     },
     {
       "folderName": "AoV-1.12.1-0.6.2.jar",
@@ -1139,7 +1250,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9045494Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1306248Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1477645Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2636006Z",
       "fileCount": 1,
       "fileSize": 717035
     },
@@ -1154,7 +1265,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5813437Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0193438Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1482655Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2636006Z",
       "fileCount": 1,
       "fileSize": 173542
     },
@@ -1169,7 +1280,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1637109Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.2170591Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1482655Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2641019Z",
       "fileCount": 1,
       "fileSize": 29874
     },
@@ -1184,7 +1295,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9070573Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1388743Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1482655Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2641019Z",
       "fileCount": 1,
       "fileSize": 3522566
     },
@@ -1199,7 +1310,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6685757Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4817907Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1487668Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2641019Z",
       "fileCount": 1,
       "fileSize": 51629
     },
@@ -1214,7 +1325,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4735573Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3694636Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1487668Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2646034Z",
       "fileCount": 1,
       "fileSize": 153197
     },
@@ -1229,7 +1340,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1752641Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6749036Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1487668Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2646034Z",
       "fileCount": 1,
       "fileSize": 531465
     },
@@ -1244,7 +1355,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.2870609Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.7992334Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1492691Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2646034Z",
       "fileCount": 1,
       "fileSize": 223766
     },
@@ -1259,7 +1370,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6946527Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.108771Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1492691Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2651047Z",
       "fileCount": 1,
       "fileSize": 31462
     },
@@ -1274,7 +1385,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.989774Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1366408Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1492691Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2651047Z",
       "fileCount": 1,
       "fileSize": 75709
     },
@@ -1289,7 +1400,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1587207Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6523457Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1497699Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2651047Z",
       "fileCount": 1,
       "fileSize": 95530
     },
@@ -1304,24 +1415,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9817491Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1970055Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1497699Z",
+      "queryTimestamp": "2017-11-11T09:39:30.265606Z",
       "fileCount": 1,
       "fileSize": 7117
-    },
-    {
-      "folderName": "flatcoloredblocks-mc1.12-6.6.jar",
-      "fingerprint": 1046128117,
-      "fileDateHash": 2190749345,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1046128117
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.3316795Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.2436583Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1502466Z",
-      "fileCount": 1,
-      "fileSize": 136082
     },
     {
       "folderName": "jei_1.12.2-4.8.0.111.jar",
@@ -1334,9 +1430,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4640386Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3534212Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1497699Z",
+      "queryTimestamp": "2017-11-11T09:39:30.265606Z",
       "fileCount": 1,
       "fileSize": 509370
+    },
+    {
+      "folderName": "flatcoloredblocks-mc1.12-6.6.jar",
+      "fingerprint": 1046128117,
+      "fileDateHash": 2190749345,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1046128117
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.3316795Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.2436583Z",
+      "queryTimestamp": "2017-11-11T09:39:30.265606Z",
+      "fileCount": 1,
+      "fileSize": 136082
     },
     {
       "folderName": "ReAuth-3.5.2.jar",
@@ -1349,7 +1460,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5968659Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0423803Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1502466Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2661072Z",
       "fileCount": 1,
       "fileSize": 26591
     },
@@ -1364,24 +1475,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9215857Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1336329Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1502466Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2661072Z",
       "fileCount": 1,
       "fileSize": 43154
-    },
-    {
-      "folderName": "Harvest-1.12-1.2.6-18.jar",
-      "fingerprint": 764601744,
-      "fileDateHash": 4088167728,
-      "sectionID": 6,
-      "individualFingerprints": [
-        764601744
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.3893322Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.8779428Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1507762Z",
-      "fileCount": 1,
-      "fileSize": 17269
     },
     {
       "folderName": "notenoughwands-1.12-1.5.9.jar",
@@ -1394,24 +1490,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5653015Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.407565Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1502466Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2661072Z",
       "fileCount": 1,
       "fileSize": 175270
     },
     {
-      "folderName": "CookingForBlockheads_1.12.1-6.3.6.jar",
-      "fingerprint": 3204933782,
-      "fileDateHash": 618210248,
+      "folderName": "Harvest-1.12-1.2.6-18.jar",
+      "fingerprint": 764601744,
+      "fileDateHash": 4088167728,
       "sectionID": 6,
       "individualFingerprints": [
-        3204933782
+        764601744
       ],
       "status": 1,
-      "timestamp": "2017-11-09T17:43:48.1567153Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.6442761Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1507762Z",
+      "timestamp": "2017-11-09T17:43:48.3893322Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.8779428Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2666088Z",
       "fileCount": 1,
-      "fileSize": 498147
+      "fileSize": 17269
     },
     {
       "folderName": "Mekanism-1.12.1-9.4.1.326.jar",
@@ -1424,39 +1520,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4936104Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.9992895Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1507762Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2666088Z",
       "fileCount": 1,
       "fileSize": 15906397
     },
     {
-      "folderName": "ae2stuff-0.7.0.4-mc1.12.2.jar",
-      "fingerprint": 1154015310,
-      "fileDateHash": 693613292,
+      "folderName": "CookingForBlockheads_1.12.1-6.3.6.jar",
+      "fingerprint": 3204933782,
+      "fileDateHash": 618210248,
       "sectionID": 6,
       "individualFingerprints": [
-        1154015310
+        3204933782
       ],
       "status": 1,
-      "timestamp": "2017-11-09T17:43:47.9025162Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.1192987Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1512747Z",
+      "timestamp": "2017-11-09T17:43:48.1567153Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.6442761Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2666088Z",
       "fileCount": 1,
-      "fileSize": 513374
-    },
-    {
-      "folderName": "Aroma1997Core-1.12.2-1.3.0.2.jar",
-      "fingerprint": 3001848921,
-      "fileDateHash": 3682891218,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3001848921
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:47.9205832Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.1331314Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1512747Z",
-      "fileCount": 1,
-      "fileSize": 220072
+      "fileSize": 498147
     },
     {
       "folderName": "itemzoom_1.12.1-1.10.jar",
@@ -1469,9 +1550,39 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4630092Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.349912Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1512747Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2666088Z",
       "fileCount": 1,
       "fileSize": 18528
+    },
+    {
+      "folderName": "Aroma1997Core-1.12.2-1.3.0.2.jar",
+      "fingerprint": 3001848921,
+      "fileDateHash": 3682891218,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3001848921
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:47.9205832Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.1331314Z",
+      "queryTimestamp": "2017-11-11T09:39:30.26711Z",
+      "fileCount": 1,
+      "fileSize": 220072
+    },
+    {
+      "folderName": "ae2stuff-0.7.0.4-mc1.12.2.jar",
+      "fingerprint": 1154015310,
+      "fileDateHash": 693613292,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1154015310
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:47.9025162Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.1192987Z",
+      "queryTimestamp": "2017-11-11T09:39:30.26711Z",
+      "fileCount": 1,
+      "fileSize": 513374
     },
     {
       "folderName": "FTBUtilities-4.2.2.jar",
@@ -1484,7 +1595,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3657695Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.8408442Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1517747Z",
+      "queryTimestamp": "2017-11-11T09:39:30.26711Z",
       "fileCount": 1,
       "fileSize": 721829
     },
@@ -1499,24 +1610,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6911448Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1052616Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1522762Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2676113Z",
       "fileCount": 1,
       "fileSize": 4770
-    },
-    {
-      "folderName": "LunatriusCore-1.12.2-1.2.0.42-universal.jar",
-      "fingerprint": 1145034958,
-      "fileDateHash": 4123934038,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1145034958
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T18:10:10.5462485Z",
-      "lastWriteTimeUtc": "2017-11-09T18:02:18.3052984Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0210826Z",
-      "fileCount": 1,
-      "fileSize": 76753
     },
     {
       "folderName": "extendedcrafting-1.12-1.1.2.jar",
@@ -1529,9 +1625,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.2910708Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.2245789Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1522762Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2681126Z",
       "fileCount": 1,
       "fileSize": 373469
+    },
+    {
+      "folderName": "LunatriusCore-1.12.2-1.2.0.42-universal.jar",
+      "fingerprint": 1145034958,
+      "fileDateHash": 4123934038,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1145034958
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T18:10:10.5462485Z",
+      "lastWriteTimeUtc": "2017-11-09T18:02:18.3052984Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2686144Z",
+      "fileCount": 1,
+      "fileSize": 76753
     },
     {
       "folderName": "rftools-1.12-7.13.jar",
@@ -1544,7 +1655,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6003764Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4361409Z",
-      "queryTimestamp": "2017-11-09T17:43:49.152754Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2686144Z",
       "fileCount": 1,
       "fileSize": 3328528
     },
@@ -1559,7 +1670,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1366382Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.2130471Z",
-      "queryTimestamp": "2017-11-09T17:43:49.152754Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2686144Z",
       "fileCount": 1,
       "fileSize": 671229
     },
@@ -1574,7 +1685,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9902497Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1381448Z",
-      "queryTimestamp": "2017-11-09T17:43:49.152754Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2686144Z",
       "fileCount": 1,
       "fileSize": 155196
     },
@@ -1589,24 +1700,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3898337Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.8804496Z",
-      "queryTimestamp": "2017-11-09T17:43:49.152754Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2691156Z",
       "fileCount": 1,
       "fileSize": 446660
-    },
-    {
-      "folderName": "EverlastingAbilities-1.12.2-1.3.6.jar",
-      "fingerprint": 1346848048,
-      "fileDateHash": 2469032692,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1346848048
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.2905693Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.8002372Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1537565Z",
-      "fileCount": 1,
-      "fileSize": 140343
     },
     {
       "folderName": "ExtraCells-1.12.2-2.5.1aNIGHTLY.jar",
@@ -1619,9 +1715,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.3081239Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.8258043Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1532805Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2691156Z",
       "fileCount": 1,
       "fileSize": 2313588
+    },
+    {
+      "folderName": "EverlastingAbilities-1.12.2-1.3.6.jar",
+      "fingerprint": 1346848048,
+      "fileDateHash": 2469032692,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1346848048
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.2905693Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.8002372Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2691156Z",
+      "fileCount": 1,
+      "fileSize": 140343
     },
     {
       "folderName": "Waystones_1.12.1-4.0.17.jar",
@@ -1634,7 +1745,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6956593Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1117786Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1537565Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2696169Z",
       "fileCount": 1,
       "fileSize": 126823
     },
@@ -1649,7 +1760,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.989774Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1361395Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1537565Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2696169Z",
       "fileCount": 1,
       "fileSize": 3377
     },
@@ -1664,7 +1775,7 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.5798117Z",
       "lastWriteTimeUtc": "2017-11-09T18:09:30.9873754Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0225851Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2696169Z",
       "fileCount": 1,
       "fileSize": 129753
     },
@@ -1679,7 +1790,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.0669816Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.4077926Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1542826Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2701192Z",
       "fileCount": 1,
       "fileSize": 316691
     },
@@ -1694,7 +1805,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.696157Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4918167Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1542826Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2701192Z",
       "fileCount": 1,
       "fileSize": 411541
     },
@@ -1709,7 +1820,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5973672Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0459134Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1542826Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2701192Z",
       "fileCount": 1,
       "fileSize": 518711
     },
@@ -1724,7 +1835,7 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.5281742Z",
       "lastWriteTimeUtc": "2017-11-09T18:03:30.6697815Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0235877Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2706205Z",
       "fileCount": 1,
       "fileSize": 2709585
     },
@@ -1739,7 +1850,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1637109Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6533528Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1547831Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2706205Z",
       "fileCount": 1,
       "fileSize": 4140
     },
@@ -1754,7 +1865,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1501751Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6402639Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1547831Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2706205Z",
       "fileCount": 1,
       "fileSize": 1641429
     },
@@ -1769,7 +1880,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6931514Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4877792Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1547831Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2711215Z",
       "fileCount": 1,
       "fileSize": 85096
     },
@@ -1784,7 +1895,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5597858Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3995439Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1552877Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2711215Z",
       "fileCount": 1,
       "fileSize": 113121
     },
@@ -1799,7 +1910,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.0681919Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.5045502Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1552877Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2711215Z",
       "fileCount": 1,
       "fileSize": 17374200
     },
@@ -1814,7 +1925,7 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.4965911Z",
       "lastWriteTimeUtc": "2017-11-09T18:04:08.7919702Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0245662Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2716227Z",
       "fileCount": 1,
       "fileSize": 467648
     },
@@ -1829,7 +1940,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4138781Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.2882481Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1552877Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2716227Z",
       "fileCount": 1,
       "fileSize": 862014
     },
@@ -1844,39 +1955,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.599893Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0483965Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1557859Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2721243Z",
       "fileCount": 1,
       "fileSize": 33436
-    },
-    {
-      "folderName": "Chameleon-1.12-4.1.3.jar",
-      "fingerprint": 2760206313,
-      "fileDateHash": 863752581,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2760206313
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.0664811Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.4057857Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1557859Z",
-      "fileCount": 1,
-      "fileSize": 96859
-    },
-    {
-      "folderName": "externaltweaker-1.12-0.3.jar",
-      "fingerprint": 3121577869,
-      "fileDateHash": 3215019286,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3121577869
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.2925562Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.225582Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1557859Z",
-      "fileCount": 1,
-      "fileSize": 95259
     },
     {
       "folderName": "tesla-core-lib-1.12-1.0.11.jar",
@@ -1889,9 +1970,39 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6655673Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4807828Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1557859Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2726253Z",
       "fileCount": 1,
       "fileSize": 850310
+    },
+    {
+      "folderName": "externaltweaker-1.12-0.3.jar",
+      "fingerprint": 3121577869,
+      "fileDateHash": 3215019286,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3121577869
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.2925562Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.225582Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2726253Z",
+      "fileCount": 1,
+      "fileSize": 95259
+    },
+    {
+      "folderName": "Chameleon-1.12-4.1.3.jar",
+      "fingerprint": 2760206313,
+      "fileDateHash": 863752581,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2760206313
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.0664811Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.4057857Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2726253Z",
+      "fileCount": 1,
+      "fileSize": 96859
     },
     {
       "folderName": "Traverse-1.12.1-1.3.1.jar",
@@ -1904,7 +2015,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6921468Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1072664Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1562874Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2731263Z",
       "fileCount": 1,
       "fileSize": 238337
     },
@@ -1919,7 +2030,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9907768Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1642137Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1562874Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2731263Z",
       "fileCount": 1,
       "fileSize": 5148425
     },
@@ -1934,7 +2045,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9020408Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.1266141Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1562874Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2731263Z",
       "fileCount": 1,
       "fileSize": 89966
     },
@@ -1949,7 +2060,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5547728Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0032761Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1567887Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2736276Z",
       "fileCount": 1,
       "fileSize": 338052
     },
@@ -1964,7 +2075,7 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.5527684Z",
       "lastWriteTimeUtc": "2017-11-09T18:02:18.8661094Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0260945Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2736276Z",
       "fileCount": 1,
       "fileSize": 51841
     },
@@ -1979,7 +2090,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6003764Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0488991Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1567887Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2736276Z",
       "fileCount": 1,
       "fileSize": 16612
     },
@@ -1994,7 +2105,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6861303Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1042815Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1572894Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2741291Z",
       "fileCount": 1,
       "fileSize": 636619
     },
@@ -2009,7 +2120,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1642122Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.6668802Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1572894Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2741291Z",
       "fileCount": 1,
       "fileSize": 2170511
     },
@@ -2024,7 +2135,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.1627341Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.2253768Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1572894Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2741291Z",
       "fileCount": 1,
       "fileSize": 181775
     },
@@ -2039,7 +2150,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.669081Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0814845Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1577907Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2746301Z",
       "fileCount": 1,
       "fileSize": 699167
     },
@@ -2054,24 +2165,9 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.4955891Z",
       "lastWriteTimeUtc": "2017-11-09T18:04:16.8508743Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0270986Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2746301Z",
       "fileCount": 1,
       "fileSize": 232183
-    },
-    {
-      "folderName": "extrautils2-1.12-1.6.5.jar",
-      "fingerprint": 3482846461,
-      "fileDateHash": 4046118455,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3482846461
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.3171481Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.2421254Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1577907Z",
-      "fileCount": 1,
-      "fileSize": 2769791
     },
     {
       "folderName": "MouseTweaks-2.8-mc1.12.1.jar",
@@ -2084,9 +2180,39 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5592845Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0042789Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1577907Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2746301Z",
       "fileCount": 1,
       "fileSize": 68793
+    },
+    {
+      "folderName": "extrautils2-1.12-1.6.5.jar",
+      "fingerprint": 3482846461,
+      "fileDateHash": 4046118455,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3482846461
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.3171481Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.2421254Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2746301Z",
+      "fileCount": 1,
+      "fileSize": 2769791
+    },
+    {
+      "folderName": "# LibLoader.jar",
+      "fingerprint": 16707052,
+      "fileDateHash": 2057523688,
+      "sectionID": 6,
+      "individualFingerprints": [
+        16707052
+      ],
+      "status": 1,
+      "timestamp": "2017-11-11T09:39:28.5420139Z",
+      "lastWriteTimeUtc": "2017-11-09T18:16:20.3265231Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2751316Z",
+      "fileCount": 1,
+      "fileSize": 23934
     },
     {
       "folderName": "JustEnoughResources-1.12.2-0.8.5.27.jar",
@@ -2099,7 +2225,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4745589Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.929079Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1577907Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2751316Z",
       "fileCount": 1,
       "fileSize": 213675
     },
@@ -2114,7 +2240,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4750609Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.9295802Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1582963Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2751316Z",
       "fileCount": 1,
       "fileSize": 17361
     },
@@ -2129,7 +2255,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.4640386Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3554262Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1582963Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2756329Z",
       "fileCount": 1,
       "fileSize": 54046
     },
@@ -2144,24 +2270,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.0123393Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:31.2198631Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1582963Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2756329Z",
       "fileCount": 1,
       "fileSize": 13573146
-    },
-    {
-      "folderName": "energyconverters_1.12.1-1.0.1.2.jar",
-      "fingerprint": 2817989675,
-      "fileDateHash": 1047673323,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2817989675
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.2875621Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.2190907Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1587935Z",
-      "fileCount": 1,
-      "fileSize": 158392
     },
     {
       "folderName": "ThermalExpansion-1.12-5.3.6.20-universal.jar",
@@ -2174,9 +2285,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6715843Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0915111Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1587935Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2756329Z",
       "fileCount": 1,
       "fileSize": 1876549
+    },
+    {
+      "folderName": "energyconverters_1.12.1-1.0.1.2.jar",
+      "fingerprint": 2817989675,
+      "fileDateHash": 1047673323,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2817989675
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.2875621Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.2190907Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2761344Z",
+      "fileCount": 1,
+      "fileSize": 158392
     },
     {
       "folderName": "roots-2-0.103.jar",
@@ -2189,24 +2315,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6154359Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.4446924Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1587935Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2761344Z",
       "fileCount": 1,
       "fileSize": 727822
-    },
-    {
-      "folderName": "CoFHWorld-1.12-1.0.1.8-universal.jar",
-      "fingerprint": 863957972,
-      "fileDateHash": 2489525271,
-      "sectionID": 6,
-      "individualFingerprints": [
-        863957972
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.1451869Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.622456Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1592955Z",
-      "fileCount": 1,
-      "fileSize": 395753
     },
     {
       "folderName": "WirelessCharger-1.3.0.jar",
@@ -2219,24 +2330,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.696157Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1123031Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1592955Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2761344Z",
       "fileCount": 1,
       "fileSize": 38349
     },
     {
-      "folderName": "gendustry-1.6.5.6-mc1.12.2.jar",
-      "fingerprint": 3356084156,
-      "fileDateHash": 1178093671,
+      "folderName": "CoFHWorld-1.12-1.0.1.8-universal.jar",
+      "fingerprint": 863957972,
+      "fileDateHash": 2489525271,
       "sectionID": 6,
       "individualFingerprints": [
-        3356084156
+        863957972
       ],
       "status": 1,
-      "timestamp": "2017-11-09T17:43:48.3692791Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:32.2822592Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1592955Z",
+      "timestamp": "2017-11-09T17:43:48.1451869Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.622456Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2766354Z",
       "fileCount": 1,
-      "fileSize": 1851991
+      "fileSize": 395753
     },
     {
       "folderName": "TinkerToolLeveling-1.12-1.0.2b.jar",
@@ -2249,9 +2360,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6886397Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1047828Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1592955Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2766354Z",
       "fileCount": 1,
       "fileSize": 91787
+    },
+    {
+      "folderName": "gendustry-1.6.5.6-mc1.12.2.jar",
+      "fingerprint": 3356084156,
+      "fileDateHash": 1178093671,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3356084156
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.3692791Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:32.2822592Z",
+      "queryTimestamp": "2017-11-11T09:39:30.277137Z",
+      "fileCount": 1,
+      "fileSize": 1851991
     },
     {
       "folderName": "astralsorcery-1.12.2-1.7.2.jar",
@@ -2264,7 +2390,7 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:47.9220867Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1955007Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1597965Z",
+      "queryTimestamp": "2017-11-11T09:39:30.277137Z",
       "fileCount": 1,
       "fileSize": 15184760
     },
@@ -2279,7 +2405,7 @@
       "status": 1,
       "timestamp": "2017-11-09T18:10:10.5532681Z",
       "lastWriteTimeUtc": "2017-11-09T18:04:00.3805834Z",
-      "queryTimestamp": "2017-11-09T18:10:11.0291037Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2776385Z",
       "fileCount": 1,
       "fileSize": 6822637
     },
@@ -2294,24 +2420,9 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.695154Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.1107758Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1597965Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2776385Z",
       "fileCount": 1,
       "fileSize": 78213
-    },
-    {
-      "folderName": "MCMultiPart-2.3.3.jar",
-      "fingerprint": 797909373,
-      "fileDateHash": 963869798,
-      "sectionID": 6,
-      "individualFingerprints": [
-        797909373
-      ],
-      "status": 1,
-      "timestamp": "2017-11-09T17:43:48.4931092Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.9306086Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1602733Z",
-      "fileCount": 1,
-      "fileSize": 162217
     },
     {
       "folderName": "modular-routers-1.12.1-3.0.3.jar",
@@ -2324,24 +2435,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.5567779Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.3980401Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1602733Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2776385Z",
       "fileCount": 1,
       "fileSize": 658979
     },
     {
-      "folderName": "CommonCapabilities-1.12-1.4.0.jar",
-      "fingerprint": 3884302499,
-      "fileDateHash": 504177572,
+      "folderName": "MCMultiPart-2.3.3.jar",
+      "fingerprint": 797909373,
+      "fileDateHash": 963869798,
       "sectionID": 6,
       "individualFingerprints": [
-        3884302499
+        797909373
       ],
       "status": 1,
-      "timestamp": "2017-11-09T17:43:48.1481927Z",
-      "lastWriteTimeUtc": "2017-11-09T17:43:31.6299758Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1607996Z",
+      "timestamp": "2017-11-09T17:43:48.4931092Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.9306086Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2776385Z",
       "fileCount": 1,
-      "fileSize": 77016
+      "fileSize": 162217
     },
     {
       "folderName": "StorageDrawers-1.12.1-5.3.3.jar",
@@ -2354,9 +2465,24 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.6219588Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0564176Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1602733Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2781395Z",
       "fileCount": 1,
       "fileSize": 590048
+    },
+    {
+      "folderName": "CommonCapabilities-1.12-1.4.0.jar",
+      "fingerprint": 3884302499,
+      "fileDateHash": 504177572,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3884302499
+      ],
+      "status": 1,
+      "timestamp": "2017-11-09T17:43:48.1481927Z",
+      "lastWriteTimeUtc": "2017-11-09T17:43:31.6299758Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2781395Z",
+      "fileCount": 1,
+      "fileSize": 77016
     },
     {
       "folderName": "RandomThings-MC1.12.2-4.0.8.jar",
@@ -2369,13 +2495,13 @@
       "status": 1,
       "timestamp": "2017-11-09T17:43:48.587861Z",
       "lastWriteTimeUtc": "2017-11-09T17:43:32.0413775Z",
-      "queryTimestamp": "2017-11-09T17:43:49.1607996Z",
+      "queryTimestamp": "2017-11-11T09:39:30.2781395Z",
       "fileCount": 1,
       "fileSize": 2313111
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-11-09T18:15:39.6797627Z",
+  "lastPreviousMatchUpdate": "2017-11-11T09:39:31.170011Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -2468,7 +2594,7 @@
       "dateInstalled": "2017-11-08T20:18:53.6138351Z",
       "dateUpdated": "2017-11-09T18:03:39.7444513Z",
       "dateLastUpdateAttempted": "2017-11-09T18:03:39.7444513Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2521,7 +2647,7 @@
       "dateInstalled": "2017-11-08T20:19:01.0590452Z",
       "dateUpdated": "2017-11-08T20:19:01.060048Z",
       "dateLastUpdateAttempted": "2017-11-08T20:19:01.060048Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2583,7 +2709,7 @@
       "dateInstalled": "2017-11-08T20:19:01.854509Z",
       "dateUpdated": "2017-11-08T20:19:01.8555054Z",
       "dateLastUpdateAttempted": "2017-11-08T20:19:01.8555054Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2640,7 +2766,7 @@
       "dateInstalled": "2017-11-08T20:19:09.5341704Z",
       "dateUpdated": "2017-11-08T20:19:09.5571537Z",
       "dateLastUpdateAttempted": "2017-11-08T20:19:09.5571537Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2689,7 +2815,7 @@
       "dateInstalled": "2017-11-08T20:19:31.4068611Z",
       "dateUpdated": "2017-11-08T20:19:31.4073618Z",
       "dateLastUpdateAttempted": "2017-11-08T20:19:31.4073618Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2751,7 +2877,7 @@
       "dateInstalled": "2017-11-08T20:19:41.0832418Z",
       "dateUpdated": "2017-11-08T20:19:41.0907317Z",
       "dateLastUpdateAttempted": "2017-11-08T20:19:41.0907317Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2808,7 +2934,7 @@
       "dateInstalled": "2017-11-08T20:19:48.4730158Z",
       "dateUpdated": "2017-11-08T20:19:48.4740413Z",
       "dateLastUpdateAttempted": "2017-11-08T20:19:48.4740413Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2874,7 +3000,7 @@
       "dateInstalled": "2017-11-08T20:19:57.8896175Z",
       "dateUpdated": "2017-11-08T20:19:57.9147604Z",
       "dateLastUpdateAttempted": "2017-11-08T20:19:57.9147604Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2923,7 +3049,7 @@
       "dateInstalled": "2017-11-08T20:20:05.2314Z",
       "dateUpdated": "2017-11-08T20:20:05.2324314Z",
       "dateLastUpdateAttempted": "2017-11-08T20:20:05.2324314Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2978,7 +3104,7 @@
       "dateInstalled": "2017-11-08T20:20:13.2248809Z",
       "dateUpdated": "2017-11-08T20:20:13.2264149Z",
       "dateLastUpdateAttempted": "2017-11-08T20:20:13.2264149Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3035,7 +3161,7 @@
       "dateInstalled": "2017-11-08T20:20:26.5255492Z",
       "dateUpdated": "2017-11-08T20:20:26.527531Z",
       "dateLastUpdateAttempted": "2017-11-08T20:20:26.527531Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3096,7 +3222,7 @@
       "dateInstalled": "2017-11-08T20:20:34.6665001Z",
       "dateUpdated": "2017-11-08T20:20:34.6866094Z",
       "dateLastUpdateAttempted": "2017-11-08T20:20:34.6866094Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3163,7 +3289,7 @@
       "dateInstalled": "2017-11-08T20:20:42.0620211Z",
       "dateUpdated": "2017-11-08T20:20:42.0630004Z",
       "dateLastUpdateAttempted": "2017-11-08T20:20:42.0630004Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3232,7 +3358,7 @@
       "dateInstalled": "2017-11-08T20:20:52.9535725Z",
       "dateUpdated": "2017-11-08T20:20:52.9570783Z",
       "dateLastUpdateAttempted": "2017-11-08T20:20:52.9570783Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3283,7 +3409,7 @@
       "dateInstalled": "2017-11-08T20:21:07.1627392Z",
       "dateUpdated": "2017-11-08T20:21:07.163719Z",
       "dateLastUpdateAttempted": "2017-11-08T20:21:07.163719Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3338,7 +3464,7 @@
       "dateInstalled": "2017-11-08T20:21:14.6948553Z",
       "dateUpdated": "2017-11-08T20:21:14.7099041Z",
       "dateLastUpdateAttempted": "2017-11-08T20:21:14.7099041Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3394,7 +3520,7 @@
       "dateInstalled": "2017-11-08T20:21:22.3745014Z",
       "dateUpdated": "2017-11-08T20:21:22.3760108Z",
       "dateLastUpdateAttempted": "2017-11-08T20:21:22.3760108Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3458,7 +3584,7 @@
       "dateInstalled": "2017-11-08T20:21:30.5045659Z",
       "dateUpdated": "2017-11-08T20:21:30.5055965Z",
       "dateLastUpdateAttempted": "2017-11-08T20:21:30.5055965Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3512,7 +3638,7 @@
       "dateInstalled": "2017-11-08T20:21:38.4880736Z",
       "dateUpdated": "2017-11-08T20:21:38.4885748Z",
       "dateLastUpdateAttempted": "2017-11-08T20:21:38.4885748Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3526,13 +3652,13 @@
       "addonID": 220954,
       "gameInstanceID": "7ae1920d-e672-4906-bb49-b32bb58d74cd",
       "installedFile": {
-        "Id": 2494845,
-        "FileName": "modtweaker-4.0.4",
-        "FileNameOnDisk": "modtweaker-4.0.4.jar",
-        "FileDate": "2017-10-27T21:40:59",
+        "Id": 2498616,
+        "FileName": "modtweaker-4.0.5",
+        "FileNameOnDisk": "modtweaker-4.0.5.jar",
+        "FileDate": "2017-11-10T00:28:48",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2494/845/modtweaker-4.0.4.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2498/616/modtweaker-4.0.5.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -3545,11 +3671,11 @@
         "Modules": [
           {
             "Foldername": "com",
-            "Fingerprint": 4084889789
+            "Fingerprint": 2537411070
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1619962236
+            "Fingerprint": 490925291
           },
           {
             "Foldername": "META-INF",
@@ -3560,7 +3686,7 @@
             "Fingerprint": 1420232274
           }
         ],
-        "PackageFingerprint": 2447698319,
+        "PackageFingerprint": 3855600012,
         "GameVersion": [
           "1.12.2",
           "1.12.1",
@@ -3568,8 +3694,8 @@
         ]
       },
       "dateInstalled": "2017-11-08T20:21:39.0500075Z",
-      "dateUpdated": "2017-11-08T20:21:39.0668693Z",
-      "dateLastUpdateAttempted": "2017-11-08T20:21:39.0668693Z",
+      "dateUpdated": "2017-11-11T09:39:56.8061206Z",
+      "dateLastUpdateAttempted": "2017-11-11T09:39:56.8061206Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3639,7 +3765,7 @@
       "dateInstalled": "2017-11-08T20:21:53.5682572Z",
       "dateUpdated": "2017-11-08T20:21:53.5743005Z",
       "dateLastUpdateAttempted": "2017-11-08T20:21:53.5743005Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3692,7 +3818,7 @@
       "dateInstalled": "2017-11-08T20:22:03.9539971Z",
       "dateUpdated": "2017-11-08T20:22:03.9555017Z",
       "dateLastUpdateAttempted": "2017-11-08T20:22:03.9555017Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3748,7 +3874,7 @@
       "dateInstalled": "2017-11-08T20:22:11.2664007Z",
       "dateUpdated": "2017-11-08T20:22:11.2674032Z",
       "dateLastUpdateAttempted": "2017-11-08T20:22:11.2674032Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3813,7 +3939,7 @@
       "dateInstalled": "2017-11-08T20:22:18.9540216Z",
       "dateUpdated": "2017-11-08T20:22:18.9647999Z",
       "dateLastUpdateAttempted": "2017-11-08T20:22:18.9647999Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3886,7 +4012,7 @@
       "dateInstalled": "2017-11-08T20:22:21.1964348Z",
       "dateUpdated": "2017-11-08T20:22:21.1984407Z",
       "dateLastUpdateAttempted": "2017-11-08T20:22:21.1984407Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3947,7 +4073,7 @@
       "dateInstalled": "2017-11-08T20:22:28.6159805Z",
       "dateUpdated": "2017-11-08T20:22:28.6169838Z",
       "dateLastUpdateAttempted": "2017-11-08T20:22:28.6169838Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4000,7 +4126,7 @@
       "dateInstalled": "2017-11-08T20:22:36.2497855Z",
       "dateUpdated": "2017-11-08T20:22:36.2918714Z",
       "dateLastUpdateAttempted": "2017-11-08T20:22:36.2918714Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4062,7 +4188,7 @@
       "dateInstalled": "2017-11-08T20:22:37.1545139Z",
       "dateUpdated": "2017-11-08T20:22:37.181362Z",
       "dateLastUpdateAttempted": "2017-11-08T20:22:37.181362Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4128,7 +4254,7 @@
       "dateInstalled": "2017-11-08T20:22:45.3258307Z",
       "dateUpdated": "2017-11-08T20:22:45.3273353Z",
       "dateLastUpdateAttempted": "2017-11-08T20:22:45.3273353Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4197,7 +4323,7 @@
       "dateInstalled": "2017-11-08T20:23:38.9894827Z",
       "dateUpdated": "2017-11-08T20:23:38.9925238Z",
       "dateLastUpdateAttempted": "2017-11-08T20:23:38.9925238Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4246,7 +4372,7 @@
       "dateInstalled": "2017-11-08T20:23:46.6608775Z",
       "dateUpdated": "2017-11-08T20:23:46.6618803Z",
       "dateLastUpdateAttempted": "2017-11-08T20:23:46.6618803Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4316,7 +4442,7 @@
       "dateInstalled": "2017-11-08T20:23:54.163324Z",
       "dateUpdated": "2017-11-08T20:23:54.1774609Z",
       "dateLastUpdateAttempted": "2017-11-08T20:23:54.1774609Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4369,7 +4495,7 @@
       "dateInstalled": "2017-11-08T20:24:03.6205683Z",
       "dateUpdated": "2017-11-08T20:24:03.6215974Z",
       "dateLastUpdateAttempted": "2017-11-08T20:24:03.6215974Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4431,7 +4557,7 @@
       "dateInstalled": "2017-11-08T20:24:05.103759Z",
       "dateUpdated": "2017-11-08T20:24:05.105245Z",
       "dateLastUpdateAttempted": "2017-11-08T20:24:05.105245Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4497,7 +4623,7 @@
       "dateInstalled": "2017-11-08T20:24:06.5734766Z",
       "dateUpdated": "2017-11-08T20:24:06.5750019Z",
       "dateLastUpdateAttempted": "2017-11-08T20:24:06.5750019Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4555,7 +4681,7 @@
       "dateInstalled": "2017-11-08T20:24:14.7743161Z",
       "dateUpdated": "2017-11-09T18:04:08.7935039Z",
       "dateLastUpdateAttempted": "2017-11-09T18:04:08.7935039Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4633,7 +4759,7 @@
       "dateInstalled": "2017-11-08T20:24:18.185751Z",
       "dateUpdated": "2017-11-09T18:03:12.4653282Z",
       "dateLastUpdateAttempted": "2017-11-09T18:03:12.4653282Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4688,7 +4814,7 @@
       "dateInstalled": "2017-11-08T20:24:27.3049146Z",
       "dateUpdated": "2017-11-08T20:24:27.307446Z",
       "dateLastUpdateAttempted": "2017-11-08T20:24:27.307446Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4741,7 +4867,7 @@
       "dateInstalled": "2017-11-08T20:24:34.7352044Z",
       "dateUpdated": "2017-11-08T20:24:34.7362087Z",
       "dateLastUpdateAttempted": "2017-11-08T20:24:34.7362087Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4811,7 +4937,7 @@
       "dateInstalled": "2017-11-08T20:24:42.5683668Z",
       "dateUpdated": "2017-11-08T20:24:42.5921135Z",
       "dateLastUpdateAttempted": "2017-11-08T20:24:42.5921135Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4864,7 +4990,7 @@
       "dateInstalled": "2017-11-08T20:25:32.6732897Z",
       "dateUpdated": "2017-11-08T20:25:32.6747728Z",
       "dateLastUpdateAttempted": "2017-11-08T20:25:32.6747728Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4927,7 +5053,7 @@
       "dateInstalled": "2017-11-08T20:25:43.0870161Z",
       "dateUpdated": "2017-11-08T21:03:31.4658534Z",
       "dateLastUpdateAttempted": "2017-11-08T21:03:31.4658534Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4989,7 +5115,7 @@
       "dateInstalled": "2017-11-08T20:25:43.6368669Z",
       "dateUpdated": "2017-11-08T20:25:43.637847Z",
       "dateLastUpdateAttempted": "2017-11-08T20:25:43.637847Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5058,7 +5184,7 @@
       "dateInstalled": "2017-11-08T20:25:51.4502022Z",
       "dateUpdated": "2017-11-08T20:25:51.5223101Z",
       "dateLastUpdateAttempted": "2017-11-08T20:25:51.5223101Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5119,7 +5245,7 @@
       "dateInstalled": "2017-11-08T20:25:58.9483278Z",
       "dateUpdated": "2017-11-08T20:25:59.0245309Z",
       "dateLastUpdateAttempted": "2017-11-08T20:25:59.0245309Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5172,7 +5298,7 @@
       "dateInstalled": "2017-11-08T20:26:06.804076Z",
       "dateUpdated": "2017-11-08T20:26:06.80508Z",
       "dateLastUpdateAttempted": "2017-11-08T20:26:06.80508Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5223,7 +5349,7 @@
       "dateInstalled": "2017-11-08T20:26:14.8355461Z",
       "dateUpdated": "2017-11-08T20:26:14.8365491Z",
       "dateLastUpdateAttempted": "2017-11-08T20:26:14.8365491Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5281,7 +5407,7 @@
       "dateInstalled": "2017-11-08T20:26:15.494448Z",
       "dateUpdated": "2017-11-08T20:26:15.5211921Z",
       "dateLastUpdateAttempted": "2017-11-08T20:26:15.5211921Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5341,7 +5467,7 @@
       "dateInstalled": "2017-11-08T20:26:17.3288153Z",
       "dateUpdated": "2017-11-09T18:03:30.6717878Z",
       "dateLastUpdateAttempted": "2017-11-09T18:03:30.6717878Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5410,7 +5536,7 @@
       "dateInstalled": "2017-11-08T20:26:27.7179417Z",
       "dateUpdated": "2017-11-08T20:26:27.719445Z",
       "dateLastUpdateAttempted": "2017-11-08T20:26:27.719445Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5462,7 +5588,7 @@
       "dateInstalled": "2017-11-08T20:26:43.1245114Z",
       "dateUpdated": "2017-11-08T20:26:43.1310292Z",
       "dateLastUpdateAttempted": "2017-11-08T20:26:43.1310292Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5476,13 +5602,13 @@
       "addonID": 229218,
       "gameInstanceID": "7ae1920d-e672-4906-bb49-b32bb58d74cd",
       "installedFile": {
-        "Id": 2497496,
-        "FileName": "ExtraCells-1.12.2-2.5.1",
-        "FileNameOnDisk": "ExtraCells-1.12.2-2.5.1aNIGHTLY.jar",
-        "FileDate": "2017-11-05T14:44:17",
+        "Id": 2498550,
+        "FileName": "ExtraCells-1.12.2-2.5.1a13",
+        "FileNameOnDisk": "ExtraCells-1.12.2-2.5.1a13.jar",
+        "FileDate": "2017-11-09T20:35:09",
         "ReleaseType": 3,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2497/496/ExtraCells-1.12.2-2.5.1aNIGHTLY.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2498/550/ExtraCells-1.12.2-2.5.1a13.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -5495,15 +5621,15 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 8466979
+            "Fingerprint": 536861757
           },
           {
             "Foldername": "extracells",
-            "Fingerprint": 211600051
+            "Fingerprint": 3739928043
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2376129883
+            "Fingerprint": 1242414583
           },
           {
             "Foldername": "META-INF",
@@ -5515,17 +5641,17 @@
           },
           {
             "Foldername": "version.properties",
-            "Fingerprint": 818302313
+            "Fingerprint": 1665900908
           }
         ],
-        "PackageFingerprint": 1766396739,
+        "PackageFingerprint": 421154114,
         "GameVersion": [
           "1.12.2"
         ]
       },
       "dateInstalled": "2017-11-08T20:26:58.5936129Z",
-      "dateUpdated": "2017-11-08T20:26:58.6199623Z",
-      "dateLastUpdateAttempted": "2017-11-08T20:26:58.6199623Z",
+      "dateUpdated": "2017-11-11T09:39:48.8544604Z",
+      "dateLastUpdateAttempted": "2017-11-11T09:39:48.8544604Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -5590,7 +5716,7 @@
       "dateInstalled": "2017-11-08T20:34:24.7437137Z",
       "dateUpdated": "2017-11-08T20:34:24.750233Z",
       "dateLastUpdateAttempted": "2017-11-08T20:34:24.750233Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5645,7 +5771,7 @@
       "dateInstalled": "2017-11-08T20:34:33.9691284Z",
       "dateUpdated": "2017-11-08T20:34:33.97161Z",
       "dateLastUpdateAttempted": "2017-11-08T20:34:33.97161Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5705,7 +5831,7 @@
       "dateInstalled": "2017-11-08T20:34:42.3467507Z",
       "dateUpdated": "2017-11-08T20:34:42.347754Z",
       "dateLastUpdateAttempted": "2017-11-08T20:34:42.347754Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5778,7 +5904,7 @@
       "dateInstalled": "2017-11-08T20:34:43.3674379Z",
       "dateUpdated": "2017-11-08T20:34:43.3900565Z",
       "dateLastUpdateAttempted": "2017-11-08T20:34:43.3900565Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5835,7 +5961,7 @@
       "dateInstalled": "2017-11-08T20:34:51.0344546Z",
       "dateUpdated": "2017-11-09T18:04:25.4561684Z",
       "dateLastUpdateAttempted": "2017-11-09T18:04:25.4561684Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5905,7 +6031,7 @@
       "dateInstalled": "2017-11-08T20:34:58.9031668Z",
       "dateUpdated": "2017-11-08T20:34:58.9046706Z",
       "dateLastUpdateAttempted": "2017-11-08T20:34:58.9046706Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5962,7 +6088,7 @@
       "dateInstalled": "2017-11-08T20:35:11.0900094Z",
       "dateUpdated": "2017-11-08T20:35:11.1822572Z",
       "dateLastUpdateAttempted": "2017-11-08T20:35:11.1822572Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6020,7 +6146,7 @@
       "dateInstalled": "2017-11-08T20:35:12.3391907Z",
       "dateUpdated": "2017-11-08T20:35:12.3552641Z",
       "dateLastUpdateAttempted": "2017-11-08T20:35:12.3552641Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6082,7 +6208,7 @@
       "dateInstalled": "2017-11-08T20:35:12.8861418Z",
       "dateUpdated": "2017-11-08T20:35:12.8876459Z",
       "dateLastUpdateAttempted": "2017-11-08T20:35:12.8876459Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6137,7 +6263,7 @@
       "dateInstalled": "2017-11-08T20:35:20.2397624Z",
       "dateUpdated": "2017-11-08T20:35:20.2407657Z",
       "dateLastUpdateAttempted": "2017-11-08T20:35:20.2407657Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6190,7 +6316,7 @@
       "dateInstalled": "2017-11-08T20:35:32.7672005Z",
       "dateUpdated": "2017-11-08T20:35:32.8263592Z",
       "dateLastUpdateAttempted": "2017-11-08T20:35:32.8263592Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6243,7 +6369,7 @@
       "dateInstalled": "2017-11-08T20:35:40.4468566Z",
       "dateUpdated": "2017-11-08T20:35:40.4700626Z",
       "dateLastUpdateAttempted": "2017-11-08T20:35:40.4700626Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6301,7 +6427,7 @@
       "dateInstalled": "2017-11-08T20:35:41.3323712Z",
       "dateUpdated": "2017-11-08T20:35:41.3338669Z",
       "dateLastUpdateAttempted": "2017-11-08T20:35:41.3338669Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6362,7 +6488,7 @@
       "dateInstalled": "2017-11-08T20:35:48.733281Z",
       "dateUpdated": "2017-11-08T20:35:48.8195103Z",
       "dateLastUpdateAttempted": "2017-11-08T20:35:48.8195103Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6415,7 +6541,7 @@
       "dateInstalled": "2017-11-08T20:35:56.5010427Z",
       "dateUpdated": "2017-11-08T20:35:56.5020271Z",
       "dateLastUpdateAttempted": "2017-11-08T20:35:56.5020271Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6476,7 +6602,7 @@
       "dateInstalled": "2017-11-08T20:36:04.8447151Z",
       "dateUpdated": "2017-11-08T20:36:04.8608377Z",
       "dateLastUpdateAttempted": "2017-11-08T20:36:04.8608377Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6538,7 +6664,7 @@
       "dateInstalled": "2017-11-08T20:36:06.1599717Z",
       "dateUpdated": "2017-11-08T20:36:06.2597398Z",
       "dateLastUpdateAttempted": "2017-11-08T20:36:06.2597398Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6585,7 +6711,7 @@
       "dateInstalled": "2017-11-08T20:36:14.6661718Z",
       "dateUpdated": "2017-11-08T20:36:14.6671743Z",
       "dateLastUpdateAttempted": "2017-11-08T20:36:14.6671743Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6634,7 +6760,7 @@
       "dateInstalled": "2017-11-08T20:36:34.5608743Z",
       "dateUpdated": "2017-11-08T20:36:34.5618756Z",
       "dateLastUpdateAttempted": "2017-11-08T20:36:34.5618756Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6685,7 +6811,7 @@
       "dateInstalled": "2017-11-08T20:36:45.5215416Z",
       "dateUpdated": "2017-11-08T20:36:45.5341637Z",
       "dateLastUpdateAttempted": "2017-11-08T20:36:45.5341637Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6740,7 +6866,7 @@
       "dateInstalled": "2017-11-08T20:36:53.4892355Z",
       "dateUpdated": "2017-11-09T18:04:16.8518902Z",
       "dateLastUpdateAttempted": "2017-11-09T18:04:16.8518902Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6793,7 +6919,7 @@
       "dateInstalled": "2017-11-08T20:37:04.5729411Z",
       "dateUpdated": "2017-11-08T20:37:04.5744441Z",
       "dateLastUpdateAttempted": "2017-11-08T20:37:04.5744441Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6851,7 +6977,7 @@
       "dateInstalled": "2017-11-08T20:37:12.2322817Z",
       "dateUpdated": "2017-11-08T20:37:12.2332612Z",
       "dateLastUpdateAttempted": "2017-11-08T20:37:12.2332612Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6904,7 +7030,7 @@
       "dateInstalled": "2017-11-08T20:37:26.7871276Z",
       "dateUpdated": "2017-11-08T20:37:26.7891324Z",
       "dateLastUpdateAttempted": "2017-11-08T20:37:26.7891324Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6978,7 +7104,7 @@
       "dateInstalled": "2017-11-08T20:37:34.4295623Z",
       "dateUpdated": "2017-11-08T20:37:34.4310421Z",
       "dateLastUpdateAttempted": "2017-11-08T20:37:34.4310421Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7034,7 +7160,7 @@
       "dateInstalled": "2017-11-08T20:37:45.5897824Z",
       "dateUpdated": "2017-11-08T20:37:45.5908031Z",
       "dateLastUpdateAttempted": "2017-11-08T20:37:45.5908031Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7086,7 +7212,7 @@
       "dateInstalled": "2017-11-08T20:37:59.0335045Z",
       "dateUpdated": "2017-11-08T20:37:59.0344845Z",
       "dateLastUpdateAttempted": "2017-11-08T20:37:59.0344845Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7135,7 +7261,7 @@
       "dateInstalled": "2017-11-08T20:38:21.0413733Z",
       "dateUpdated": "2017-11-08T20:38:21.0423766Z",
       "dateLastUpdateAttempted": "2017-11-08T20:38:21.0423766Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7149,13 +7275,13 @@
       "addonID": 239286,
       "gameInstanceID": "7ae1920d-e672-4906-bb49-b32bb58d74cd",
       "installedFile": {
-        "Id": 2497630,
-        "FileName": "Cyclic-1.12.2-1.9.9.jar",
-        "FileNameOnDisk": "Cyclic-1.12.2-1.9.9.jar",
-        "FileDate": "2017-11-06T02:09:35",
+        "Id": 2498679,
+        "FileName": "Cyclic-1.12.2-1.9.10.jar",
+        "FileNameOnDisk": "Cyclic-1.12.2-1.9.10.jar",
+        "FileDate": "2017-11-10T06:48:05",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2497/630/Cyclic-1.12.2-1.9.9.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2498/679/Cyclic-1.12.2-1.9.10.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -7180,29 +7306,29 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 3097398204
+            "Fingerprint": 4247502345
           },
           {
             "Foldername": "com",
-            "Fingerprint": 2538952415
+            "Fingerprint": 592958676
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2482445136
+            "Fingerprint": 3468838902
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 971880763
+            "Fingerprint": 3420108450
           }
         ],
-        "PackageFingerprint": 1643721283,
+        "PackageFingerprint": 2359068335,
         "GameVersion": [
           "1.12.2"
         ]
       },
       "dateInstalled": "2017-11-08T20:38:34.4634559Z",
-      "dateUpdated": "2017-11-08T20:38:34.46496Z",
-      "dateLastUpdateAttempted": "2017-11-08T20:38:34.46496Z",
+      "dateUpdated": "2017-11-11T09:39:40.1101835Z",
+      "dateLastUpdateAttempted": "2017-11-11T09:39:40.1101835Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -7263,7 +7389,7 @@
       "dateInstalled": "2017-11-08T20:38:43.1715834Z",
       "dateUpdated": "2017-11-08T20:38:43.1731146Z",
       "dateLastUpdateAttempted": "2017-11-08T20:38:43.1731146Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7312,60 +7438,7 @@
       "dateInstalled": "2017-11-08T20:38:50.6595728Z",
       "dateUpdated": "2017-11-08T20:38:50.6605745Z",
       "dateLastUpdateAttempted": "2017-11-08T20:38:50.6605745Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 227391,
-      "gameInstanceID": "7ae1920d-e672-4906-bb49-b32bb58d74cd",
-      "installedFile": {
-        "Id": 2467767,
-        "FileName": "ElecCore-1.12-1.8.430.jar",
-        "FileNameOnDisk": "ElecCore-1.12-1.8.430.jar",
-        "FileDate": "2017-08-22T09:50:17",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2467/767/ElecCore-1.12-1.8.430.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3874047594
-          },
-          {
-            "Foldername": "elec332",
-            "Fingerprint": 1833170548
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 705294362
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 4176902904
-          }
-        ],
-        "PackageFingerprint": 3520281015,
-        "GameVersion": [
-          "1.12.2",
-          "1.12.1",
-          "1.12"
-        ]
-      },
-      "dateInstalled": "2017-11-08T20:39:42.2206115Z",
-      "dateUpdated": "2017-11-08T20:39:42.222115Z",
-      "dateLastUpdateAttempted": "2017-11-08T20:39:42.222115Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7416,7 +7489,7 @@
       "dateInstalled": "2017-11-08T20:39:49.8573393Z",
       "dateUpdated": "2017-11-08T20:39:49.8583295Z",
       "dateLastUpdateAttempted": "2017-11-08T20:39:49.8583295Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7474,7 +7547,7 @@
       "dateInstalled": "2017-11-08T20:39:57.4647745Z",
       "dateUpdated": "2017-11-08T20:39:57.4657523Z",
       "dateLastUpdateAttempted": "2017-11-08T20:39:57.4657523Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7527,7 +7600,7 @@
       "dateInstalled": "2017-11-08T20:40:32.3688098Z",
       "dateUpdated": "2017-11-08T20:40:32.3697866Z",
       "dateLastUpdateAttempted": "2017-11-08T20:40:32.3697866Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7589,7 +7662,7 @@
       "dateInstalled": "2017-11-08T20:40:33.1352603Z",
       "dateUpdated": "2017-11-08T20:40:33.1362628Z",
       "dateLastUpdateAttempted": "2017-11-08T20:40:33.1362628Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7645,7 +7718,7 @@
       "dateInstalled": "2017-11-08T20:40:43.3621998Z",
       "dateUpdated": "2017-11-08T20:40:43.3631786Z",
       "dateLastUpdateAttempted": "2017-11-08T20:40:43.3631786Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7707,7 +7780,7 @@
       "dateInstalled": "2017-11-08T20:40:54.1234549Z",
       "dateUpdated": "2017-11-08T20:40:54.124959Z",
       "dateLastUpdateAttempted": "2017-11-08T20:40:54.124959Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7761,7 +7834,7 @@
       "dateInstalled": "2017-11-08T20:41:01.9009691Z",
       "dateUpdated": "2017-11-08T20:41:01.9019719Z",
       "dateLastUpdateAttempted": "2017-11-08T20:41:01.9019719Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7813,7 +7886,7 @@
       "dateInstalled": "2017-11-08T20:41:48.5866223Z",
       "dateUpdated": "2017-11-08T20:41:48.5876245Z",
       "dateLastUpdateAttempted": "2017-11-08T20:41:48.5876245Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7875,7 +7948,7 @@
       "dateInstalled": "2017-11-08T20:41:57.5735461Z",
       "dateUpdated": "2017-11-08T20:41:57.5745249Z",
       "dateLastUpdateAttempted": "2017-11-08T20:41:57.5745249Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7961,7 +8034,7 @@
       "dateInstalled": "2017-11-08T20:42:18.6496805Z",
       "dateUpdated": "2017-11-08T20:42:18.6511598Z",
       "dateLastUpdateAttempted": "2017-11-08T20:42:18.6511598Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8016,7 +8089,7 @@
       "dateInstalled": "2017-11-08T20:42:27.1371251Z",
       "dateUpdated": "2017-11-08T20:42:27.1381282Z",
       "dateLastUpdateAttempted": "2017-11-08T20:42:27.1381282Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8079,7 +8152,7 @@
       "dateInstalled": "2017-11-08T20:42:39.8466782Z",
       "dateUpdated": "2017-11-08T20:42:39.8496654Z",
       "dateLastUpdateAttempted": "2017-11-08T20:42:39.8496654Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8136,7 +8209,7 @@
       "dateInstalled": "2017-11-08T20:42:51.9196732Z",
       "dateUpdated": "2017-11-08T20:42:51.9211772Z",
       "dateLastUpdateAttempted": "2017-11-08T20:42:51.9211772Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8185,7 +8258,7 @@
       "dateInstalled": "2017-11-08T20:43:01.3250111Z",
       "dateUpdated": "2017-11-08T20:43:01.3260129Z",
       "dateLastUpdateAttempted": "2017-11-08T20:43:01.3260129Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8247,7 +8320,7 @@
       "dateInstalled": "2017-11-08T20:43:11.6036662Z",
       "dateUpdated": "2017-11-08T20:43:11.604669Z",
       "dateLastUpdateAttempted": "2017-11-08T20:43:11.604669Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8308,7 +8381,7 @@
       "dateInstalled": "2017-11-08T20:43:22.7827978Z",
       "dateUpdated": "2017-11-08T20:43:22.7867796Z",
       "dateLastUpdateAttempted": "2017-11-08T20:43:22.7867796Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8376,7 +8449,7 @@
       "dateInstalled": "2017-11-08T20:43:32.9415839Z",
       "dateUpdated": "2017-11-08T20:43:32.9441087Z",
       "dateLastUpdateAttempted": "2017-11-08T20:43:32.9441087Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8438,7 +8511,7 @@
       "dateInstalled": "2017-11-08T20:43:33.8581867Z",
       "dateUpdated": "2017-11-08T20:43:33.8591903Z",
       "dateLastUpdateAttempted": "2017-11-08T20:43:33.8591903Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8496,7 +8569,7 @@
       "dateInstalled": "2017-11-08T20:43:34.860083Z",
       "dateUpdated": "2017-11-09T18:03:21.3129779Z",
       "dateLastUpdateAttempted": "2017-11-09T18:03:21.3129779Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8556,7 +8629,7 @@
       "dateInstalled": "2017-11-08T20:44:02.1256882Z",
       "dateUpdated": "2017-11-08T20:44:02.1266659Z",
       "dateLastUpdateAttempted": "2017-11-08T20:44:02.1266659Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8616,7 +8689,7 @@
       "dateInstalled": "2017-11-08T20:44:23.0650714Z",
       "dateUpdated": "2017-11-08T20:44:23.0660747Z",
       "dateLastUpdateAttempted": "2017-11-08T20:44:23.0660747Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8673,7 +8746,7 @@
       "dateInstalled": "2017-11-08T20:44:30.5568555Z",
       "dateUpdated": "2017-11-08T20:44:30.5578463Z",
       "dateLastUpdateAttempted": "2017-11-08T20:44:30.5578463Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8735,7 +8808,7 @@
       "dateInstalled": "2017-11-08T20:44:38.277526Z",
       "dateUpdated": "2017-11-08T20:44:38.3617732Z",
       "dateLastUpdateAttempted": "2017-11-08T20:44:38.3617732Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8792,7 +8865,7 @@
       "dateInstalled": "2017-11-08T20:44:46.1029601Z",
       "dateUpdated": "2017-11-08T20:44:46.1039844Z",
       "dateLastUpdateAttempted": "2017-11-08T20:44:46.1039844Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8867,7 +8940,7 @@
       "dateInstalled": "2017-11-08T20:46:17.209523Z",
       "dateUpdated": "2017-11-08T20:46:17.2115258Z",
       "dateLastUpdateAttempted": "2017-11-08T20:46:17.2115258Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8931,7 +9004,7 @@
       "dateInstalled": "2017-11-08T20:46:18.5500963Z",
       "dateUpdated": "2017-11-08T20:46:18.5516004Z",
       "dateLastUpdateAttempted": "2017-11-08T20:46:18.5516004Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8980,7 +9053,7 @@
       "dateInstalled": "2017-11-08T20:46:31.7892926Z",
       "dateUpdated": "2017-11-08T20:46:31.7902962Z",
       "dateLastUpdateAttempted": "2017-11-08T20:46:31.7902962Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9033,7 +9106,7 @@
       "dateInstalled": "2017-11-08T20:47:09.9335283Z",
       "dateUpdated": "2017-11-08T20:47:09.9345309Z",
       "dateLastUpdateAttempted": "2017-11-08T20:47:09.9345309Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9095,7 +9168,7 @@
       "dateInstalled": "2017-11-08T20:49:12.483312Z",
       "dateUpdated": "2017-11-08T20:49:12.4843146Z",
       "dateLastUpdateAttempted": "2017-11-08T20:49:12.4843146Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9150,7 +9223,7 @@
       "dateInstalled": "2017-11-08T20:49:28.8375798Z",
       "dateUpdated": "2017-11-08T20:49:28.8385828Z",
       "dateLastUpdateAttempted": "2017-11-08T20:49:28.8385828Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9211,7 +9284,7 @@
       "dateInstalled": "2017-11-08T20:49:37.0424123Z",
       "dateUpdated": "2017-11-08T20:49:37.0434146Z",
       "dateLastUpdateAttempted": "2017-11-08T20:49:37.0434146Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9277,7 +9350,7 @@
       "dateInstalled": "2017-11-08T20:49:37.7160555Z",
       "dateUpdated": "2017-11-08T20:49:37.717059Z",
       "dateLastUpdateAttempted": "2017-11-08T20:49:37.717059Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9339,7 +9412,7 @@
       "dateInstalled": "2017-11-08T20:49:48.5859327Z",
       "dateUpdated": "2017-11-08T20:49:48.5874631Z",
       "dateLastUpdateAttempted": "2017-11-08T20:49:48.5874631Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9397,7 +9470,7 @@
       "dateInstalled": "2017-11-08T20:50:01.1602246Z",
       "dateUpdated": "2017-11-08T20:50:01.1621743Z",
       "dateLastUpdateAttempted": "2017-11-08T20:50:01.1621743Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9411,13 +9484,13 @@
       "addonID": 237903,
       "gameInstanceID": "7ae1920d-e672-4906-bb49-b32bb58d74cd",
       "installedFile": {
-        "Id": 2496245,
-        "FileName": "RebornCore-1.12.2-3.4.10.147-universal.jar",
-        "FileNameOnDisk": "RebornCore-1.12.2-3.4.10.147-universal.jar",
-        "FileDate": "2017-11-01T13:20:40",
+        "Id": 2498706,
+        "FileName": "RebornCore-1.12.2-3.4.11.153-universal.jar",
+        "FileNameOnDisk": "RebornCore-1.12.2-3.4.11.153-universal.jar",
+        "FileDate": "2017-11-10T09:57:40",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2496/245/RebornCore-1.12.2-3.4.10.147-universal.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2498/706/RebornCore-1.12.2-3.4.11.153-universal.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -9425,7 +9498,7 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 1623506908
+            "Fingerprint": 3131406214
           },
           {
             "Foldername": "logo.png",
@@ -9433,11 +9506,11 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 3365604850
+            "Fingerprint": 170407203
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 4192574655
+            "Fingerprint": 2690438240
           },
           {
             "Foldername": "powercrystals",
@@ -9449,10 +9522,10 @@
           },
           {
             "Foldername": "reborncore",
-            "Fingerprint": 1542675603
+            "Fingerprint": 1259308328
           }
         ],
-        "PackageFingerprint": 1633906915,
+        "PackageFingerprint": 4166978151,
         "GameVersion": [
           "1.12.2",
           "1.12.1",
@@ -9460,8 +9533,8 @@
         ]
       },
       "dateInstalled": "2017-11-08T20:50:11.7670109Z",
-      "dateUpdated": "2017-11-08T20:50:11.7684917Z",
-      "dateLastUpdateAttempted": "2017-11-08T20:50:11.7684917Z",
+      "dateUpdated": "2017-11-11T09:40:04.4975982Z",
+      "dateLastUpdateAttempted": "2017-11-11T09:40:04.4975982Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -9519,7 +9592,7 @@
       "dateInstalled": "2017-11-08T20:50:12.3436812Z",
       "dateUpdated": "2017-11-08T20:50:12.344684Z",
       "dateLastUpdateAttempted": "2017-11-08T20:50:12.344684Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9584,7 +9657,7 @@
       "dateInstalled": "2017-11-08T20:50:20.9524376Z",
       "dateUpdated": "2017-11-09T18:03:48.9185067Z",
       "dateLastUpdateAttempted": "2017-11-09T18:03:48.9185067Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9649,7 +9722,7 @@
       "dateInstalled": "2017-11-08T20:50:30.8987052Z",
       "dateUpdated": "2017-11-08T20:50:30.9007369Z",
       "dateLastUpdateAttempted": "2017-11-08T20:50:30.9007369Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9698,7 +9771,7 @@
       "dateInstalled": "2017-11-08T20:50:49.3686808Z",
       "dateUpdated": "2017-11-08T20:50:49.3696831Z",
       "dateLastUpdateAttempted": "2017-11-08T20:50:49.3696831Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9756,7 +9829,7 @@
       "dateInstalled": "2017-11-08T20:51:03.9428744Z",
       "dateUpdated": "2017-11-08T20:51:03.9438767Z",
       "dateLastUpdateAttempted": "2017-11-08T20:51:03.9438767Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9808,7 +9881,7 @@
       "dateInstalled": "2017-11-08T20:51:23.3983267Z",
       "dateUpdated": "2017-11-08T20:51:23.3998384Z",
       "dateLastUpdateAttempted": "2017-11-08T20:51:23.3998384Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9822,13 +9895,13 @@
       "addonID": 59652,
       "gameInstanceID": "7ae1920d-e672-4906-bb49-b32bb58d74cd",
       "installedFile": {
-        "Id": 2496182,
-        "FileName": "secretroomsmod-2.0.0.jar",
-        "FileNameOnDisk": "secretroomsmod-2.0.0.jar",
-        "FileDate": "2017-11-01T03:05:14",
-        "ReleaseType": 2,
+        "Id": 2498912,
+        "FileName": "secretroomsmod-5.1.0.jar",
+        "FileNameOnDisk": "secretroomsmod-5.1.0.jar",
+        "FileDate": "2017-11-10T23:03:47",
+        "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2496/182/secretroomsmod-2.0.0.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2498/912/secretroomsmod-5.1.0.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -9836,15 +9909,15 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 58958702
+            "Fingerprint": 1403522976
           },
           {
             "Foldername": "com",
-            "Fingerprint": 1306227813
+            "Fingerprint": 872753567
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2665678375
+            "Fingerprint": 2457124788
           },
           {
             "Foldername": "META-INF",
@@ -9855,14 +9928,14 @@
             "Fingerprint": 3273911401
           }
         ],
-        "PackageFingerprint": 71824906,
+        "PackageFingerprint": 385143787,
         "GameVersion": [
           "1.12.2"
         ]
       },
       "dateInstalled": "2017-11-08T20:51:32.0151545Z",
-      "dateUpdated": "2017-11-08T20:51:32.016166Z",
-      "dateLastUpdateAttempted": "2017-11-08T20:51:32.016166Z",
+      "dateUpdated": "2017-11-11T09:40:12.6182546Z",
+      "dateLastUpdateAttempted": "2017-11-11T09:40:12.6182546Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -9912,7 +9985,7 @@
       "dateInstalled": "2017-11-08T20:52:03.1753922Z",
       "dateUpdated": "2017-11-08T20:52:03.1764175Z",
       "dateLastUpdateAttempted": "2017-11-08T20:52:03.1764175Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9964,7 +10037,7 @@
       "dateInstalled": "2017-11-08T20:52:10.7486142Z",
       "dateUpdated": "2017-11-08T20:52:10.749619Z",
       "dateLastUpdateAttempted": "2017-11-08T20:52:10.749619Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10032,7 +10105,7 @@
       "dateInstalled": "2017-11-08T20:52:24.9215142Z",
       "dateUpdated": "2017-11-08T20:52:24.9225099Z",
       "dateLastUpdateAttempted": "2017-11-08T20:52:24.9225099Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10098,7 +10171,7 @@
       "dateInstalled": "2017-11-08T20:53:35.2132802Z",
       "dateUpdated": "2017-11-09T18:04:00.3855703Z",
       "dateLastUpdateAttempted": "2017-11-09T18:04:00.3855703Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10184,7 +10257,7 @@
       "dateInstalled": "2017-11-08T20:53:49.9472734Z",
       "dateUpdated": "2017-11-08T20:53:49.9487772Z",
       "dateLastUpdateAttempted": "2017-11-08T20:53:49.9487772Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10233,7 +10306,7 @@
       "dateInstalled": "2017-11-08T20:55:08.8840593Z",
       "dateUpdated": "2017-11-08T20:55:08.8850621Z",
       "dateLastUpdateAttempted": "2017-11-08T20:55:08.8850621Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10290,7 +10363,7 @@
       "dateInstalled": "2017-11-08T20:55:20.3952174Z",
       "dateUpdated": "2017-11-08T20:55:20.3962194Z",
       "dateLastUpdateAttempted": "2017-11-08T20:55:20.3962194Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10351,7 +10424,7 @@
       "dateInstalled": "2017-11-08T20:55:29.5635166Z",
       "dateUpdated": "2017-11-08T20:55:29.5650209Z",
       "dateLastUpdateAttempted": "2017-11-08T20:55:29.5650209Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10402,7 +10475,7 @@
       "dateInstalled": "2017-11-08T20:55:39.0282179Z",
       "dateUpdated": "2017-11-08T20:55:39.0292051Z",
       "dateLastUpdateAttempted": "2017-11-08T20:55:39.0292051Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10458,7 +10531,7 @@
       "dateInstalled": "2017-11-08T20:55:39.6990243Z",
       "dateUpdated": "2017-11-08T20:55:39.7000294Z",
       "dateLastUpdateAttempted": "2017-11-08T20:55:39.7000294Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10515,7 +10588,7 @@
       "dateInstalled": "2017-11-08T20:55:59.6185895Z",
       "dateUpdated": "2017-11-08T20:55:59.6190913Z",
       "dateLastUpdateAttempted": "2017-11-08T20:55:59.6190913Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10573,7 +10646,7 @@
       "dateInstalled": "2017-11-08T20:56:23.6355267Z",
       "dateUpdated": "2017-11-08T20:56:23.6365535Z",
       "dateLastUpdateAttempted": "2017-11-08T20:56:23.6365535Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10637,7 +10710,7 @@
       "dateInstalled": "2017-11-08T20:56:34.824816Z",
       "dateUpdated": "2017-11-08T20:56:34.8263206Z",
       "dateLastUpdateAttempted": "2017-11-08T20:56:34.8263206Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10689,7 +10762,7 @@
       "dateInstalled": "2017-11-08T20:56:42.7196525Z",
       "dateUpdated": "2017-11-08T20:56:42.7206668Z",
       "dateLastUpdateAttempted": "2017-11-08T20:56:42.7206668Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10746,7 +10819,7 @@
       "dateInstalled": "2017-11-08T20:56:52.7404544Z",
       "dateUpdated": "2017-11-08T20:56:52.8322214Z",
       "dateLastUpdateAttempted": "2017-11-08T20:56:52.8322214Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10799,7 +10872,7 @@
       "dateInstalled": "2017-11-08T20:58:24.9506745Z",
       "dateUpdated": "2017-11-08T20:58:24.9516773Z",
       "dateLastUpdateAttempted": "2017-11-08T20:58:24.9516773Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10861,7 +10934,7 @@
       "dateInstalled": "2017-11-08T21:01:29.4456164Z",
       "dateUpdated": "2017-11-08T21:01:29.4465804Z",
       "dateLastUpdateAttempted": "2017-11-08T21:01:29.4465804Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11473,7 +11546,7 @@
       "dateInstalled": "2017-11-09T18:02:18.30633Z",
       "dateUpdated": "2017-11-09T18:02:18.3093346Z",
       "dateLastUpdateAttempted": "2017-11-09T18:02:18.3093346Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11533,7 +11606,7 @@
       "dateInstalled": "2017-11-09T18:02:18.8661094Z",
       "dateUpdated": "2017-11-09T18:02:18.8670887Z",
       "dateLastUpdateAttempted": "2017-11-09T18:02:18.8670887Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11582,7 +11655,7 @@
       "dateInstalled": "2017-11-09T18:02:56.2837514Z",
       "dateUpdated": "2017-11-09T18:02:56.2847552Z",
       "dateLastUpdateAttempted": "2017-11-09T18:02:56.2847552Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
