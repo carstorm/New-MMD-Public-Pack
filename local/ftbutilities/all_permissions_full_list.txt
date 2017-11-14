@@ -1,4 +1,4 @@
-12551 nodes in total
+12602 nodes in total
 
 block.tap: ALL
 block.wrench: ALL
@@ -192,6 +192,7 @@ command.ftb.edit_config.mysticalagriculture: CMD
 command.ftb.edit_config.mysticalagriculture_recipes: CMD
 command.ftb.edit_config.notenoughwands: CMD
 command.ftb.edit_config.oreexcavation: CMD
+command.ftb.edit_config.packmode: CMD
 command.ftb.edit_config.platforms: CMD
 command.ftb.edit_config.plethora-core: CMD
 command.ftb.edit_config.plethora: CMD
@@ -205,6 +206,7 @@ command.ftb.edit_config.recipehandler: CMD
 command.ftb.edit_config.rftools\control: CMD
 command.ftb.edit_config.rftools\rftools: CMD
 command.ftb.edit_config.roots: CMD
+command.ftb.edit_config.secretroomsmod: CMD
 command.ftb.edit_config.shetiphiancore: CMD
 command.ftb.edit_config.solarfluxreborn\BlackHoleStorage: CMD
 command.ftb.edit_config.solarfluxreborn\DraconicEvolution: CMD
@@ -299,6 +301,7 @@ command.locate: CMD
 command.me: CMD
 command.mk: CMD
 command.oredistribution: CMD
+command.packmode: CMD
 command.particle: CMD
 command.ping: CMD
 command.playsound: CMD
@@ -3438,7 +3441,24 @@ ftbu.claims.block.edit.roots.terra_moss: OP
 ftbu.claims.block.edit.roots.thatch: OP
 ftbu.claims.block.edit.roots.wildroot: OP
 ftbu.claims.block.edit.secretroomsmod.ghost_block: OP
+ftbu.claims.block.edit.secretroomsmod.one_way_glass: OP
 ftbu.claims.block.edit.secretroomsmod.secret_chest: OP
+ftbu.claims.block.edit.secretroomsmod.secret_dispenser: OP
+ftbu.claims.block.edit.secretroomsmod.secret_gate: OP
+ftbu.claims.block.edit.secretroomsmod.secret_gate_block: OP
+ftbu.claims.block.edit.secretroomsmod.secret_heavy_pressure_plate: OP
+ftbu.claims.block.edit.secretroomsmod.secret_iron_trapdoor: OP
+ftbu.claims.block.edit.secretroomsmod.secret_lever: OP
+ftbu.claims.block.edit.secretroomsmod.secret_light_detector: OP
+ftbu.claims.block.edit.secretroomsmod.secret_light_pressure_plate: OP
+ftbu.claims.block.edit.secretroomsmod.secret_player_pressure_plate: OP
+ftbu.claims.block.edit.secretroomsmod.secret_pressure_plate: OP
+ftbu.claims.block.edit.secretroomsmod.secret_redstone: OP
+ftbu.claims.block.edit.secretroomsmod.secret_stairs: OP
+ftbu.claims.block.edit.secretroomsmod.secret_stone_button: OP
+ftbu.claims.block.edit.secretroomsmod.secret_trapped_chest: OP
+ftbu.claims.block.edit.secretroomsmod.secret_wooden_button: OP
+ftbu.claims.block.edit.secretroomsmod.secret_wooden_trapdoor: OP
 ftbu.claims.block.edit.secretroomsmod.solid_air: OP
 ftbu.claims.block.edit.secretroomsmod.torch_lever: OP
 ftbu.claims.block.edit.solarfluxreborn.solar0: OP
@@ -6846,7 +6866,24 @@ ftbu.claims.block.interact.roots.terra_moss: OP
 ftbu.claims.block.interact.roots.thatch: OP
 ftbu.claims.block.interact.roots.wildroot: OP
 ftbu.claims.block.interact.secretroomsmod.ghost_block: OP
+ftbu.claims.block.interact.secretroomsmod.one_way_glass: OP
 ftbu.claims.block.interact.secretroomsmod.secret_chest: OP
+ftbu.claims.block.interact.secretroomsmod.secret_dispenser: OP
+ftbu.claims.block.interact.secretroomsmod.secret_gate: OP
+ftbu.claims.block.interact.secretroomsmod.secret_gate_block: OP
+ftbu.claims.block.interact.secretroomsmod.secret_heavy_pressure_plate: OP
+ftbu.claims.block.interact.secretroomsmod.secret_iron_trapdoor: OP
+ftbu.claims.block.interact.secretroomsmod.secret_lever: OP
+ftbu.claims.block.interact.secretroomsmod.secret_light_detector: OP
+ftbu.claims.block.interact.secretroomsmod.secret_light_pressure_plate: OP
+ftbu.claims.block.interact.secretroomsmod.secret_player_pressure_plate: OP
+ftbu.claims.block.interact.secretroomsmod.secret_pressure_plate: OP
+ftbu.claims.block.interact.secretroomsmod.secret_redstone: OP
+ftbu.claims.block.interact.secretroomsmod.secret_stairs: OP
+ftbu.claims.block.interact.secretroomsmod.secret_stone_button: OP
+ftbu.claims.block.interact.secretroomsmod.secret_trapped_chest: OP
+ftbu.claims.block.interact.secretroomsmod.secret_wooden_button: OP
+ftbu.claims.block.interact.secretroomsmod.secret_wooden_trapdoor: OP
 ftbu.claims.block.interact.secretroomsmod.solid_air: OP
 ftbu.claims.block.interact.secretroomsmod.torch_lever: OP
 ftbu.claims.block.interact.solarfluxreborn.solar0: OP
@@ -12132,9 +12169,26 @@ ftbu.claims.item.secretroomsmod.camouflage_paste: ALL
 ftbu.claims.item.secretroomsmod.diamond_exposing_helmet: ALL
 ftbu.claims.item.secretroomsmod.ghost_block: ALL
 ftbu.claims.item.secretroomsmod.iron_exposing_helmet: ALL
+ftbu.claims.item.secretroomsmod.one_way_glass: ALL
+ftbu.claims.item.secretroomsmod.programmable_switch_probe: ALL
 ftbu.claims.item.secretroomsmod.secret_chest: ALL
+ftbu.claims.item.secretroomsmod.secret_dispenser: ALL
+ftbu.claims.item.secretroomsmod.secret_gate: ALL
+ftbu.claims.item.secretroomsmod.secret_heavy_pressure_plate: ALL
 ftbu.claims.item.secretroomsmod.secret_iron_door: ALL
+ftbu.claims.item.secretroomsmod.secret_iron_trapdoor: ALL
+ftbu.claims.item.secretroomsmod.secret_lever: ALL
+ftbu.claims.item.secretroomsmod.secret_light_detector: ALL
+ftbu.claims.item.secretroomsmod.secret_light_pressure_plate: ALL
+ftbu.claims.item.secretroomsmod.secret_player_pressure_plate: ALL
+ftbu.claims.item.secretroomsmod.secret_pressure_plate: ALL
+ftbu.claims.item.secretroomsmod.secret_redstone: ALL
+ftbu.claims.item.secretroomsmod.secret_stairs: ALL
+ftbu.claims.item.secretroomsmod.secret_stone_button: ALL
+ftbu.claims.item.secretroomsmod.secret_trapped_chest: ALL
+ftbu.claims.item.secretroomsmod.secret_wooden_button: ALL
 ftbu.claims.item.secretroomsmod.secret_wooden_door: ALL
+ftbu.claims.item.secretroomsmod.secret_wooden_trapdoor: ALL
 ftbu.claims.item.secretroomsmod.solid_air: ALL
 ftbu.claims.item.secretroomsmod.switch_probe: ALL
 ftbu.claims.item.secretroomsmod.torch_lever: ALL
