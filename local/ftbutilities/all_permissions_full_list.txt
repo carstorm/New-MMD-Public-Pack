@@ -1,4 +1,4 @@
-12602 nodes in total
+12618 nodes in total
 
 block.tap: ALL
 block.wrench: ALL
@@ -100,6 +100,9 @@ command.ftb.edit_config.appleskin: CMD
 command.ftb.edit_config.aroma1997\aroma1997core: CMD
 command.ftb.edit_config.aroma1997\aroma1997sdimension: CMD
 command.ftb.edit_config.astralsorcery: CMD
+command.ftb.edit_config.astralsorcery\aevitas_ore_perk: CMD
+command.ftb.edit_config.astralsorcery\mineralis_ritual: CMD
+command.ftb.edit_config.astralsorcery\treasure_shrine: CMD
 command.ftb.edit_config.badwithernocookie: CMD
 command.ftb.edit_config.baubles: CMD
 command.ftb.edit_config.betterbuilderswands: CMD
@@ -284,6 +287,7 @@ command.givetemplate: CMD
 command.hc_buildstr: CMD
 command.hc_loadchunk: CMD
 command.hc_postolong: CMD
+command.hc_setenchcol: CMD
 command.hc_timetoticks: CMD
 command.hc_tpx: CMD
 command.help: CMD
@@ -713,6 +717,8 @@ ftbu.claims.block.edit.astralsorcery.blockaltar: OP
 ftbu.claims.block.edit.astralsorcery.blockattunementaltar: OP
 ftbu.claims.block.edit.astralsorcery.blockattunementrelay: OP
 ftbu.claims.block.edit.astralsorcery.blockblackmarble: OP
+ftbu.claims.block.edit.astralsorcery.blockbore: OP
+ftbu.claims.block.edit.astralsorcery.blockborehead: OP
 ftbu.claims.block.edit.astralsorcery.blockcelestialcollectorcrystal: OP
 ftbu.claims.block.edit.astralsorcery.blockcelestialcrystals: OP
 ftbu.claims.block.edit.astralsorcery.blockcelestialgateway: OP
@@ -2315,6 +2321,7 @@ ftbu.claims.block.edit.industrialforegoing.enchantment_invoker: OP
 ftbu.claims.block.edit.industrialforegoing.enchantment_refiner: OP
 ftbu.claims.block.edit.industrialforegoing.energy_field_provider: OP
 ftbu.claims.block.edit.industrialforegoing.essence: OP
+ftbu.claims.block.edit.industrialforegoing.fluid_pump: OP
 ftbu.claims.block.edit.industrialforegoing.hydrator: OP
 ftbu.claims.block.edit.industrialforegoing.if.pink_slime: OP
 ftbu.claims.block.edit.industrialforegoing.if.protein: OP
@@ -2736,6 +2743,7 @@ ftbu.claims.block.edit.minecraft.yellow_shulker_box: OP
 ftbu.claims.block.edit.modularrouters.item_router: OP
 ftbu.claims.block.edit.modularrouters.template_frame: OP
 ftbu.claims.block.edit.mysticalagradditions.awakened_draconium_crop: OP
+ftbu.claims.block.edit.mysticalagradditions.dragon_egg_crop: OP
 ftbu.claims.block.edit.mysticalagradditions.molten_base_essence: OP
 ftbu.claims.block.edit.mysticalagradditions.molten_inferium: OP
 ftbu.claims.block.edit.mysticalagradditions.molten_intermedium: OP
@@ -4138,6 +4146,8 @@ ftbu.claims.block.interact.astralsorcery.blockaltar: OP
 ftbu.claims.block.interact.astralsorcery.blockattunementaltar: OP
 ftbu.claims.block.interact.astralsorcery.blockattunementrelay: OP
 ftbu.claims.block.interact.astralsorcery.blockblackmarble: OP
+ftbu.claims.block.interact.astralsorcery.blockbore: OP
+ftbu.claims.block.interact.astralsorcery.blockborehead: OP
 ftbu.claims.block.interact.astralsorcery.blockcelestialcollectorcrystal: OP
 ftbu.claims.block.interact.astralsorcery.blockcelestialcrystals: OP
 ftbu.claims.block.interact.astralsorcery.blockcelestialgateway: OP
@@ -5740,6 +5750,7 @@ ftbu.claims.block.interact.industrialforegoing.enchantment_invoker: OP
 ftbu.claims.block.interact.industrialforegoing.enchantment_refiner: OP
 ftbu.claims.block.interact.industrialforegoing.energy_field_provider: OP
 ftbu.claims.block.interact.industrialforegoing.essence: OP
+ftbu.claims.block.interact.industrialforegoing.fluid_pump: OP
 ftbu.claims.block.interact.industrialforegoing.hydrator: OP
 ftbu.claims.block.interact.industrialforegoing.if.pink_slime: OP
 ftbu.claims.block.interact.industrialforegoing.if.protein: OP
@@ -6161,6 +6172,7 @@ ftbu.claims.block.interact.minecraft.yellow_shulker_box: OP
 ftbu.claims.block.interact.modularrouters.item_router: OP
 ftbu.claims.block.interact.modularrouters.template_frame: OP
 ftbu.claims.block.interact.mysticalagradditions.awakened_draconium_crop: OP
+ftbu.claims.block.interact.mysticalagradditions.dragon_egg_crop: OP
 ftbu.claims.block.interact.mysticalagradditions.molten_base_essence: OP
 ftbu.claims.block.interact.mysticalagradditions.molten_inferium: OP
 ftbu.claims.block.interact.mysticalagradditions.molten_intermedium: OP
@@ -7947,6 +7959,8 @@ ftbu.claims.item.astralsorcery.blockaltar: ALL
 ftbu.claims.item.astralsorcery.blockattunementaltar: ALL
 ftbu.claims.item.astralsorcery.blockattunementrelay: ALL
 ftbu.claims.item.astralsorcery.blockblackmarble: ALL
+ftbu.claims.item.astralsorcery.blockbore: ALL
+ftbu.claims.item.astralsorcery.blockborehead: ALL
 ftbu.claims.item.astralsorcery.blockcelestialcollectorcrystal: ALL
 ftbu.claims.item.astralsorcery.blockcelestialcrystals: ALL
 ftbu.claims.item.astralsorcery.blockcelestialgateway: ALL
@@ -9190,6 +9204,7 @@ ftbu.claims.item.extracells.ecbaseblock: ALL
 ftbu.claims.item.extracells.fluid.item: ALL
 ftbu.claims.item.extracells.fluidcrafter: ALL
 ftbu.claims.item.extracells.fluidfiller: ALL
+ftbu.claims.item.extracells.gas.item: ALL
 ftbu.claims.item.extracells.hardmedrive: ALL
 ftbu.claims.item.extracells.oc.upgrade: ALL
 ftbu.claims.item.extracells.part.base: ALL
@@ -10346,6 +10361,7 @@ ftbu.claims.item.industrialforegoing.enchantment_refiner: ALL
 ftbu.claims.item.industrialforegoing.energy_field_addon: ALL
 ftbu.claims.item.industrialforegoing.energy_field_provider: ALL
 ftbu.claims.item.industrialforegoing.fertilizer: ALL
+ftbu.claims.item.industrialforegoing.fluid_pump: ALL
 ftbu.claims.item.industrialforegoing.hydrator: ALL
 ftbu.claims.item.industrialforegoing.item_splitter: ALL
 ftbu.claims.item.industrialforegoing.laser_base: ALL
@@ -11020,6 +11036,10 @@ ftbu.claims.item.modularrouters.upgrade: ALL
 ftbu.claims.item.mysticalagradditions.awakened_draconium_crop: ALL
 ftbu.claims.item.mysticalagradditions.awakened_draconium_essence: ALL
 ftbu.claims.item.mysticalagradditions.awakened_draconium_seeds: ALL
+ftbu.claims.item.mysticalagradditions.charm: ALL
+ftbu.claims.item.mysticalagradditions.dragon_egg_crop: ALL
+ftbu.claims.item.mysticalagradditions.dragon_egg_essence: ALL
+ftbu.claims.item.mysticalagradditions.dragon_egg_seeds: ALL
 ftbu.claims.item.mysticalagradditions.inferium_paxel: ALL
 ftbu.claims.item.mysticalagradditions.insanium: ALL
 ftbu.claims.item.mysticalagradditions.intermedium_paxel: ALL

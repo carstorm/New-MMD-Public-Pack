@@ -95,7 +95,6 @@ key_keybind.baublesinventory:48
 key_key.xu2.searchForItems:20
 key_key.aovbar:56
 key_psimisc.keybind:46
-key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -103,6 +102,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.toggleAutojump:48
 key_quark.emote.no:0
 key_quark.emote.yes:0
@@ -121,6 +121,7 @@ key_key.ftbu.guide:0
 key_key.ftbu.warp:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
+key_key.secretroomsmod.oneWayface:43
 key_key.thebomplugin.scrollmodifier:56
 key_key.xtones.scroll:42
 key_key.jei.toggleOverlay:24:CONTROL
@@ -204,7 +205,7 @@ key_Mekanism Feet Mode Switch:35
 key_Mekanism Voice:22
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
 key_key.integrateddynamics.logic_programmer_open_rename:19:ALT
-key_invtweaks.key.sort:19
+key_invtweaks.key.sort:14
 key_key.itemzoom.toggle:44:SHIFT
 key_key.itemzoom.hold:0
 key_key.itemzoom.zoom.in:0
