@@ -1,2 +1,5 @@
-/logs*
-/crash-reports*
+journeymap/*
+saves/*
+usernamecache.json
+usercache.json
+logs/*
