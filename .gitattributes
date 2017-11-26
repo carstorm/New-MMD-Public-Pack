@@ -1,7 +1,10 @@
 *.cfg eol=crlf
-*.ini eol=crlf
-*.recipe eol=crlf
+*.csv eol=crlf
 *.config eol=crlf
+*.ini eol=crlf
 *.json eol=crlf
-*.xml eol=crlf
+*.log eol=crlf
 *.properties eol=crlf
+*.recipe eol=crlf
+*.txt eol=crlf
+*.xml eol=crlf
