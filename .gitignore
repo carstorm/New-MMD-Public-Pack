@@ -3,3 +3,5 @@ saves/*
 usernamecache.json
 usercache.json
 logs/*
+options.txt
+crash-reports/*
