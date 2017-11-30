@@ -1,4 +1,5 @@
-12618 nodes in total
+12636 nodes in total
+Modifying this file won't have any effect!
 
 block.tap: ALL
 block.wrench: ALL
@@ -19,6 +20,9 @@ command.botania-share: CMD
 command.clear: CMD
 command.clone: CMD
 command.cofh: CMD
+command.cofhworld.list: CMD
+command.cofhworld.reload: CMD
+command.cofhworld: CMD
 command.colossalchests: CMD
 command.commoncapabilities: CMD
 command.compactmachines3: CMD
@@ -167,6 +171,7 @@ command.ftb.edit_config.forgeChunkLoading: CMD
 command.ftb.edit_config.funkylocomotion: CMD
 command.ftb.edit_config.gravestone: CMD
 command.ftb.edit_config.hammercore: CMD
+command.ftb.edit_config.igwmod: CMD
 command.ftb.edit_config.immersiveengineering: CMD
 command.ftb.edit_config.immersivepetroleum: CMD
 command.ftb.edit_config.industrialforegoing: CMD
@@ -365,7 +370,6 @@ command.xnetrebuild: CMD
 command.xp: CMD
 command.xudebug: CMD
 cyclic.player.modify: ALL
-ftbl.op_buttons: OP
 ftbu.back.infinite: NONE
 ftbu.chunkloader.load_offline: ALL
 ftbu.claims.allow_disable_explosions: ALL
@@ -1297,6 +1301,7 @@ ftbu.claims.block.edit.colossalchests.uncolossal_chest: OP
 ftbu.claims.block.edit.compactmachines3.craftinghologram: OP
 ftbu.claims.block.edit.compactmachines3.fieldprojector: OP
 ftbu.claims.block.edit.compactmachines3.machine: OP
+ftbu.claims.block.edit.compactmachines3.redstonetunnel: OP
 ftbu.claims.block.edit.compactmachines3.tunnel: OP
 ftbu.claims.block.edit.compactmachines3.wall: OP
 ftbu.claims.block.edit.compactmachines3.wallbreakable: OP
@@ -2191,6 +2196,8 @@ ftbu.claims.block.edit.funkylocomotion.frame_1: OP
 ftbu.claims.block.edit.funkylocomotion.frame_2: OP
 ftbu.claims.block.edit.funkylocomotion.frame_3: OP
 ftbu.claims.block.edit.funkylocomotion.frame_projector: OP
+ftbu.claims.block.edit.funkylocomotion.mass_frame_corner: OP
+ftbu.claims.block.edit.funkylocomotion.mass_frame_edge: OP
 ftbu.claims.block.edit.funkylocomotion.moving: OP
 ftbu.claims.block.edit.funkylocomotion.pusher: OP
 ftbu.claims.block.edit.funkylocomotion.slider: OP
@@ -3455,6 +3462,8 @@ ftbu.claims.block.edit.secretroomsmod.secret_dispenser: OP
 ftbu.claims.block.edit.secretroomsmod.secret_gate: OP
 ftbu.claims.block.edit.secretroomsmod.secret_gate_block: OP
 ftbu.claims.block.edit.secretroomsmod.secret_heavy_pressure_plate: OP
+ftbu.claims.block.edit.secretroomsmod.secret_inverted_light_detector: OP
+ftbu.claims.block.edit.secretroomsmod.secret_iron_door: OP
 ftbu.claims.block.edit.secretroomsmod.secret_iron_trapdoor: OP
 ftbu.claims.block.edit.secretroomsmod.secret_lever: OP
 ftbu.claims.block.edit.secretroomsmod.secret_light_detector: OP
@@ -3466,6 +3475,7 @@ ftbu.claims.block.edit.secretroomsmod.secret_stairs: OP
 ftbu.claims.block.edit.secretroomsmod.secret_stone_button: OP
 ftbu.claims.block.edit.secretroomsmod.secret_trapped_chest: OP
 ftbu.claims.block.edit.secretroomsmod.secret_wooden_button: OP
+ftbu.claims.block.edit.secretroomsmod.secret_wooden_door: OP
 ftbu.claims.block.edit.secretroomsmod.secret_wooden_trapdoor: OP
 ftbu.claims.block.edit.secretroomsmod.solid_air: OP
 ftbu.claims.block.edit.secretroomsmod.torch_lever: OP
@@ -4726,6 +4736,7 @@ ftbu.claims.block.interact.colossalchests.uncolossal_chest: OP
 ftbu.claims.block.interact.compactmachines3.craftinghologram: OP
 ftbu.claims.block.interact.compactmachines3.fieldprojector: OP
 ftbu.claims.block.interact.compactmachines3.machine: OP
+ftbu.claims.block.interact.compactmachines3.redstonetunnel: OP
 ftbu.claims.block.interact.compactmachines3.tunnel: OP
 ftbu.claims.block.interact.compactmachines3.wall: OP
 ftbu.claims.block.interact.compactmachines3.wallbreakable: OP
@@ -5620,6 +5631,8 @@ ftbu.claims.block.interact.funkylocomotion.frame_1: OP
 ftbu.claims.block.interact.funkylocomotion.frame_2: OP
 ftbu.claims.block.interact.funkylocomotion.frame_3: OP
 ftbu.claims.block.interact.funkylocomotion.frame_projector: OP
+ftbu.claims.block.interact.funkylocomotion.mass_frame_corner: OP
+ftbu.claims.block.interact.funkylocomotion.mass_frame_edge: OP
 ftbu.claims.block.interact.funkylocomotion.moving: OP
 ftbu.claims.block.interact.funkylocomotion.pusher: OP
 ftbu.claims.block.interact.funkylocomotion.slider: OP
@@ -6884,6 +6897,8 @@ ftbu.claims.block.interact.secretroomsmod.secret_dispenser: OP
 ftbu.claims.block.interact.secretroomsmod.secret_gate: OP
 ftbu.claims.block.interact.secretroomsmod.secret_gate_block: OP
 ftbu.claims.block.interact.secretroomsmod.secret_heavy_pressure_plate: OP
+ftbu.claims.block.interact.secretroomsmod.secret_inverted_light_detector: OP
+ftbu.claims.block.interact.secretroomsmod.secret_iron_door: ALL
 ftbu.claims.block.interact.secretroomsmod.secret_iron_trapdoor: OP
 ftbu.claims.block.interact.secretroomsmod.secret_lever: OP
 ftbu.claims.block.interact.secretroomsmod.secret_light_detector: OP
@@ -6895,6 +6910,7 @@ ftbu.claims.block.interact.secretroomsmod.secret_stairs: OP
 ftbu.claims.block.interact.secretroomsmod.secret_stone_button: OP
 ftbu.claims.block.interact.secretroomsmod.secret_trapped_chest: OP
 ftbu.claims.block.interact.secretroomsmod.secret_wooden_button: OP
+ftbu.claims.block.interact.secretroomsmod.secret_wooden_door: ALL
 ftbu.claims.block.interact.secretroomsmod.secret_wooden_trapdoor: OP
 ftbu.claims.block.interact.secretroomsmod.solid_air: OP
 ftbu.claims.block.interact.secretroomsmod.torch_lever: OP
@@ -8732,6 +8748,7 @@ ftbu.claims.item.colossalchests.upgrade_tool: ALL
 ftbu.claims.item.compactmachines3.fieldprojector: ALL
 ftbu.claims.item.compactmachines3.machine: ALL
 ftbu.claims.item.compactmachines3.psd: ALL
+ftbu.claims.item.compactmachines3.redstonetunneltool: ALL
 ftbu.claims.item.compactmachines3.tunnel: ALL
 ftbu.claims.item.compactmachines3.tunneltool: ALL
 ftbu.claims.item.compactmachines3.wall: ALL
@@ -10042,6 +10059,8 @@ ftbu.claims.item.funkylocomotion.frame_1: ALL
 ftbu.claims.item.funkylocomotion.frame_2: ALL
 ftbu.claims.item.funkylocomotion.frame_3: ALL
 ftbu.claims.item.funkylocomotion.frame_projector: ALL
+ftbu.claims.item.funkylocomotion.mass_frame_corner: ALL
+ftbu.claims.item.funkylocomotion.mass_frame_edge: ALL
 ftbu.claims.item.funkylocomotion.pusher: ALL
 ftbu.claims.item.funkylocomotion.slider: ALL
 ftbu.claims.item.funkylocomotion.teleporter: ALL
@@ -10581,6 +10600,7 @@ ftbu.claims.item.mekanism.machineblock3: ALL
 ftbu.claims.item.mekanism.machineblock: ALL
 ftbu.claims.item.mekanism.mufflingupgrade: ALL
 ftbu.claims.item.mekanism.networkreader: ALL
+ftbu.claims.item.mekanism.nugget: ALL
 ftbu.claims.item.mekanism.obsidiantnt: ALL
 ftbu.claims.item.mekanism.oreblock: ALL
 ftbu.claims.item.mekanism.otherdust: ALL
@@ -11984,6 +12004,7 @@ ftbu.claims.item.rftools.charged_porter: ALL
 ftbu.claims.item.rftools.clock_module: ALL
 ftbu.claims.item.rftools.coalgenerator: ALL
 ftbu.claims.item.rftools.composer: ALL
+ftbu.claims.item.rftools.computer_module: ALL
 ftbu.claims.item.rftools.counter_block: ALL
 ftbu.claims.item.rftools.counter_module: ALL
 ftbu.claims.item.rftools.counterplus_module: ALL
@@ -12470,10 +12491,10 @@ ftbu.claims.item.thermalexpansion.dynamo: ALL
 ftbu.claims.item.thermalexpansion.florb: ALL
 ftbu.claims.item.thermalexpansion.frame: ALL
 ftbu.claims.item.thermalexpansion.machine: ALL
+ftbu.claims.item.thermalexpansion.reservoir: ALL
 ftbu.claims.item.thermalexpansion.satchel: ALL
 ftbu.claims.item.thermalexpansion.strongbox: ALL
 ftbu.claims.item.thermalexpansion.tank: ALL
-ftbu.claims.item.thermalexpansion.upgrade: ALL
 ftbu.claims.item.thermalfoundation.armor.boots_aluminum: ALL
 ftbu.claims.item.thermalfoundation.armor.boots_bronze: ALL
 ftbu.claims.item.thermalfoundation.armor.boots_constantan: ALL
@@ -12524,7 +12545,7 @@ ftbu.claims.item.thermalfoundation.armor.plate_steel: ALL
 ftbu.claims.item.thermalfoundation.armor.plate_tin: ALL
 ftbu.claims.item.thermalfoundation.bait: ALL
 ftbu.claims.item.thermalfoundation.coin: ALL
-ftbu.claims.item.thermalfoundation.diagram: ALL
+ftbu.claims.item.thermalfoundation.diagram_redprint: ALL
 ftbu.claims.item.thermalfoundation.fertilizer: ALL
 ftbu.claims.item.thermalfoundation.fluid_aerotheum: ALL
 ftbu.claims.item.thermalfoundation.fluid_crude_oil: ALL
@@ -12546,7 +12567,8 @@ ftbu.claims.item.thermalfoundation.rockwool: ALL
 ftbu.claims.item.thermalfoundation.security: ALL
 ftbu.claims.item.thermalfoundation.storage: ALL
 ftbu.claims.item.thermalfoundation.storage_alloy: ALL
-ftbu.claims.item.thermalfoundation.tome: ALL
+ftbu.claims.item.thermalfoundation.tome_experience: ALL
+ftbu.claims.item.thermalfoundation.tome_lexicon: ALL
 ftbu.claims.item.thermalfoundation.tool.axe_aluminum: ALL
 ftbu.claims.item.thermalfoundation.tool.axe_bronze: ALL
 ftbu.claims.item.thermalfoundation.tool.axe_constantan: ALL
@@ -12705,6 +12727,7 @@ ftbu.claims.item.thermalfoundation.tool.sword_platinum: ALL
 ftbu.claims.item.thermalfoundation.tool.sword_silver: ALL
 ftbu.claims.item.thermalfoundation.tool.sword_steel: ALL
 ftbu.claims.item.thermalfoundation.tool.sword_tin: ALL
+ftbu.claims.item.thermalfoundation.upgrade: ALL
 ftbu.claims.item.thermalfoundation.wrench: ALL
 ftbu.claims.item.torchmaster.dread_lamp: ALL
 ftbu.claims.item.torchmaster.feral_flare_lantern: ALL
