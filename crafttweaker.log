@@ -2,8 +2,30 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Loading scripts
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: hardcore.zs}
-[INITIALIZATION][CLIENT][ERROR] Null not allowed in shapeless recipes! Recipe for: null not created!
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <ore:plankWood>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:wooden_sword>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:wooden_shovel>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:wooden_pickaxe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:stone_hoe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:stone_axe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:stone_pickaxe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:stone_shovel>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:stone_sword>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:iron_hoe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:iron_pickaxe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:iron_shovel>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:iron_sword>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:iron_axe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:diamond_axe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:diamond_hoe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:diamond_pickaxe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:diamond_shovel>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:diamond_sword>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:golden_axe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:golden_hoe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:golden_pickaxe>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:golden_shovel>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:golden_sword>
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fir Wood Planks with name ct_shapeless-817043485
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Mango Wood Planks with name ct_shapeless1362275610
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Banana Wood Planks with name ct_shapeless-1837112420
@@ -50,4 +72,3 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cocobolo Wood Planks with name ct_shapeless1632452294
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Giant Sequoia Wood Planks with name ct_shapeless10677023
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Zebrawood Wood Planks with name ct_shapeless781659263
-[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
