@@ -1,8 +1,44 @@
-12636 nodes in total
+12719 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
 block.wrench: ALL
+command.#&: CMD
+command.#as: CMD
+command.#biome: CMD
+command.#cancel: CMD
+command.#confirm: CMD
+command.#copy: CMD
+command.#decorate: CMD
+command.#delete: CMD
+command.#dimension: CMD
+command.#edit: CMD
+command.#eval: CMD
+command.#export: CMD
+command.#fill: CMD
+command.#gen: CMD
+command.#import: CMD
+command.#list: CMD
+command.#lookup: CMD
+command.#map: CMD
+command.#move: CMD
+command.#natural: CMD
+command.#paste: CMD
+command.#preview: CMD
+command.#property: CMD
+command.#reload: CMD
+command.#reopen: CMD
+command.#retro: CMD
+command.#sanity: CMD
+command.#schematic: CMD
+command.#search: CMD
+command.#selection: CMD
+command.#setbiome: CMD
+command.#sight: CMD
+command.#vanilla: CMD
+command.#visual: CMD
+command.#whatisthis: CMD
+command.#write: CMD
 command.CTGUI: CMD
 command.EnderStorage.clear: CMD
 command.EnderStorage.help: CMD
@@ -144,6 +180,7 @@ command.ftb.edit_config.custombackgrounds: CMD
 command.ftb.edit_config.cyclicmagic: CMD
 command.ftb.edit_config.cyclopscore: CMD
 command.ftb.edit_config.darkutils: CMD
+command.ftb.edit_config.ding: CMD
 command.ftb.edit_config.dirt2path: CMD
 command.ftb.edit_config.eleccore: CMD
 command.ftb.edit_config.enderstorage: CMD
@@ -210,6 +247,7 @@ command.ftb.edit_config.quark: CMD
 command.ftb.edit_config.randomthings: CMD
 command.ftb.edit_config.rangedpumps: CMD
 command.ftb.edit_config.reborncore: CMD
+command.ftb.edit_config.reccomplex: CMD
 command.ftb.edit_config.recipehandler: CMD
 command.ftb.edit_config.rftools\control: CMD
 command.ftb.edit_config.rftools\rftools: CMD
@@ -225,6 +263,7 @@ command.ftb.edit_config.storagedrawers: CMD
 command.ftb.edit_config.storagenetwork: CMD
 command.ftb.edit_config.tammodized: CMD
 command.ftb.edit_config.tconstruct: CMD
+command.ftb.edit_config.tellme: CMD
 command.ftb.edit_config.terraqueous: CMD
 command.ftb.edit_config.teslacorelib: CMD
 command.ftb.edit_config.thebomplugin: CMD
@@ -346,6 +385,7 @@ command.storagedrawers: CMD
 command.summon: CMD
 command.teleport: CMD
 command.tell: CMD
+command.tellme: CMD
 command.tellraw: CMD
 command.testfor: CMD
 command.testforblock: CMD
@@ -1472,6 +1512,9 @@ ftbu.claims.block.edit.environmentaltech.aethium_paver_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.aethium_slab: OP
 ftbu.claims.block.edit.environmentaltech.aethium_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.aethium_stairs: OP
+ftbu.claims.block.edit.environmentaltech.aethium_tile_slab: OP
+ftbu.claims.block.edit.environmentaltech.aethium_tile_slab_double: OP
+ftbu.claims.block.edit.environmentaltech.aethium_tile_stairs: OP
 ftbu.claims.block.edit.environmentaltech.erodium: OP
 ftbu.claims.block.edit.environmentaltech.erodium_brick_slab: OP
 ftbu.claims.block.edit.environmentaltech.erodium_brick_slab_double: OP
@@ -1481,6 +1524,9 @@ ftbu.claims.block.edit.environmentaltech.erodium_paver_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.erodium_slab: OP
 ftbu.claims.block.edit.environmentaltech.erodium_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.erodium_stairs: OP
+ftbu.claims.block.edit.environmentaltech.erodium_tile_slab: OP
+ftbu.claims.block.edit.environmentaltech.erodium_tile_slab_double: OP
+ftbu.claims.block.edit.environmentaltech.erodium_tile_stairs: OP
 ftbu.claims.block.edit.environmentaltech.interconnect: OP
 ftbu.claims.block.edit.environmentaltech.ionite: OP
 ftbu.claims.block.edit.environmentaltech.ionite_brick_slab: OP
@@ -1491,6 +1537,9 @@ ftbu.claims.block.edit.environmentaltech.ionite_paver_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.ionite_slab: OP
 ftbu.claims.block.edit.environmentaltech.ionite_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.ionite_stairs: OP
+ftbu.claims.block.edit.environmentaltech.ionite_tile_slab: OP
+ftbu.claims.block.edit.environmentaltech.ionite_tile_slab_double: OP
+ftbu.claims.block.edit.environmentaltech.ionite_tile_stairs: OP
 ftbu.claims.block.edit.environmentaltech.kyronite: OP
 ftbu.claims.block.edit.environmentaltech.kyronite_brick_slab: OP
 ftbu.claims.block.edit.environmentaltech.kyronite_brick_slab_double: OP
@@ -1500,6 +1549,9 @@ ftbu.claims.block.edit.environmentaltech.kyronite_paver_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.kyronite_slab: OP
 ftbu.claims.block.edit.environmentaltech.kyronite_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.kyronite_stairs: OP
+ftbu.claims.block.edit.environmentaltech.kyronite_tile_slab: OP
+ftbu.claims.block.edit.environmentaltech.kyronite_tile_slab_double: OP
+ftbu.claims.block.edit.environmentaltech.kyronite_tile_stairs: OP
 ftbu.claims.block.edit.environmentaltech.laser_core: OP
 ftbu.claims.block.edit.environmentaltech.laser_lens: OP
 ftbu.claims.block.edit.environmentaltech.laser_lens_colored: OP
@@ -1514,6 +1566,9 @@ ftbu.claims.block.edit.environmentaltech.litherite_paver_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.litherite_slab: OP
 ftbu.claims.block.edit.environmentaltech.litherite_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.litherite_stairs: OP
+ftbu.claims.block.edit.environmentaltech.litherite_tile_slab: OP
+ftbu.claims.block.edit.environmentaltech.litherite_tile_slab_double: OP
+ftbu.claims.block.edit.environmentaltech.litherite_tile_stairs: OP
 ftbu.claims.block.edit.environmentaltech.lonsdaleite: OP
 ftbu.claims.block.edit.environmentaltech.lonsdaleite_brick_slab: OP
 ftbu.claims.block.edit.environmentaltech.lonsdaleite_brick_slab_double: OP
@@ -1523,6 +1578,9 @@ ftbu.claims.block.edit.environmentaltech.lonsdaleite_paver_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.lonsdaleite_slab: OP
 ftbu.claims.block.edit.environmentaltech.lonsdaleite_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.lonsdaleite_stairs: OP
+ftbu.claims.block.edit.environmentaltech.lonsdaleite_tile_slab: OP
+ftbu.claims.block.edit.environmentaltech.lonsdaleite_tile_slab_double: OP
+ftbu.claims.block.edit.environmentaltech.lonsdaleite_tile_stairs: OP
 ftbu.claims.block.edit.environmentaltech.mica: OP
 ftbu.claims.block.edit.environmentaltech.modifier_accuracy: OP
 ftbu.claims.block.edit.environmentaltech.modifier_null: OP
@@ -1537,6 +1595,9 @@ ftbu.claims.block.edit.environmentaltech.pladium_paver_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.pladium_slab: OP
 ftbu.claims.block.edit.environmentaltech.pladium_slab_double: OP
 ftbu.claims.block.edit.environmentaltech.pladium_stairs: OP
+ftbu.claims.block.edit.environmentaltech.pladium_tile_slab: OP
+ftbu.claims.block.edit.environmentaltech.pladium_tile_slab_double: OP
+ftbu.claims.block.edit.environmentaltech.pladium_tile_stairs: OP
 ftbu.claims.block.edit.environmentaltech.solar_cell_aethium: OP
 ftbu.claims.block.edit.environmentaltech.solar_cell_erodium: OP
 ftbu.claims.block.edit.environmentaltech.solar_cell_ionite: OP
@@ -3362,6 +3423,12 @@ ftbu.claims.block.edit.randomthings.superlubricentplatform: OP
 ftbu.claims.block.edit.randomthings.superlubricentstone: OP
 ftbu.claims.block.edit.randomthings.voxelprojector: OP
 ftbu.claims.block.edit.rangedpumps.pump: OP
+ftbu.claims.block.edit.reccomplex.generic_solid: OP
+ftbu.claims.block.edit.reccomplex.generic_space: OP
+ftbu.claims.block.edit.reccomplex.maze_generator: OP
+ftbu.claims.block.edit.reccomplex.spawn_script: OP
+ftbu.claims.block.edit.reccomplex.structure_generator: OP
+ftbu.claims.block.edit.reccomplex.weighted_command_block: OP
 ftbu.claims.block.edit.redstonearsenal.storage: OP
 ftbu.claims.block.edit.rftools.block_protector: OP
 ftbu.claims.block.edit.rftools.booster: OP
@@ -4907,6 +4974,9 @@ ftbu.claims.block.interact.environmentaltech.aethium_paver_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.aethium_slab: OP
 ftbu.claims.block.interact.environmentaltech.aethium_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.aethium_stairs: OP
+ftbu.claims.block.interact.environmentaltech.aethium_tile_slab: OP
+ftbu.claims.block.interact.environmentaltech.aethium_tile_slab_double: OP
+ftbu.claims.block.interact.environmentaltech.aethium_tile_stairs: OP
 ftbu.claims.block.interact.environmentaltech.erodium: OP
 ftbu.claims.block.interact.environmentaltech.erodium_brick_slab: OP
 ftbu.claims.block.interact.environmentaltech.erodium_brick_slab_double: OP
@@ -4916,6 +4986,9 @@ ftbu.claims.block.interact.environmentaltech.erodium_paver_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.erodium_slab: OP
 ftbu.claims.block.interact.environmentaltech.erodium_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.erodium_stairs: OP
+ftbu.claims.block.interact.environmentaltech.erodium_tile_slab: OP
+ftbu.claims.block.interact.environmentaltech.erodium_tile_slab_double: OP
+ftbu.claims.block.interact.environmentaltech.erodium_tile_stairs: OP
 ftbu.claims.block.interact.environmentaltech.interconnect: OP
 ftbu.claims.block.interact.environmentaltech.ionite: OP
 ftbu.claims.block.interact.environmentaltech.ionite_brick_slab: OP
@@ -4926,6 +4999,9 @@ ftbu.claims.block.interact.environmentaltech.ionite_paver_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.ionite_slab: OP
 ftbu.claims.block.interact.environmentaltech.ionite_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.ionite_stairs: OP
+ftbu.claims.block.interact.environmentaltech.ionite_tile_slab: OP
+ftbu.claims.block.interact.environmentaltech.ionite_tile_slab_double: OP
+ftbu.claims.block.interact.environmentaltech.ionite_tile_stairs: OP
 ftbu.claims.block.interact.environmentaltech.kyronite: OP
 ftbu.claims.block.interact.environmentaltech.kyronite_brick_slab: OP
 ftbu.claims.block.interact.environmentaltech.kyronite_brick_slab_double: OP
@@ -4935,6 +5011,9 @@ ftbu.claims.block.interact.environmentaltech.kyronite_paver_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.kyronite_slab: OP
 ftbu.claims.block.interact.environmentaltech.kyronite_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.kyronite_stairs: OP
+ftbu.claims.block.interact.environmentaltech.kyronite_tile_slab: OP
+ftbu.claims.block.interact.environmentaltech.kyronite_tile_slab_double: OP
+ftbu.claims.block.interact.environmentaltech.kyronite_tile_stairs: OP
 ftbu.claims.block.interact.environmentaltech.laser_core: OP
 ftbu.claims.block.interact.environmentaltech.laser_lens: OP
 ftbu.claims.block.interact.environmentaltech.laser_lens_colored: OP
@@ -4949,6 +5028,9 @@ ftbu.claims.block.interact.environmentaltech.litherite_paver_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.litherite_slab: OP
 ftbu.claims.block.interact.environmentaltech.litherite_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.litherite_stairs: OP
+ftbu.claims.block.interact.environmentaltech.litherite_tile_slab: OP
+ftbu.claims.block.interact.environmentaltech.litherite_tile_slab_double: OP
+ftbu.claims.block.interact.environmentaltech.litherite_tile_stairs: OP
 ftbu.claims.block.interact.environmentaltech.lonsdaleite: OP
 ftbu.claims.block.interact.environmentaltech.lonsdaleite_brick_slab: OP
 ftbu.claims.block.interact.environmentaltech.lonsdaleite_brick_slab_double: OP
@@ -4958,6 +5040,9 @@ ftbu.claims.block.interact.environmentaltech.lonsdaleite_paver_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.lonsdaleite_slab: OP
 ftbu.claims.block.interact.environmentaltech.lonsdaleite_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.lonsdaleite_stairs: OP
+ftbu.claims.block.interact.environmentaltech.lonsdaleite_tile_slab: OP
+ftbu.claims.block.interact.environmentaltech.lonsdaleite_tile_slab_double: OP
+ftbu.claims.block.interact.environmentaltech.lonsdaleite_tile_stairs: OP
 ftbu.claims.block.interact.environmentaltech.mica: OP
 ftbu.claims.block.interact.environmentaltech.modifier_accuracy: OP
 ftbu.claims.block.interact.environmentaltech.modifier_null: OP
@@ -4972,6 +5057,9 @@ ftbu.claims.block.interact.environmentaltech.pladium_paver_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.pladium_slab: OP
 ftbu.claims.block.interact.environmentaltech.pladium_slab_double: OP
 ftbu.claims.block.interact.environmentaltech.pladium_stairs: OP
+ftbu.claims.block.interact.environmentaltech.pladium_tile_slab: OP
+ftbu.claims.block.interact.environmentaltech.pladium_tile_slab_double: OP
+ftbu.claims.block.interact.environmentaltech.pladium_tile_stairs: OP
 ftbu.claims.block.interact.environmentaltech.solar_cell_aethium: OP
 ftbu.claims.block.interact.environmentaltech.solar_cell_erodium: OP
 ftbu.claims.block.interact.environmentaltech.solar_cell_ionite: OP
@@ -6797,6 +6885,12 @@ ftbu.claims.block.interact.randomthings.superlubricentplatform: OP
 ftbu.claims.block.interact.randomthings.superlubricentstone: OP
 ftbu.claims.block.interact.randomthings.voxelprojector: OP
 ftbu.claims.block.interact.rangedpumps.pump: OP
+ftbu.claims.block.interact.reccomplex.generic_solid: OP
+ftbu.claims.block.interact.reccomplex.generic_space: OP
+ftbu.claims.block.interact.reccomplex.maze_generator: OP
+ftbu.claims.block.interact.reccomplex.spawn_script: OP
+ftbu.claims.block.interact.reccomplex.structure_generator: OP
+ftbu.claims.block.interact.reccomplex.weighted_command_block: OP
 ftbu.claims.block.interact.redstonearsenal.storage: OP
 ftbu.claims.block.interact.rftools.block_protector: OP
 ftbu.claims.block.interact.rftools.booster: OP
@@ -9083,6 +9177,8 @@ ftbu.claims.item.environmentaltech.aethium_crystal: ALL
 ftbu.claims.item.environmentaltech.aethium_paver_slab: ALL
 ftbu.claims.item.environmentaltech.aethium_slab: ALL
 ftbu.claims.item.environmentaltech.aethium_stairs: ALL
+ftbu.claims.item.environmentaltech.aethium_tile_slab: ALL
+ftbu.claims.item.environmentaltech.aethium_tile_stairs: ALL
 ftbu.claims.item.environmentaltech.connector: ALL
 ftbu.claims.item.environmentaltech.diode: ALL
 ftbu.claims.item.environmentaltech.erodium: ALL
@@ -9092,6 +9188,8 @@ ftbu.claims.item.environmentaltech.erodium_crystal: ALL
 ftbu.claims.item.environmentaltech.erodium_paver_slab: ALL
 ftbu.claims.item.environmentaltech.erodium_slab: ALL
 ftbu.claims.item.environmentaltech.erodium_stairs: ALL
+ftbu.claims.item.environmentaltech.erodium_tile_slab: ALL
+ftbu.claims.item.environmentaltech.erodium_tile_stairs: ALL
 ftbu.claims.item.environmentaltech.interconnect: ALL
 ftbu.claims.item.environmentaltech.ionite: ALL
 ftbu.claims.item.environmentaltech.ionite_brick_slab: ALL
@@ -9100,6 +9198,8 @@ ftbu.claims.item.environmentaltech.ionite_crystal: ALL
 ftbu.claims.item.environmentaltech.ionite_paver_slab: ALL
 ftbu.claims.item.environmentaltech.ionite_slab: ALL
 ftbu.claims.item.environmentaltech.ionite_stairs: ALL
+ftbu.claims.item.environmentaltech.ionite_tile_slab: ALL
+ftbu.claims.item.environmentaltech.ionite_tile_stairs: ALL
 ftbu.claims.item.environmentaltech.kyronite: ALL
 ftbu.claims.item.environmentaltech.kyronite_brick_slab: ALL
 ftbu.claims.item.environmentaltech.kyronite_brick_stairs: ALL
@@ -9107,6 +9207,8 @@ ftbu.claims.item.environmentaltech.kyronite_crystal: ALL
 ftbu.claims.item.environmentaltech.kyronite_paver_slab: ALL
 ftbu.claims.item.environmentaltech.kyronite_slab: ALL
 ftbu.claims.item.environmentaltech.kyronite_stairs: ALL
+ftbu.claims.item.environmentaltech.kyronite_tile_slab: ALL
+ftbu.claims.item.environmentaltech.kyronite_tile_stairs: ALL
 ftbu.claims.item.environmentaltech.laser_core: ALL
 ftbu.claims.item.environmentaltech.laser_lens: ALL
 ftbu.claims.item.environmentaltech.laser_lens_colored: ALL
@@ -9119,12 +9221,17 @@ ftbu.claims.item.environmentaltech.litherite_crystal: ALL
 ftbu.claims.item.environmentaltech.litherite_paver_slab: ALL
 ftbu.claims.item.environmentaltech.litherite_slab: ALL
 ftbu.claims.item.environmentaltech.litherite_stairs: ALL
+ftbu.claims.item.environmentaltech.litherite_tile_slab: ALL
+ftbu.claims.item.environmentaltech.litherite_tile_stairs: ALL
 ftbu.claims.item.environmentaltech.lonsdaleite: ALL
 ftbu.claims.item.environmentaltech.lonsdaleite_brick_slab: ALL
 ftbu.claims.item.environmentaltech.lonsdaleite_brick_stairs: ALL
+ftbu.claims.item.environmentaltech.lonsdaleite_crystal: ALL
 ftbu.claims.item.environmentaltech.lonsdaleite_paver_slab: ALL
 ftbu.claims.item.environmentaltech.lonsdaleite_slab: ALL
 ftbu.claims.item.environmentaltech.lonsdaleite_stairs: ALL
+ftbu.claims.item.environmentaltech.lonsdaleite_tile_slab: ALL
+ftbu.claims.item.environmentaltech.lonsdaleite_tile_stairs: ALL
 ftbu.claims.item.environmentaltech.mica: ALL
 ftbu.claims.item.environmentaltech.modifier_accuracy: ALL
 ftbu.claims.item.environmentaltech.modifier_null: ALL
@@ -9138,6 +9245,8 @@ ftbu.claims.item.environmentaltech.pladium_crystal: ALL
 ftbu.claims.item.environmentaltech.pladium_paver_slab: ALL
 ftbu.claims.item.environmentaltech.pladium_slab: ALL
 ftbu.claims.item.environmentaltech.pladium_stairs: ALL
+ftbu.claims.item.environmentaltech.pladium_tile_slab: ALL
+ftbu.claims.item.environmentaltech.pladium_tile_stairs: ALL
 ftbu.claims.item.environmentaltech.solar_cell_aethium: ALL
 ftbu.claims.item.environmentaltech.solar_cell_erodium: ALL
 ftbu.claims.item.environmentaltech.solar_cell_ionite: ALL
@@ -11975,6 +12084,20 @@ ftbu.claims.item.randomthings.superlubricentstone: ALL
 ftbu.claims.item.randomthings.voxelprojector: ALL
 ftbu.claims.item.randomthings.waterwalkingboots: ALL
 ftbu.claims.item.rangedpumps.pump: ALL
+ftbu.claims.item.reccomplex.artifact_generation_tag: ALL
+ftbu.claims.item.reccomplex.block_selector: ALL
+ftbu.claims.item.reccomplex.block_selector_floating: ALL
+ftbu.claims.item.reccomplex.book_generation_tag: ALL
+ftbu.claims.item.reccomplex.generic_solid: ALL
+ftbu.claims.item.reccomplex.generic_space: ALL
+ftbu.claims.item.reccomplex.inspector: ALL
+ftbu.claims.item.reccomplex.inventory_generation_component_tag: ALL
+ftbu.claims.item.reccomplex.inventory_generation_single_tag: ALL
+ftbu.claims.item.reccomplex.inventory_generation_tag: ALL
+ftbu.claims.item.reccomplex.maze_generator: ALL
+ftbu.claims.item.reccomplex.spawn_script: ALL
+ftbu.claims.item.reccomplex.structure_generator: ALL
+ftbu.claims.item.reccomplex.weighted_command_block: ALL
 ftbu.claims.item.redstonearsenal.armor.boots_flux: ALL
 ftbu.claims.item.redstonearsenal.armor.helmet_flux: ALL
 ftbu.claims.item.redstonearsenal.armor.legs_flux: ALL

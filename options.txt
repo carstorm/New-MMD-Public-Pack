@@ -49,7 +49,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 narrator:0
 tutorialStep:none
 key_key.attack:-100
@@ -104,7 +104,6 @@ key_key.aov.bar.6:0
 key_key.aov.bar.7:0
 key_key.aov.bar.8:0
 key_psimisc.keybind:46
-key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -117,7 +116,7 @@ key_quark.emote.shrug:0
 key_quark.emote.headbang:0
 key_quark.emote.weep:0
 key_quark.emote.facepalm:0
-key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -125,9 +124,11 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:0
 key_cos.key.openCosArmorInventory:0
 key_key.ftbu.guide:0
 key_key.ftbu.warp:0
+key_igwmod.keys.wiki:23
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
 key_key.secretroomsmod.oneWayface:0
@@ -227,9 +228,9 @@ key_key.llor.hotkey:62
 key_key.modifier:13
 key_key.submode:0
 key_key.plustic_release_entity.desc:11
-key_key.plustic_toggle_gui.desc:23
+key_key.plustic_toggle_gui.desc:24
 key_key.plustic_set_portal.desc:49
-key_key.plustic_brown_magic.desc:24
+key_key.plustic_brown_magic.desc:0
 key_key.plustic_toggle_tool.desc:51:ALT
 key_key.porterNextDestination:27
 key_key.porterPrevDestination:26
