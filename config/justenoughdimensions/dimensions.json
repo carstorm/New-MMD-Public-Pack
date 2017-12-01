@@ -30,21 +30,25 @@
             "worldinfo_onetime": {
                 "generatorName": "flat",
                 "generatorOptions": "3;minecraft:bedrock,62*minecraft:dirt,minecraft:grass;1;",
-                "DayTime": 6000
+                "DayTime": 6000,
+                "GameRules": {
+                	"doDaylightCycle": "false",
+                    "doMobSpawning": "false",
+                    "spawnRadius": 0,
+                    "pvp": "false",
+                     "doWeatherCycle": "false"
+                }
+
             },
             "worldinfo": {
             	"BorderSize": 100,
-                "GameRules": {
-          "doDaylightCycle": "false",
-          "doMobSpawning": "false",
-          "spawnRadius": 1,
-          "pvp": "false",
-          "doWeatherCycle": "false"
-        },
-        "GameType": 2,
-        "JED": {
-          "ForceGamemode": "true"
-        }
+            	"SpawnX": 0,
+                "SpawnY": 64,
+                "SpawnZ": 0,
+            "GameType": 2,
+            "JED": {
+                "ForceGamemode": "true"
+            }
             }
         },
 

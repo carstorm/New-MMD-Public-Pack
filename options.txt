@@ -30,7 +30,7 @@ enableVsync:false
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
-pauseOnLostFocus:true
+pauseOnLostFocus:false
 touchscreen:false
 overrideWidth:0
 overrideHeight:0
@@ -104,6 +104,7 @@ key_key.aov.bar.6:0
 key_key.aov.bar.7:0
 key_key.aov.bar.8:0
 key_psimisc.keybind:46
+key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -116,7 +117,6 @@ key_quark.emote.shrug:0
 key_quark.emote.headbang:0
 key_quark.emote.weep:0
 key_quark.emote.facepalm:0
-key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -124,7 +124,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:37
 key_cos.key.openCosArmorInventory:0
 key_key.ftbu.guide:0
 key_key.ftbu.warp:0
