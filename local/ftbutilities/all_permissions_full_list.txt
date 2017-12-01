@@ -1,4 +1,4 @@
-12719 nodes in total
+12741 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -348,6 +348,7 @@ command.listen: CMD
 command.locate: CMD
 command.me: CMD
 command.mk: CMD
+command.nbtprint: CMD
 command.oredistribution: CMD
 command.packmode: CMD
 command.particle: CMD
@@ -357,6 +358,7 @@ command.plethora: CMD
 command.profile: CMD
 command.publish: CMD
 command.quarkconfig: CMD
+command.react: CMD
 command.recipe: CMD
 command.reload: CMD
 command.repairStormForge: CMD
@@ -1370,6 +1372,7 @@ ftbu.claims.block.edit.cyclicmagic.beacon_potion: OP
 ftbu.claims.block.edit.cyclicmagic.beacon_redstone: OP
 ftbu.claims.block.edit.cyclicmagic.block_disenchanter: OP
 ftbu.claims.block.edit.cyclicmagic.block_fishing: OP
+ftbu.claims.block.edit.cyclicmagic.block_forester: OP
 ftbu.claims.block.edit.cyclicmagic.block_fragile: OP
 ftbu.claims.block.edit.cyclicmagic.block_fragile_auto: OP
 ftbu.claims.block.edit.cyclicmagic.block_fragile_weak: OP
@@ -1396,7 +1399,11 @@ ftbu.claims.block.edit.cyclicmagic.entity_detector: OP
 ftbu.claims.block.edit.cyclicmagic.exp_pylon: OP
 ftbu.claims.block.edit.cyclicmagic.fan: OP
 ftbu.claims.block.edit.cyclicmagic.fire_dark: OP
+ftbu.claims.block.edit.cyclicmagic.fluid_pipe: OP
+ftbu.claims.block.edit.cyclicmagic.fluid_pump: OP
 ftbu.claims.block.edit.cyclicmagic.harvester_block: OP
+ftbu.claims.block.edit.cyclicmagic.item_pipe: OP
+ftbu.claims.block.edit.cyclicmagic.item_pump: OP
 ftbu.claims.block.edit.cyclicmagic.magnet_anti_block: OP
 ftbu.claims.block.edit.cyclicmagic.magnet_block: OP
 ftbu.claims.block.edit.cyclicmagic.milk: OP
@@ -1423,6 +1430,8 @@ ftbu.claims.block.edit.cyclicmagic.spikes_iron: OP
 ftbu.claims.block.edit.cyclicmagic.sprinkler: OP
 ftbu.claims.block.edit.cyclicmagic.sprout: OP
 ftbu.claims.block.edit.cyclicmagic.uncrafting_block: OP
+ftbu.claims.block.edit.cyclicmagic.wireless_receiver: OP
+ftbu.claims.block.edit.cyclicmagic.wireless_transmitter: OP
 ftbu.claims.block.edit.cyclicmagic.xpjuice: OP
 ftbu.claims.block.edit.darkutils.anti_slime: OP
 ftbu.claims.block.edit.darkutils.ender_hopper: OP
@@ -4832,6 +4841,7 @@ ftbu.claims.block.interact.cyclicmagic.beacon_potion: OP
 ftbu.claims.block.interact.cyclicmagic.beacon_redstone: OP
 ftbu.claims.block.interact.cyclicmagic.block_disenchanter: OP
 ftbu.claims.block.interact.cyclicmagic.block_fishing: OP
+ftbu.claims.block.interact.cyclicmagic.block_forester: OP
 ftbu.claims.block.interact.cyclicmagic.block_fragile: OP
 ftbu.claims.block.interact.cyclicmagic.block_fragile_auto: OP
 ftbu.claims.block.interact.cyclicmagic.block_fragile_weak: OP
@@ -4858,7 +4868,11 @@ ftbu.claims.block.interact.cyclicmagic.entity_detector: OP
 ftbu.claims.block.interact.cyclicmagic.exp_pylon: OP
 ftbu.claims.block.interact.cyclicmagic.fan: OP
 ftbu.claims.block.interact.cyclicmagic.fire_dark: OP
+ftbu.claims.block.interact.cyclicmagic.fluid_pipe: OP
+ftbu.claims.block.interact.cyclicmagic.fluid_pump: OP
 ftbu.claims.block.interact.cyclicmagic.harvester_block: OP
+ftbu.claims.block.interact.cyclicmagic.item_pipe: OP
+ftbu.claims.block.interact.cyclicmagic.item_pump: OP
 ftbu.claims.block.interact.cyclicmagic.magnet_anti_block: OP
 ftbu.claims.block.interact.cyclicmagic.magnet_block: OP
 ftbu.claims.block.interact.cyclicmagic.milk: OP
@@ -4885,6 +4899,8 @@ ftbu.claims.block.interact.cyclicmagic.spikes_iron: OP
 ftbu.claims.block.interact.cyclicmagic.sprinkler: OP
 ftbu.claims.block.interact.cyclicmagic.sprout: OP
 ftbu.claims.block.interact.cyclicmagic.uncrafting_block: OP
+ftbu.claims.block.interact.cyclicmagic.wireless_receiver: OP
+ftbu.claims.block.interact.cyclicmagic.wireless_transmitter: OP
 ftbu.claims.block.interact.cyclicmagic.xpjuice: OP
 ftbu.claims.block.interact.darkutils.anti_slime: OP
 ftbu.claims.block.interact.darkutils.ender_hopper: OP
@@ -8880,6 +8896,7 @@ ftbu.claims.item.cyclicmagic.beacon_potion: ALL
 ftbu.claims.item.cyclicmagic.beacon_redstone: ALL
 ftbu.claims.item.cyclicmagic.block_disenchanter: ALL
 ftbu.claims.item.cyclicmagic.block_fishing: ALL
+ftbu.claims.item.cyclicmagic.block_forester: ALL
 ftbu.claims.item.cyclicmagic.block_fragile: ALL
 ftbu.claims.item.cyclicmagic.block_fragile_auto: ALL
 ftbu.claims.item.cyclicmagic.block_fragile_weak: ALL
@@ -8931,6 +8948,7 @@ ftbu.claims.item.cyclicmagic.end_lapis_ore: ALL
 ftbu.claims.item.cyclicmagic.end_redstone_ore: ALL
 ftbu.claims.item.cyclicmagic.ender_blaze: ALL
 ftbu.claims.item.cyclicmagic.ender_dungeon: ALL
+ftbu.claims.item.cyclicmagic.ender_eye_orb: ALL
 ftbu.claims.item.cyclicmagic.ender_lightning: ALL
 ftbu.claims.item.cyclicmagic.ender_pearl_mounted: ALL
 ftbu.claims.item.cyclicmagic.ender_pearl_reuse: ALL
@@ -8950,6 +8968,8 @@ ftbu.claims.item.cyclicmagic.exp_pylon: ALL
 ftbu.claims.item.cyclicmagic.fan: ALL
 ftbu.claims.item.cyclicmagic.fire_dark: ALL
 ftbu.claims.item.cyclicmagic.fire_killer: ALL
+ftbu.claims.item.cyclicmagic.fluid_pipe: ALL
+ftbu.claims.item.cyclicmagic.fluid_pump: ALL
 ftbu.claims.item.cyclicmagic.food_step: ALL
 ftbu.claims.item.cyclicmagic.glove_climb: ALL
 ftbu.claims.item.cyclicmagic.glowing_chorus: ALL
@@ -8964,6 +8984,8 @@ ftbu.claims.item.cyclicmagic.horse_upgrade_speed: ALL
 ftbu.claims.item.cyclicmagic.horse_upgrade_type: ALL
 ftbu.claims.item.cyclicmagic.horse_upgrade_variant: ALL
 ftbu.claims.item.cyclicmagic.inventory_food: ALL
+ftbu.claims.item.cyclicmagic.item_pipe: ALL
+ftbu.claims.item.cyclicmagic.item_pump: ALL
 ftbu.claims.item.cyclicmagic.magic_net: ALL
 ftbu.claims.item.cyclicmagic.magnet_anti_block: ALL
 ftbu.claims.item.cyclicmagic.magnet_block: ALL
@@ -9035,6 +9057,8 @@ ftbu.claims.item.cyclicmagic.wand_hypno: ALL
 ftbu.claims.item.cyclicmagic.wand_missile: ALL
 ftbu.claims.item.cyclicmagic.water_freezer: ALL
 ftbu.claims.item.cyclicmagic.water_spreader: ALL
+ftbu.claims.item.cyclicmagic.wireless_receiver: ALL
+ftbu.claims.item.cyclicmagic.wireless_transmitter: ALL
 ftbu.claims.item.cyclicmagic.xpjuice: ALL
 ftbu.claims.item.darkutils.anti_slime: ALL
 ftbu.claims.item.darkutils.charm_agression: ALL
