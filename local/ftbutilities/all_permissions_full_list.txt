@@ -192,6 +192,7 @@ command.ftb.edit_config.extrautils2: CMD
 command.ftb.edit_config.fastleafdecay: CMD
 command.ftb.edit_config.flatcoloredblocks: CMD
 command.ftb.edit_config.flyringbaublemod: CMD
+command.ftb.edit_config.foamfix: CMD
 command.ftb.edit_config.forestry\apiculture: CMD
 command.ftb.edit_config.forestry\backpacks: CMD
 command.ftb.edit_config.forestry\common: CMD
