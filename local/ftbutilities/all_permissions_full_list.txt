@@ -1,4 +1,4 @@
-12741 nodes in total
+12740 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -291,6 +291,7 @@ command.ftb.inv.view: CMD
 command.ftb.inv: CMD
 command.ftb.kickme: CMD
 command.ftb.killall: CMD
+command.ftb.leaderboards: CMD
 command.ftb.my_settings: CMD
 command.ftb.nbtedit.entity: CMD
 command.ftb.nbtedit.player: CMD
@@ -415,7 +416,6 @@ command.xudebug: CMD
 cyclic.player.modify: ALL
 ftbu.back.infinite: NONE
 ftbu.chunkloader.load_offline: ALL
-ftbu.claims.allow_disable_explosions: ALL
 ftbu.claims.block.cnb: OP
 ftbu.claims.block.edit.abyssalcraft.abybrick: OP
 ftbu.claims.block.edit.abyssalcraft.abybutton: OP
