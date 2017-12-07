@@ -1,88 +1,82 @@
 {
-    "dimensions": [
-        {
-            "dim": 9,
-            "dimensiontype": {
-                "id": 9,
-                "name": "AdminSuperflat",
-                "suffix": "_dim9",
-                "keeploaded": false,
-                "worldprovider": "WorldProviderSurfaceJED"
-            },
-            "worldinfo_onetime": {
-                "generatorName": "flat",
-                "generatorOptions": "3;minecraft:bedrock,62*minecraft:dirt,minecraft:grass;1;"
-            },
-            "worldinfo": {
-                "DayTime": 6000
-            }
-        },
-
-        {
-            "dim": 10,
-            "dimensiontype": {
-                "id": 10,
-                "name": "Spawn",
-                "suffix": "_dim10",
-                "keeploaded": true,
-                "worldprovider": "WorldProviderSurfaceJED"
-            },
-            "worldinfo_onetime": {
-                "generatorName": "flat",
-                "generatorOptions": "3;minecraft:bedrock,62*minecraft:dirt,minecraft:grass;1;",
-                "DayTime": 6000,
-                "GameRules": {
-                	"doDaylightCycle": "false",
-                    "doMobSpawning": "false",
-                    "spawnRadius": 0,
-                    "pvp": "false",
-                     "doWeatherCycle": "false"
-                }
-
-            },
-            "worldinfo": {
-            	"BorderSize": 100,
-            	"SpawnX": 0,
-                "SpawnY": 64,
-                "SpawnZ": 0,
-            "GameType": 2,
-            "JED": {
-                "ForceGamemode": "true"
-            }
-            }
-        },
-
-        {
+  "dimensions": [
+    {
+      "dim": 9,
+      "dimensiontype": {
+        "id": 9,
+        "name": "AdminSuperflat",
+        "suffix": "_dim9",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "worldinfo_onetime": {
+        "generatorName": "flat",
+        "generatorOptions": "3;minecraft:bedrock,62*minecraft:dirt,minecraft:grass;1;"
+      },
+      "worldinfo": {
+        "DayTime": 6000
+      }
+    },
+    {
+      "dim": 10,
+      "dimensiontype": {
+        "id": 10,
+        "name": "Spawn",
+        "suffix": "_dim10",
+        "keeploaded": true,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "worldinfo_onetime": {
+        "generatorName": "flat",
+        "generatorOptions": "3;minecraft:bedrock,62*minecraft:dirt,minecraft:grass;1;",
+        "DayTime": 6000,
+        "GameType": 2,
+        "BorderSize": 100,
+        "SpawnX": 0,
+        "SpawnY": 64,
+        "SpawnZ": 0,
+        "GameRules": {
+          "doDaylightCycle": "false",
+          "doMobSpawning": "false",
+          "spawnRadius": 0,
+          "pvp": "false",
+          "doWeatherCycle": "false"
+        }
+      },
+      "jed": {
+        "ForceGameMode": "true"
+      }
+    },
+    {
       "dim": 0,
       "worldinfo": {
-                "BorderSize": 250000
+        "GameType": 0,
+        "BorderSize": 250000
       },
-      "GameType": 0,
-        "JED": {
-          "ForceGamemode": "true"
-        }
+      "jed": {
+        "ForceGameMode": "true"
+      }
     },
-
     {
       "dim": 1,
       "worldinfo": {
-                "BorderSize": 15000
+        "GameType": 0,
+        "BorderSize": 15000
       },
-      "GameType": 0,
-        "JED": {
-          "ForceGamemode": "true"
-        }
+      "jed": {
+        "ForceGameMode": "true"
+      }
     },
-
     {
       "dim": -1,
       "worldinfo": {
-                "BorderSize": 31250
+        "GameType": 0,
+        "BorderSize": 31250
       },
-      "GameType": 0,
-        "JED": {
-          "ForceGamemode": "true"
-        }
+      "jed": {
+        "ForceGameMode": "true"
+      }
     }
-    ]
+  ]
 }
+
