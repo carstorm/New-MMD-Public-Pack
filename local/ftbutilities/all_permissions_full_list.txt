@@ -1,4 +1,4 @@
-14533 nodes in total
+14538 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -368,7 +368,6 @@ command.plethora: CMD
 command.profile: CMD
 command.publish: CMD
 command.quarkconfig: CMD
-command.react: CMD
 command.recipe: CMD
 command.reload: CMD
 command.repairStormForge: CMD
@@ -1761,6 +1760,7 @@ ftbu.claims.block.edit.cyclicmagic.exp_pylon: OP
 ftbu.claims.block.edit.cyclicmagic.fan: OP
 ftbu.claims.block.edit.cyclicmagic.fire_dark: OP
 ftbu.claims.block.edit.cyclicmagic.fluid_pipe: OP
+ftbu.claims.block.edit.cyclicmagic.fluid_placer: OP
 ftbu.claims.block.edit.cyclicmagic.fluid_pump: OP
 ftbu.claims.block.edit.cyclicmagic.harvester_block: OP
 ftbu.claims.block.edit.cyclicmagic.item_pipe: OP
@@ -3458,7 +3458,6 @@ ftbu.claims.block.edit.quark.end_bricks_slab: OP
 ftbu.claims.block.edit.quark.end_bricks_slab_double: OP
 ftbu.claims.block.edit.quark.end_bricks_stairs: OP
 ftbu.claims.block.edit.quark.end_bricks_wall: OP
-ftbu.claims.block.edit.quark.ender_watcher: OP
 ftbu.claims.block.edit.quark.fire_stone_slab: OP
 ftbu.claims.block.edit.quark.fire_stone_slab_double: OP
 ftbu.claims.block.edit.quark.fire_stone_stairs: OP
@@ -3973,6 +3972,7 @@ ftbu.claims.block.edit.tconstruct.brownstone_stairs_rough: OP
 ftbu.claims.block.edit.tconstruct.brownstone_stairs_smooth: OP
 ftbu.claims.block.edit.tconstruct.brownstone_stairs_tile: OP
 ftbu.claims.block.edit.tconstruct.casting: OP
+ftbu.claims.block.edit.tconstruct.channel: OP
 ftbu.claims.block.edit.tconstruct.clear_glass: OP
 ftbu.claims.block.edit.tconstruct.clear_stained_glass: OP
 ftbu.claims.block.edit.tconstruct.deco_ground: OP
@@ -5593,6 +5593,7 @@ ftbu.claims.block.interact.cyclicmagic.exp_pylon: OP
 ftbu.claims.block.interact.cyclicmagic.fan: OP
 ftbu.claims.block.interact.cyclicmagic.fire_dark: OP
 ftbu.claims.block.interact.cyclicmagic.fluid_pipe: OP
+ftbu.claims.block.interact.cyclicmagic.fluid_placer: OP
 ftbu.claims.block.interact.cyclicmagic.fluid_pump: OP
 ftbu.claims.block.interact.cyclicmagic.harvester_block: OP
 ftbu.claims.block.interact.cyclicmagic.item_pipe: OP
@@ -7290,7 +7291,6 @@ ftbu.claims.block.interact.quark.end_bricks_slab: OP
 ftbu.claims.block.interact.quark.end_bricks_slab_double: OP
 ftbu.claims.block.interact.quark.end_bricks_stairs: OP
 ftbu.claims.block.interact.quark.end_bricks_wall: OP
-ftbu.claims.block.interact.quark.ender_watcher: OP
 ftbu.claims.block.interact.quark.fire_stone_slab: OP
 ftbu.claims.block.interact.quark.fire_stone_slab_double: OP
 ftbu.claims.block.interact.quark.fire_stone_stairs: OP
@@ -7805,6 +7805,7 @@ ftbu.claims.block.interact.tconstruct.brownstone_stairs_rough: OP
 ftbu.claims.block.interact.tconstruct.brownstone_stairs_smooth: OP
 ftbu.claims.block.interact.tconstruct.brownstone_stairs_tile: OP
 ftbu.claims.block.interact.tconstruct.casting: OP
+ftbu.claims.block.interact.tconstruct.channel: OP
 ftbu.claims.block.interact.tconstruct.clear_glass: OP
 ftbu.claims.block.interact.tconstruct.clear_stained_glass: OP
 ftbu.claims.block.interact.tconstruct.deco_ground: OP
@@ -10740,6 +10741,7 @@ ftbu.claims.item.cyclicmagic.fan: ALL
 ftbu.claims.item.cyclicmagic.fire_dark: ALL
 ftbu.claims.item.cyclicmagic.fire_killer: ALL
 ftbu.claims.item.cyclicmagic.fluid_pipe: ALL
+ftbu.claims.item.cyclicmagic.fluid_placer: ALL
 ftbu.claims.item.cyclicmagic.fluid_pump: ALL
 ftbu.claims.item.cyclicmagic.food_step: ALL
 ftbu.claims.item.cyclicmagic.glove_climb: ALL
@@ -13583,7 +13585,6 @@ ftbu.claims.item.quark.duskbound_lantern: ALL
 ftbu.claims.item.quark.end_bricks_slab: ALL
 ftbu.claims.item.quark.end_bricks_stairs: ALL
 ftbu.claims.item.quark.end_bricks_wall: ALL
-ftbu.claims.item.quark.ender_watcher: ALL
 ftbu.claims.item.quark.enderdragon_scale: ALL
 ftbu.claims.item.quark.fire_stone_slab: ALL
 ftbu.claims.item.quark.fire_stone_stairs: ALL
@@ -14266,6 +14267,7 @@ ftbu.claims.item.tconstruct.brownstone_stairs_tile: ALL
 ftbu.claims.item.tconstruct.cast: ALL
 ftbu.claims.item.tconstruct.cast_custom: ALL
 ftbu.claims.item.tconstruct.casting: ALL
+ftbu.claims.item.tconstruct.channel: ALL
 ftbu.claims.item.tconstruct.clay_cast: ALL
 ftbu.claims.item.tconstruct.clear_glass: ALL
 ftbu.claims.item.tconstruct.clear_stained_glass: ALL
@@ -14293,6 +14295,8 @@ ftbu.claims.item.tconstruct.hammer_head: ALL
 ftbu.claims.item.tconstruct.hand_guard: ALL
 ftbu.claims.item.tconstruct.hatchet: ALL
 ftbu.claims.item.tconstruct.ingots: ALL
+ftbu.claims.item.tconstruct.kama: ALL
+ftbu.claims.item.tconstruct.kama_head: ALL
 ftbu.claims.item.tconstruct.knife_blade: ALL
 ftbu.claims.item.tconstruct.large_plate: ALL
 ftbu.claims.item.tconstruct.large_sword_blade: ALL
