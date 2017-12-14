@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-12-14T17:53:42.2825154Z",
+  "lastPlayed": "2017-12-14T22:14:13.7528548Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -92,6 +92,21 @@
       "queryTimestamp": "2017-12-14T04:42:54.6276097Z",
       "fileCount": 1,
       "fileSize": 152727
+    },
+    {
+      "folderName": "industrialforegoing-1.12.2-1.6.3-107.jar",
+      "fingerprint": 3134905912,
+      "fileDateHash": 1690119015,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3134905912
+      ],
+      "status": 1,
+      "timestamp": "2017-12-14T22:14:04.2070396Z",
+      "lastWriteTimeUtc": "2017-12-14T22:13:29.1429448Z",
+      "queryTimestamp": "2017-12-14T22:14:04.4724502Z",
+      "fileCount": 1,
+      "fileSize": 1026293
     },
     {
       "folderName": "badwithernocookiereloaded-1.12.2-2.12.jar",
@@ -347,21 +362,6 @@
       "queryTimestamp": "2017-12-14T04:42:54.6291095Z",
       "fileCount": 1,
       "fileSize": 727822
-    },
-    {
-      "folderName": "IntegratedDynamics-1.12.2-0.9.6.jar",
-      "fingerprint": 1731068716,
-      "fileDateHash": 827898057,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1731068716
-      ],
-      "status": 1,
-      "timestamp": "2017-11-30T06:26:07.1024033Z",
-      "lastWriteTimeUtc": "2017-11-30T06:26:02.9144212Z",
-      "queryTimestamp": "2017-12-14T04:42:54.6281097Z",
-      "fileCount": 1,
-      "fileSize": 2592267
     },
     {
       "folderName": "modtweaker-4.0.5.jar",
@@ -634,6 +634,21 @@
       "fileSize": 411545
     },
     {
+      "folderName": "TexFix V-1.12-3.0.jar",
+      "fingerprint": 2049974541,
+      "fileDateHash": 3972559296,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2049974541
+      ],
+      "status": 1,
+      "timestamp": "2017-12-14T22:14:04.2355597Z",
+      "lastWriteTimeUtc": "2017-12-14T22:12:51.9805786Z",
+      "queryTimestamp": "2017-12-14T22:14:04.4829593Z",
+      "fileCount": 1,
+      "fileSize": 7076
+    },
+    {
       "folderName": "justenoughdimensions-1.12.2-1.6.0-dev.20171208.003733.jar",
       "fingerprint": 3175332589,
       "fileDateHash": 79181212,
@@ -724,6 +739,21 @@
       "fileSize": 1989
     },
     {
+      "folderName": "tesla-core-lib-1.12-1.0.12.jar",
+      "fingerprint": 347364099,
+      "fileDateHash": 2839720323,
+      "sectionID": 6,
+      "individualFingerprints": [
+        347364099
+      ],
+      "status": 1,
+      "timestamp": "2017-12-14T22:14:04.2285547Z",
+      "lastWriteTimeUtc": "2017-12-14T22:12:51.2791485Z",
+      "queryTimestamp": "2017-12-14T22:14:04.4864216Z",
+      "fileCount": 1,
+      "fileSize": 974514
+    },
+    {
       "folderName": "CustomMainMenu-MC1.12.2-2.0.8.jar",
       "fingerprint": 3863630153,
       "fileDateHash": 3577948507,
@@ -782,21 +812,6 @@
       "queryTimestamp": "2017-12-14T04:42:54.6246072Z",
       "fileCount": 1,
       "fileSize": 165247
-    },
-    {
-      "folderName": "TexFix V-1.12-2.0.jar",
-      "fingerprint": 577183585,
-      "fileDateHash": 3769360748,
-      "sectionID": 6,
-      "individualFingerprints": [
-        577183585
-      ],
-      "status": 1,
-      "timestamp": "2017-12-12T17:42:14.8279835Z",
-      "lastWriteTimeUtc": "2017-12-12T17:04:51.3360352Z",
-      "queryTimestamp": "2017-12-14T04:42:54.64212Z",
-      "fileCount": 1,
-      "fileSize": 7199
     },
     {
       "folderName": "ExtraBitManipulation-1.12-3.2.1.jar",
@@ -1820,21 +1835,21 @@
     },
     {
       "folderName": "MMD SP TEST",
-      "fingerprint": 2184823457,
-      "fileDateHash": 3408356270,
+      "fingerprint": 2129940768,
+      "fileDateHash": 1000822915,
       "sectionID": 17,
       "individualFingerprints": [
-        26589438,
+        62487283,
         84375813,
         188501490,
         188501490,
         203464615,
-        211360280,
         224251200,
         224251200,
         294188413,
-        637358936,
-        653192216,
+        347091250,
+        370527239,
+        404237456,
         682895157,
         758054953,
         758054953,
@@ -1850,75 +1865,75 @@
         758054953,
         758054953,
         758054953,
-        897518867,
+        926991929,
         945706413,
-        1149863032,
-        1262915829,
+        958790696,
         1270403087,
         1310082188,
-        1349277548,
         1414630717,
+        1453053127,
+        1524295610,
         1540447798,
+        1542856832,
         1585898185,
-        1629584272,
-        1629584272,
-        1629584272,
-        1629584272,
-        1629584272,
-        1629584272,
-        1629584272,
-        1629584272,
-        1629584272,
-        1629584272,
-        1629584272,
         1680823930,
+        1738327710,
         1778601833,
         1803953797,
-        1844575363,
-        2090284695,
-        2227818201,
+        2023775749,
+        2203441375,
+        2203441375,
+        2203441375,
+        2203441375,
+        2203441375,
+        2203441375,
+        2203441375,
+        2203441375,
+        2203441375,
+        2203441375,
+        2203441375,
         2282821977,
         2323320690,
-        2427667111,
-        2560034014,
+        2411122648,
+        2610210252,
+        2634548480,
         2643933950,
-        2715414341,
+        2869823683,
+        2879491199,
         2899834352,
         2933415662,
-        2981766303,
         2994561999,
-        3031829238,
+        3020643612,
         3052982433,
         3053664531,
-        3066665151,
         3119746436,
         3125529666,
         3125529666,
+        3171162596,
         3177965112,
         3177965112,
         3184781582,
         3188687843,
         3188687843,
-        3219440754,
-        3284506256,
+        3199163861,
+        3327389691,
         3383409723,
-        3454205256,
         3455418769,
         3465701048,
         3581880633,
         3582932549,
         3628885431,
         3657814391,
+        3758720340,
         3771803447,
-        3778036987,
+        3773003056,
         3782233838,
         3817627265,
-        3833989414,
-        3889533336,
-        3889781944,
+        3869183785,
+        3914010024,
         4036422720,
+        4043824551,
         4099910212,
-        4104922526,
         4213863462,
         4213863462,
         4213863462,
@@ -1937,11 +1952,26 @@
         4272588933
       ],
       "status": 1,
-      "timestamp": "2017-12-12T17:42:14.8289838Z",
-      "lastWriteTimeUtc": "2017-12-12T06:23:51.2019399Z",
-      "queryTimestamp": "2017-12-14T04:42:54.6296099Z",
+      "timestamp": "2017-12-14T22:12:23.9877525Z",
+      "lastWriteTimeUtc": "2017-12-14T18:11:39.345512Z",
+      "queryTimestamp": "2017-12-14T22:12:26.131444Z",
       "fileCount": 34,
       "fileSize": 0
+    },
+    {
+      "folderName": "IntegratedDynamics-1.12.2-0.9.8.jar",
+      "fingerprint": 3733353987,
+      "fileDateHash": 1594096942,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3733353987
+      ],
+      "status": 1,
+      "timestamp": "2017-12-14T22:14:04.2130438Z",
+      "lastWriteTimeUtc": "2017-12-14T22:13:28.3058631Z",
+      "queryTimestamp": "2017-12-14T22:14:04.5066803Z",
+      "fileCount": 1,
+      "fileSize": 2380211
     },
     {
       "folderName": "astralsorcery-1.12.2-1.8.4.jar",
@@ -2409,21 +2439,6 @@
       "fileSize": 7703
     },
     {
-      "folderName": "tesla-core-lib-1.12-1.0.11.jar",
-      "fingerprint": 3610252584,
-      "fileDateHash": 786951392,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3610252584
-      ],
-      "status": 1,
-      "timestamp": "2017-11-30T06:30:29.4898964Z",
-      "lastWriteTimeUtc": "2017-11-30T06:26:05.8320049Z",
-      "queryTimestamp": "2017-12-14T04:42:54.6411193Z",
-      "fileCount": 1,
-      "fileSize": 850310
-    },
-    {
       "folderName": "WanionLib-1.12.2-1.3.jar",
       "fingerprint": 2300620024,
       "fileDateHash": 3187133180,
@@ -2557,21 +2572,6 @@
       "queryTimestamp": "2017-12-14T04:42:54.6396183Z",
       "fileCount": 1,
       "fileSize": 110317
-    },
-    {
-      "folderName": "industrialforegoing-1.12.2-1.6.0-104.jar",
-      "fingerprint": 2099193119,
-      "fileDateHash": 3911255484,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2099193119
-      ],
-      "status": 1,
-      "timestamp": "2017-12-12T17:48:41.5736423Z",
-      "lastWriteTimeUtc": "2017-12-12T17:47:40.3141782Z",
-      "queryTimestamp": "2017-12-14T04:42:54.6311114Z",
-      "fileCount": 1,
-      "fileSize": 1023198
     },
     {
       "folderName": "externaltweaker-1.12-0.3.jar",
@@ -2710,7 +2710,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-12-14T17:44:09.8602194Z",
+  "lastPreviousMatchUpdate": "2017-12-14T22:12:26.3073103Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -3092,13 +3092,13 @@
       "addonID": 236307,
       "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
       "installedFile": {
-        "Id": 2499714,
-        "FileName": "IntegratedDynamics-1.12.2-0.9.6.jar",
-        "FileNameOnDisk": "IntegratedDynamics-1.12.2-0.9.6.jar",
-        "FileDate": "2017-11-13T11:03:54.947",
+        "Id": 2509372,
+        "FileName": "IntegratedDynamics-1.12.2-0.9.8.jar",
+        "FileNameOnDisk": "IntegratedDynamics-1.12.2-0.9.8.jar",
+        "FileDate": "2017-12-13T20:25:51.38",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2499/714/IntegratedDynamics-1.12.2-0.9.6.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2509/372/IntegratedDynamics-1.12.2-0.9.8.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -3115,30 +3115,34 @@
         "Modules": [
           {
             "Foldername": "META-INF",
-            "Fingerprint": 1176667449
+            "Fingerprint": 491924949
           },
           {
             "Foldername": "assets",
-            "Fingerprint": 1238353613
+            "Fingerprint": 416076669
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2112307175
+            "Fingerprint": 2211596057
           },
           {
             "Foldername": "org",
-            "Fingerprint": 4159336770
+            "Fingerprint": 2190253800
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 2385333503
           }
         ],
-        "PackageFingerprint": 1731068716,
+        "PackageFingerprint": 3733353987,
         "GameVersion": [
           "1.12.2"
         ]
       },
       "dateInstalled": "2017-11-30T06:26:07.9760554Z",
-      "dateUpdated": "2016-11-30T06:26:07.9760554Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-12-14T22:13:28.3088746Z",
+      "dateLastUpdateAttempted": "2017-12-14T22:13:28.3088746Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10835,13 +10839,13 @@
       "addonID": 266515,
       "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
       "installedFile": {
-        "Id": 2508977,
-        "FileName": "industrialforegoing-1.12.2-1.6.0-104.jar",
-        "FileNameOnDisk": "industrialforegoing-1.12.2-1.6.0-104.jar",
-        "FileDate": "2017-12-12T12:55:58.313",
+        "Id": 2509632,
+        "FileName": "industrialforegoing-1.12.2-1.6.3-107.jar",
+        "FileNameOnDisk": "industrialforegoing-1.12.2-1.6.3-107.jar",
+        "FileDate": "2017-12-14T18:16:52.397",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2508/977/industrialforegoing-1.12.2-1.6.0-104.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2509/632/industrialforegoing-1.12.2-1.6.3-107.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -10858,26 +10862,26 @@
           },
           {
             "Foldername": "com",
-            "Fingerprint": 933638702
+            "Fingerprint": 3716360838
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 282554327
+            "Fingerprint": 2847394873
           },
           {
             "Foldername": "assets",
-            "Fingerprint": 2572186718
+            "Fingerprint": 2554754014
           }
         ],
-        "PackageFingerprint": 2099193119,
+        "PackageFingerprint": 3134905912,
         "GameVersion": [
           "1.12.2"
         ]
       },
       "dateInstalled": "2017-11-30T06:30:30.5691729Z",
-      "dateUpdated": "2017-12-12T17:47:40.3161805Z",
-      "dateLastUpdateAttempted": "2017-12-12T17:47:40.3161805Z",
-      "status": 3,
+      "dateUpdated": "2017-12-14T22:13:29.1449479Z",
+      "dateLastUpdateAttempted": "2017-12-14T22:13:29.1449479Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11302,13 +11306,13 @@
       "addonID": 254602,
       "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
       "installedFile": {
-        "Id": 2497161,
-        "FileName": "Tesla Core Lib : 1.12 - 1.0.11",
-        "FileNameOnDisk": "tesla-core-lib-1.12-1.0.11.jar",
-        "FileDate": "2017-11-04T18:34:30.95",
+        "Id": 2509629,
+        "FileName": "Tesla Core Lib : 1.12 - 1.0.12",
+        "FileNameOnDisk": "tesla-core-lib-1.12-1.0.12.jar",
+        "FileDate": "2017-12-14T18:08:10.503",
         "ReleaseType": 2,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2497/161/tesla-core-lib-1.12-1.0.11.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2509/629/tesla-core-lib-1.12-1.0.12.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -11325,22 +11329,22 @@
         "Modules": [
           {
             "Foldername": "META-INF",
-            "Fingerprint": 2563475221
+            "Fingerprint": 1644761316
           },
           {
             "Foldername": "net",
-            "Fingerprint": 2555566578
+            "Fingerprint": 3318955383
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2736095475
+            "Fingerprint": 2073498094
           },
           {
             "Foldername": "assets",
-            "Fingerprint": 1635251989
+            "Fingerprint": 554031341
           }
         ],
-        "PackageFingerprint": 3610252584,
+        "PackageFingerprint": 347364099,
         "GameVersion": [
           "1.12.2",
           "1.12.1",
@@ -11348,9 +11352,9 @@
         ]
       },
       "dateInstalled": "2017-11-30T06:30:30.5746764Z",
-      "dateUpdated": "2016-11-30T06:30:30.5746764Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2017-12-14T22:12:51.2851528Z",
+      "dateLastUpdateAttempted": "2017-12-14T22:12:51.2851528Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12375,13 +12379,13 @@
       "addonID": 283344,
       "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
       "installedFile": {
-        "Id": 2509008,
-        "FileName": "TexFix V-1.12-2.0",
-        "FileNameOnDisk": "TexFix V-1.12-2.0.jar",
-        "FileDate": "2017-12-12T15:26:46.76",
+        "Id": 2509539,
+        "FileName": "TexFix V-1.12-3.0",
+        "FileNameOnDisk": "TexFix V-1.12-3.0.jar",
+        "FileDate": "2017-12-14T10:40:40.977",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2509/8/TexFix V-1.12-2.0.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2509/539/TexFix V-1.12-3.0.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -12393,10 +12397,10 @@
           },
           {
             "Foldername": "texFix",
-            "Fingerprint": 1841291338
+            "Fingerprint": 861537292
           }
         ],
-        "PackageFingerprint": 577183585,
+        "PackageFingerprint": 2049974541,
         "GameVersion": [
           "1.12.2",
           "1.12.1",
@@ -12404,9 +12408,9 @@
         ]
       },
       "dateInstalled": "2017-12-12T17:04:51.3360352Z",
-      "dateUpdated": "2017-12-12T17:04:51.3375375Z",
-      "dateLastUpdateAttempted": "2017-12-12T17:04:51.3375375Z",
-      "status": 3,
+      "dateUpdated": "2017-12-14T22:12:51.9820788Z",
+      "dateLastUpdateAttempted": "2017-12-14T22:12:51.9820788Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
