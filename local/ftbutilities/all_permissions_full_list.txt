@@ -1,4 +1,4 @@
-14538 nodes in total
+14541 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -2759,6 +2759,7 @@ ftbu.claims.block.edit.industrialforegoing.enchantment_invoker: OP
 ftbu.claims.block.edit.industrialforegoing.enchantment_refiner: OP
 ftbu.claims.block.edit.industrialforegoing.energy_field_provider: OP
 ftbu.claims.block.edit.industrialforegoing.essence: OP
+ftbu.claims.block.edit.industrialforegoing.fluid_crafter: OP
 ftbu.claims.block.edit.industrialforegoing.fluid_pump: OP
 ftbu.claims.block.edit.industrialforegoing.hydrator: OP
 ftbu.claims.block.edit.industrialforegoing.if.pink_slime: OP
@@ -6592,6 +6593,7 @@ ftbu.claims.block.interact.industrialforegoing.enchantment_invoker: OP
 ftbu.claims.block.interact.industrialforegoing.enchantment_refiner: OP
 ftbu.claims.block.interact.industrialforegoing.energy_field_provider: OP
 ftbu.claims.block.interact.industrialforegoing.essence: OP
+ftbu.claims.block.interact.industrialforegoing.fluid_crafter: OP
 ftbu.claims.block.interact.industrialforegoing.fluid_pump: OP
 ftbu.claims.block.interact.industrialforegoing.hydrator: OP
 ftbu.claims.block.interact.industrialforegoing.if.pink_slime: OP
@@ -12286,6 +12288,7 @@ ftbu.claims.item.industrialforegoing.enchantment_refiner: ALL
 ftbu.claims.item.industrialforegoing.energy_field_addon: ALL
 ftbu.claims.item.industrialforegoing.energy_field_provider: ALL
 ftbu.claims.item.industrialforegoing.fertilizer: ALL
+ftbu.claims.item.industrialforegoing.fluid_crafter: ALL
 ftbu.claims.item.industrialforegoing.fluid_pump: ALL
 ftbu.claims.item.industrialforegoing.hydrator: ALL
 ftbu.claims.item.industrialforegoing.item_splitter: ALL

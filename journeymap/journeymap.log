@@ -1,6 +1,6 @@
-[22:57:23] [main/INFO] [JMLogger] JourneyMap log initialized.
-[22:57:23] [main/INFO] [JourneymapClient] initialize ENTER
-[22:57:23] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.2, built with Forge 14.23.0.2491
+[12:00:05] [main/INFO] [JMLogger] JourneyMap log initialized.
+[12:00:05] [main/INFO] [JourneymapClient] initialize ENTER
+[12:00:05] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.2, built with Forge 14.23.0.2491
 Forge: 14.23.1.2560
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -17,13 +17,13 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.2, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.2, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.2, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.2, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.2, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[22:57:23] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[22:57:23] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[22:57:23] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbu.integration.JMIntegration
-[22:57:23] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[22:58:00] [main/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[22:58:00] [main/INFO] [ThemeLoader] Preloaded theme textures: 71
-[22:58:01] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[12:00:05] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[12:00:05] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[12:00:05] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbu.integration.JMIntegration
+[12:00:05] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[12:00:37] [main/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[12:00:37] [main/INFO] [ThemeLoader] Preloaded theme textures: 71
+[12:00:38] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -40,3 +40,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
+[12:02:57] [main/INFO] [ChatLog] JourneyMap: Press [J]
+[12:02:57] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:02:58] [main/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\carst\Documents\Curse\Minecraft\Instances\New-MMD-Public-Pack\journeymap\data\sp\MMD SP TEST\waypoints
+[12:02:58] [main/INFO] [JourneymapClient] Mapping started in C:\Users\carst\Documents\Curse\Minecraft\Instances\New-MMD-Public-Pack\journeymap\data\sp\MMD SP TEST\DIM10. Memory: 3455MB total, 1056MB free 
+[12:03:00] [main/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
+[12:11:38] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\carst\Documents\Curse\Minecraft\Instances\New-MMD-Public-Pack\journeymap\data\sp\MMD SP TEST\DIM10
