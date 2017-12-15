@@ -1,4 +1,4 @@
-14541 nodes in total
+14553 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -48,6 +48,7 @@ command.advancement: CMD
 command.ae2: CMD
 command.aroma1997: CMD
 command.astralsorcery: CMD
+command.balance: CMD
 command.baubles: CMD
 command.bcore_ticktime: CMD
 command.bcore_util: CMD
@@ -188,6 +189,7 @@ command.ftb.edit_config.darkutils: CMD
 command.ftb.edit_config.ding: CMD
 command.ftb.edit_config.dirt2path: CMD
 command.ftb.edit_config.eleccore: CMD
+command.ftb.edit_config.enderpay: CMD
 command.ftb.edit_config.enderstorage: CMD
 command.ftb.edit_config.energyconverters: CMD
 command.ftb.edit_config.environmentaltech\main: CMD
@@ -282,6 +284,7 @@ command.ftb.edit_config.traverse\traverse: CMD
 command.ftb.edit_config.unidict\IntegrationModule: CMD
 command.ftb.edit_config.unidict\UniDict: CMD
 command.ftb.edit_config.usefulnullifiers: CMD
+command.ftb.edit_config.vending: CMD
 command.ftb.edit_config.waila\waila: CMD
 command.ftb.edit_config.wailaharvestability: CMD
 command.ftb.edit_config.wawla: CMD
@@ -362,6 +365,7 @@ command.oredistribution: CMD
 command.osSaveConfigs: CMD
 command.packmode: CMD
 command.particle: CMD
+command.pay: CMD
 command.ping: CMD
 command.playsound: CMD
 command.plethora: CMD
@@ -411,6 +415,7 @@ command.tps: CMD
 command.trigger: CMD
 command.undo_excavation: CMD
 command.villageinfo: CMD
+command.wallet: CMD
 command.wandOops: CMD
 command.weather: CMD
 command.worldborder: CMD
@@ -4212,6 +4217,9 @@ ftbu.claims.block.edit.traverse.yellow_autumnal_sapling: OP
 ftbu.claims.block.edit.usefulnullifiers.energyvoidnullifierblock: OP
 ftbu.claims.block.edit.usefulnullifiers.fluidvoidnullifierblock: OP
 ftbu.claims.block.edit.usefulnullifiers.voidnullifierblock: OP
+ftbu.claims.block.edit.vending.vendingmachine: OP
+ftbu.claims.block.edit.vending.vendingmachineadvanced: OP
+ftbu.claims.block.edit.vending.vendingmachinemultiple: OP
 ftbu.claims.block.edit.waystones.waystone: OP
 ftbu.claims.block.edit.wificharge.personalcharger: OP
 ftbu.claims.block.edit.wificharge.wirelesscharger: OP
@@ -8046,6 +8054,9 @@ ftbu.claims.block.interact.traverse.yellow_autumnal_sapling: OP
 ftbu.claims.block.interact.usefulnullifiers.energyvoidnullifierblock: OP
 ftbu.claims.block.interact.usefulnullifiers.fluidvoidnullifierblock: OP
 ftbu.claims.block.interact.usefulnullifiers.voidnullifierblock: OP
+ftbu.claims.block.interact.vending.vendingmachine: OP
+ftbu.claims.block.interact.vending.vendingmachineadvanced: OP
+ftbu.claims.block.interact.vending.vendingmachinemultiple: OP
 ftbu.claims.block.interact.waystones.waystone: OP
 ftbu.claims.block.interact.wificharge.personalcharger: OP
 ftbu.claims.block.interact.wificharge.wirelesscharger: OP
@@ -10960,6 +10971,8 @@ ftbu.claims.item.elevatorid.elevator_red: ALL
 ftbu.claims.item.elevatorid.elevator_silver: ALL
 ftbu.claims.item.elevatorid.elevator_white: ALL
 ftbu.claims.item.elevatorid.elevator_yellow: ALL
+ftbu.claims.item.enderpay.blank_banknote: ALL
+ftbu.claims.item.enderpay.filled_banknote: ALL
 ftbu.claims.item.enderstorage.ender_pouch: ALL
 ftbu.claims.item.enderstorage.ender_storage: ALL
 ftbu.claims.item.energyconverters.energy_bridge: ALL
@@ -14902,6 +14915,10 @@ ftbu.claims.item.usefulnullifiers.fluidvoidnullifieritem: ALL
 ftbu.claims.item.usefulnullifiers.overflownullifieritem: ALL
 ftbu.claims.item.usefulnullifiers.voidnullifierblock: ALL
 ftbu.claims.item.usefulnullifiers.voidnullifieritem: ALL
+ftbu.claims.item.vending.vendingmachine: ALL
+ftbu.claims.item.vending.vendingmachineadvanced: ALL
+ftbu.claims.item.vending.vendingmachinemultiple: ALL
+ftbu.claims.item.vending.vendingmachinewrench: ALL
 ftbu.claims.item.waystones.return_scroll: ALL
 ftbu.claims.item.waystones.warp_scroll: ALL
 ftbu.claims.item.waystones.warp_stone: ALL
