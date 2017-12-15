@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-12-14T22:14:13.7528548Z",
+  "lastPlayed": "2017-12-15T04:07:58.9694328Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -122,6 +122,21 @@
       "queryTimestamp": "2017-12-14T04:42:54.6566299Z",
       "fileCount": 1,
       "fileSize": 7117
+    },
+    {
+      "folderName": "foamflower-1.12.2-1.0.0.0-beta1.jar",
+      "fingerprint": 87639258,
+      "fileDateHash": 372631274,
+      "sectionID": 6,
+      "individualFingerprints": [
+        87639258
+      ],
+      "status": 1,
+      "timestamp": "2017-12-15T04:07:23.4488601Z",
+      "lastWriteTimeUtc": "2017-12-15T04:04:47.236752Z",
+      "queryTimestamp": "2017-12-15T04:07:24.12519Z",
+      "fileCount": 1,
+      "fileSize": 67908
     },
     {
       "folderName": "chiselsandbits-14.11.jar",
@@ -1989,6 +2004,21 @@
       "fileSize": 16278172
     },
     {
+      "folderName": "enderpay-1.12.2-1.0.0.0.jar",
+      "fingerprint": 4055702354,
+      "fileDateHash": 521044937,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4055702354
+      ],
+      "status": 1,
+      "timestamp": "2017-12-15T04:07:23.4483598Z",
+      "lastWriteTimeUtc": "2017-12-15T04:05:25.4793586Z",
+      "queryTimestamp": "2017-12-15T04:07:24.1597276Z",
+      "fileCount": 1,
+      "fileSize": 75690
+    },
+    {
       "folderName": "# LibLoader.jar",
       "fingerprint": 16707052,
       "fileDateHash": 3081434399,
@@ -2137,6 +2167,21 @@
       "queryTimestamp": "2017-12-14T04:42:54.6541286Z",
       "fileCount": 1,
       "fileSize": 31462
+    },
+    {
+      "folderName": "vending-1.12.2-3.0.0.0.jar",
+      "fingerprint": 4085715963,
+      "fileDateHash": 1717328692,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4085715963
+      ],
+      "status": 1,
+      "timestamp": "2017-12-15T04:07:23.4503612Z",
+      "lastWriteTimeUtc": "2017-12-15T04:04:47.5409883Z",
+      "queryTimestamp": "2017-12-15T04:07:24.1627173Z",
+      "fileCount": 1,
+      "fileSize": 243547
     },
     {
       "folderName": "secretroomsmod-1.12.2-5.1.9.jar",
@@ -2710,7 +2755,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-12-14T22:12:26.3073103Z",
+  "lastPreviousMatchUpdate": "2017-12-15T04:07:24.3257691Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -5767,7 +5812,7 @@
       "dateInstalled": "2017-11-30T06:26:08.0130816Z",
       "dateUpdated": "2016-11-30T06:26:08.0130816Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6862,7 +6907,7 @@
       "dateInstalled": "2017-11-30T06:26:08.0280926Z",
       "dateUpdated": "2016-11-30T06:26:08.0280926Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12410,6 +12455,177 @@
       "dateInstalled": "2017-12-12T17:04:51.3360352Z",
       "dateUpdated": "2017-12-14T22:12:51.9820788Z",
       "dateLastUpdateAttempted": "2017-12-14T22:12:51.9820788Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 271204,
+      "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
+      "installedFile": {
+        "Id": 2489397,
+        "FileName": "foamflower-1.12.2-1.0.0.0-beta1.jar",
+        "FileNameOnDisk": "foamflower-1.12.2-1.0.0.0-beta1.jar",
+        "FileDate": "2017-10-10T17:17:59.64",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2489/397/foamflower-1.12.2-1.0.0.0-beta1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 2797965336
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2612578514
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1102229153
+          }
+        ],
+        "PackageFingerprint": 87639258,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2017-12-15T04:04:47.2377532Z",
+      "dateUpdated": "2017-12-15T04:04:47.2412552Z",
+      "dateLastUpdateAttempted": "2017-12-15T04:04:47.2412552Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 243315,
+      "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
+      "installedFile": {
+        "Id": 2489400,
+        "FileName": "vending-1.12.2-3.0.0.0.jar",
+        "FileNameOnDisk": "vending-1.12.2-3.0.0.0.jar",
+        "FileDate": "2017-10-10T17:19:42.233",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2489/400/vending-1.12.2-3.0.0.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 261270,
+            "Type": 2
+          },
+          {
+            "AddOnId": 271204,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "info",
+            "Fingerprint": 2647655519
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1428027344
+          },
+          {
+            "Foldername": "icon.png",
+            "Fingerprint": 2907094461
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 4253203493
+          }
+        ],
+        "PackageFingerprint": 4085715963,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2017-12-15T04:04:47.5409883Z",
+      "dateUpdated": "2017-12-15T04:04:47.5424903Z",
+      "dateLastUpdateAttempted": "2017-12-15T04:04:47.5424903Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 261270,
+      "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
+      "installedFile": {
+        "Id": 2489399,
+        "FileName": "enderpay-1.12.2-1.0.0.0.jar",
+        "FileNameOnDisk": "enderpay-1.12.2-1.0.0.0.jar",
+        "FileDate": "2017-10-10T17:18:50.44",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2489/399/enderpay-1.12.2-1.0.0.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 271204,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 1268294043
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2348275276
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 4047985016
+          }
+        ],
+        "PackageFingerprint": 4055702354,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2017-12-15T04:05:25.4793586Z",
+      "dateUpdated": "2017-12-15T04:05:25.4803593Z",
+      "dateLastUpdateAttempted": "2017-12-15T04:05:25.4803593Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
