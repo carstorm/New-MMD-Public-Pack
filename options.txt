@@ -104,8 +104,6 @@ key_key.aov.bar.6:0
 key_key.aov.bar.7:0
 key_key.aov.bar.8:0
 key_psimisc.keybind:46
-key_quark.keybind.toggleAutojump:0
-key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -125,6 +123,8 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:37
+key_quark.keybind.toggleAutojump:0
 key_cos.key.openCosArmorInventory:0
 key_key.ftbu.guide:0
 key_key.ftbu.warp:0
