@@ -31,7 +31,37 @@
         "generatorOptions": "3;minecraft:bedrock,62*minecraft:dirt,minecraft:grass;1;",
         "DayTime": 6000,
         "GameType": 2,
-        "BorderSize": 100,
+        "BorderSize": 90,
+        "SpawnX": 0,
+        "SpawnY": 64,
+        "SpawnZ": 0,
+        "GameRules": {
+          "doDaylightCycle": "false",
+          "doMobSpawning": "false",
+          "spawnRadius": 0,
+          "pvp": "false",
+          "doWeatherCycle": "false"
+        }
+      },
+      "jed": {
+        "ForceGameMode": "true"
+      }
+    },
+    {
+      "dim": 11,
+      "dimensiontype": {
+        "id": 11,
+        "name": "Player_Shops",
+        "suffix": "_dim11",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "worldinfo_onetime": {
+        "generatorName": "flat",
+        "generatorOptions": "3;minecraft:bedrock,62*minecraft:dirt,minecraft:grass;1;",
+        "DayTime": 6000,
+        "GameType": 0,
+        "BorderSize": 500,
         "SpawnX": 0,
         "SpawnY": 64,
         "SpawnZ": 0,
