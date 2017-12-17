@@ -1,4 +1,4 @@
-14775 nodes in total
+14833 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -247,6 +247,9 @@ command.ftb.edit_config.mysticalagradditions: CMD
 command.ftb.edit_config.mysticalagriculture: CMD
 command.ftb.edit_config.mysticalagriculture_recipes: CMD
 command.ftb.edit_config.notenoughwands: CMD
+command.ftb.edit_config.omlib: CMD
+command.ftb.edit_config.ompd: CMD
+command.ftb.edit_config.openmodularturrets: CMD
 command.ftb.edit_config.oreexcavation: CMD
 command.ftb.edit_config.orespawn: CMD
 command.ftb.edit_config.packmode: CMD
@@ -363,6 +366,9 @@ command.locate: CMD
 command.me: CMD
 command.mk: CMD
 command.nbtprint: CMD
+command.omchangeowner: CMD
+command.omdebug: CMD
+command.omshareowner: CMD
 command.oredistribution: CMD
 command.osSaveConfigs: CMD
 command.packmode: CMD
@@ -3359,6 +3365,23 @@ ftbu.claims.block.edit.mysticalagriculture.yellorium_crop: OP
 ftbu.claims.block.edit.mysticalagriculture.zinc_crop: OP
 ftbu.claims.block.edit.mysticalagriculture.zombie_crop: OP
 ftbu.claims.block.edit.notenoughwands.lightblock: OP
+ftbu.claims.block.edit.ompd.camo_trap: OP
+ftbu.claims.block.edit.ompd.fence: OP
+ftbu.claims.block.edit.ompd.hardened: OP
+ftbu.claims.block.edit.ompd.wall: OP
+ftbu.claims.block.edit.openmodularturrets.disposable_item_turret: OP
+ftbu.claims.block.edit.openmodularturrets.expander: OP
+ftbu.claims.block.edit.openmodularturrets.grenade_turret: OP
+ftbu.claims.block.edit.openmodularturrets.incendiary_turret: OP
+ftbu.claims.block.edit.openmodularturrets.laser_turret: OP
+ftbu.claims.block.edit.openmodularturrets.lever_block: OP
+ftbu.claims.block.edit.openmodularturrets.machine_gun_turret: OP
+ftbu.claims.block.edit.openmodularturrets.potato_cannon_turret: OP
+ftbu.claims.block.edit.openmodularturrets.rail_gun_turret: OP
+ftbu.claims.block.edit.openmodularturrets.relativistic_turret: OP
+ftbu.claims.block.edit.openmodularturrets.rocket_turret: OP
+ftbu.claims.block.edit.openmodularturrets.teleporter_turret: OP
+ftbu.claims.block.edit.openmodularturrets.turret_base: OP
 ftbu.claims.block.edit.platforms.platform: OP
 ftbu.claims.block.edit.plethora.manipulator: OP
 ftbu.claims.block.edit.plethora.redstone_integrator: OP
@@ -7269,6 +7292,23 @@ ftbu.claims.block.interact.mysticalagriculture.yellorium_crop: OP
 ftbu.claims.block.interact.mysticalagriculture.zinc_crop: OP
 ftbu.claims.block.interact.mysticalagriculture.zombie_crop: OP
 ftbu.claims.block.interact.notenoughwands.lightblock: OP
+ftbu.claims.block.interact.ompd.camo_trap: OP
+ftbu.claims.block.interact.ompd.fence: OP
+ftbu.claims.block.interact.ompd.hardened: OP
+ftbu.claims.block.interact.ompd.wall: OP
+ftbu.claims.block.interact.openmodularturrets.disposable_item_turret: OP
+ftbu.claims.block.interact.openmodularturrets.expander: OP
+ftbu.claims.block.interact.openmodularturrets.grenade_turret: OP
+ftbu.claims.block.interact.openmodularturrets.incendiary_turret: OP
+ftbu.claims.block.interact.openmodularturrets.laser_turret: OP
+ftbu.claims.block.interact.openmodularturrets.lever_block: OP
+ftbu.claims.block.interact.openmodularturrets.machine_gun_turret: OP
+ftbu.claims.block.interact.openmodularturrets.potato_cannon_turret: OP
+ftbu.claims.block.interact.openmodularturrets.rail_gun_turret: OP
+ftbu.claims.block.interact.openmodularturrets.relativistic_turret: OP
+ftbu.claims.block.interact.openmodularturrets.rocket_turret: OP
+ftbu.claims.block.interact.openmodularturrets.teleporter_turret: OP
+ftbu.claims.block.interact.openmodularturrets.turret_base: OP
 ftbu.claims.block.interact.platforms.platform: OP
 ftbu.claims.block.interact.plethora.manipulator: OP
 ftbu.claims.block.interact.plethora.redstone_integrator: OP
@@ -13607,6 +13647,30 @@ ftbu.claims.item.notenoughwands.protection_wand: ALL
 ftbu.claims.item.notenoughwands.swapping_wand: ALL
 ftbu.claims.item.notenoughwands.teleportation_wand: ALL
 ftbu.claims.item.notenoughwands.wandcore: ALL
+ftbu.claims.item.omlib.debug_tool: ALL
+ftbu.claims.item.ompd.camo_trap: ALL
+ftbu.claims.item.ompd.fence: ALL
+ftbu.claims.item.ompd.hardened: ALL
+ftbu.claims.item.ompd.wall: ALL
+ftbu.claims.item.openmodularturrets.addon_meta: ALL
+ftbu.claims.item.openmodularturrets.ammo_meta: ALL
+ftbu.claims.item.openmodularturrets.disposable_item_turret: ALL
+ftbu.claims.item.openmodularturrets.expander: ALL
+ftbu.claims.item.openmodularturrets.grenade_turret: ALL
+ftbu.claims.item.openmodularturrets.incendiary_turret: ALL
+ftbu.claims.item.openmodularturrets.intermediate_regular: ALL
+ftbu.claims.item.openmodularturrets.intermediate_tiered: ALL
+ftbu.claims.item.openmodularturrets.laser_turret: ALL
+ftbu.claims.item.openmodularturrets.lever_block: ALL
+ftbu.claims.item.openmodularturrets.machine_gun_turret: ALL
+ftbu.claims.item.openmodularturrets.potato_cannon_turret: ALL
+ftbu.claims.item.openmodularturrets.rail_gun_turret: ALL
+ftbu.claims.item.openmodularturrets.relativistic_turret: ALL
+ftbu.claims.item.openmodularturrets.rocket_turret: ALL
+ftbu.claims.item.openmodularturrets.teleporter_turret: ALL
+ftbu.claims.item.openmodularturrets.turret_base: ALL
+ftbu.claims.item.openmodularturrets.upgrade_meta: ALL
+ftbu.claims.item.openmodularturrets.usable_meta: ALL
 ftbu.claims.item.platforms.platform: ALL
 ftbu.claims.item.platforms.wrench: ALL
 ftbu.claims.item.plethora.keyboard: ALL
