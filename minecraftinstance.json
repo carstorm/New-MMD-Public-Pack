@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-12-15T19:33:08.2682965Z",
+  "lastPlayed": "2017-12-17T01:18:00.7001005Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -12635,6 +12635,197 @@
       "dateInstalled": "2017-12-15T04:05:25.4793586Z",
       "dateUpdated": "2017-12-15T04:05:25.4803593Z",
       "dateLastUpdateAttempted": "2017-12-15T04:05:25.4803593Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 242064,
+      "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
+      "installedFile": {
+        "Id": 2434598,
+        "FileName": "itemscroller-1.12.0-0.11.0.jar",
+        "FileNameOnDisk": "itemscroller-1.12.0-0.11.0.jar",
+        "FileDate": "2017-06-15T13:50:49.907",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2434/598/itemscroller-1.12.0-0.11.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3749309618
+          },
+          {
+            "Foldername": "fi",
+            "Fingerprint": 3450742919
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 827828685
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3328690262
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 243762596
+          }
+        ],
+        "PackageFingerprint": 1380362798,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-12-16T18:27:08.6126123Z",
+      "dateUpdated": "2017-12-16T18:27:08.6141121Z",
+      "dateLastUpdateAttempted": "2017-12-16T18:27:08.6141121Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 239418,
+      "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
+      "installedFile": {
+        "Id": 2509145,
+        "FileName": "Sonar-Core-1.12.X-5.0.3",
+        "FileNameOnDisk": "sonarcore-1.12.2-5.0.3.jar",
+        "FileDate": "2017-12-13T00:46:46.863",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2509/145/sonarcore-1.12.2-5.0.3.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 225104,
+            "Type": 2
+          },
+          {
+            "AddOnId": 240562,
+            "Type": 2
+          },
+          {
+            "AddOnId": 248020,
+            "Type": 2
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "ic2",
+            "Fingerprint": 1965416961
+          },
+          {
+            "Foldername": "powercrystals",
+            "Fingerprint": 2030593330
+          },
+          {
+            "Foldername": "sonar",
+            "Fingerprint": 2482572745
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3274712078
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1313844260
+          }
+        ],
+        "PackageFingerprint": 268214469,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12",
+          "1.12-Snapshot"
+        ]
+      },
+      "dateInstalled": "2017-12-16T18:27:45.4393525Z",
+      "dateUpdated": "2017-12-16T18:27:45.4413539Z",
+      "dateLastUpdateAttempted": "2017-12-16T18:27:45.4413539Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 248020,
+      "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
+      "installedFile": {
+        "Id": 2481720,
+        "FileName": "Flux-Networks-1.12.X-3.0.1",
+        "FileNameOnDisk": "fluxnetworks-1.12.2-3.0.1.jar",
+        "FileDate": "2017-09-19T16:28:23.953",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2481/720/fluxnetworks-1.12.2-3.0.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 239418,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "sonar",
+            "Fingerprint": 2292460287
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 777696518
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3070511118
+          }
+        ],
+        "PackageFingerprint": 1265382529,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12",
+          "1.12-Snapshot"
+        ]
+      },
+      "dateInstalled": "2017-12-16T18:27:45.6757487Z",
+      "dateUpdated": "2017-12-16T18:27:45.6767494Z",
+      "dateLastUpdateAttempted": "2017-12-16T18:27:45.6767494Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
