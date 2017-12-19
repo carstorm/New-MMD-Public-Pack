@@ -1,0 +1,245 @@
+Server Only
+-DiscordIntegration
+Client Only
+-JustEnoughButtons [folder]
+-Controlling
+-CutomBackgrounds
+-CustomMainMenu
+-Ding
+-externaltweaker
+-ikwid
+-Inventory Tweaks
+-Item Scroller
+-itemzoom
+-justenoughbuttons
+-MouseTweaker
+-ReAuth
+-ResourceLoader
+-SoundFilters
+-TexFix
+-jepb [just enough buttons]
+
+--------------------------------------------
+
+Updated Mods
+
+-Bookshelf
+-Cyclic
+-Enviromental Tech
+-Everlasting Abilities
+-Extra Utilities
+-Flux Networks [NEW]
+-Forestry
+-Intergrated Dynamics
+-Item Scroller [NEW][CLIENT]
+-MalisisDoors
+-Mekanism
+-Mekanism Generators
+-React
+-Roots
+-SecretRoomsMod
+-Sonar Core [NEW]
+-Tinkers Construct
+-Toast Control
+-UniDict
+-ValkyrieLib
+-WanionLib
+
+--------------------------------------------
+
+Export Boxes to check
+-config
+-local
+-mods
+-resources
+-structures
+
+---------------
+
+Stuff to remove from exported zip if present
+-----overtides > mods
+-JustEnoughButtons [folder]
+-ImmersiveEnginerring[verion]core
+
+--------------------------------------------
+
+Mod List
+-AbyssalCraft
+-Actually Additions
+-Additional Banners
+-AE2 Stuff
+-Alchemy Trinkets
+-Angel of Vengeance
+-Angel Ring To Bauble
+-AppleSkin
+-Applied Energistics 2
+-Aromma1997Core
+-Aromma1997s Dimensional World
+-Astral Sorcery
+-Auto Reg Lib
+-Bad Witehr No Cookie - Relaoded
+-Base Metals
+-Baubles
+-BdLib
+-Better Builder's Wands
+-BetterBedrockGen
+-BetterFPS
+-BiblioCraft
+-Bookshelf
+-Botania
+-Brandon's Core
+-Chamelon
+-Chest Transporter
+-Chisel
+-Chisels & Bits
+-CodeChicken Lib 1.8+
+-CoFH Core
+-CoFH World
+-Colossal Chests
+-Common Capabilities
+-Comapct Machines
+-ComputerCraft
+-ConnectedTexturesMod
+-Controlling [CLIENT]
+-Cooking for Blockheads
+-Cosmetic Armor Reworked
+-Crafting Tweaks
+-CraftTweaker
+-Cucmber
+-CustomMainMenu [CLIENT]
+-CustomBackgrounds [CLIENT]
+-Cyclic
+-Cyclops Core
+-Dark Utilities
+-Default Options
+-Ding [CLIENT]
+-Dirt2Path
+-DiscordIntegration [SERVER]
+-Draconic Evolution
+-Ender Storage 1.8.+
+-EnderPay
+-Energy Converters
+-Enviromental Tech
+-EverlastingAbilities
+-Extended Crafting
+-External Tweaker [CLIENT]
+-Extra Bit Manipulation
+-Extra Utilities
+-ExtraCells2
+-Extreme Reactors
+-Fast leaf Decay
+-Flat Colored Blocks
+-Flux Networks
+-Foamfix Anarchy Edition
+-Foamflower
+-Forestry
+-FTB Utilities
+-FTBLib
+-Funky Locomation
+-Gendustry
+-GraveSTone Mod
+-Guide-API
+-Hammer Core
+-Hwyla
+-IKWID (I Know What I"m Doing) [CLIENT]
+-Immersive Engineering
+-Immersive Petroleum
+-In-Game Wiki Mod
+-Industrial Craft
+-Industrial Foregoing
+-Intergrated Dynamics
+-Inventory Tweaks [CLIENT]
+-Iron Chests
+-Item Scroller [CLIENT]
+-ItemZoom [CLIENT]
+-IVToolkit
+-JEI Bees
+-JEI Intergration
+-JourneyMap
+-Just Enough Buttons [CLIENT]
+-Just Enough Dimensions
+-Just Enough Items (JEI)
+-Just Enough Pattern Banners
+-Just Enough Resources (JER)
+-Light Level Overlay Reloaded
+-LunatriusCore
+-MalisisCore
+-MalisisDoors
+-Mantle
+-McJtyLib
+-MCMutiPart
+-Mekanism
+-Mekanism Generators
+-MMD OreSpawn
+-ModTweaker
+-Modular Routers
+-More Default Options
+-Mouse Tweaks [CLIENT]
+-MTLib
+-Mystical Agradditions
+-Mystical Agriculture
+-Not Enough Wands
+-OMLib
+-Open Modular Passive Defense
+-OpenBlocks Elevator
+-OpenModularTurrents
+-Ore Excavation
+-PackMode
+-Placebo
+-Platforms
+-Plethora Peripherals
+-PlusTic
+-Psi
+-QuantumStorage
+-Quark
+-Random Things
+-Ranged Pumps
+-React
+-ReAuth [CLIENT]
+-Reborn Core
+-Recurrent Complex
+-Redstone Arsenal
+-Redstone Flux
+-Resource Loader [CLIENT]
+-RFTools
+-RFTools Control
+-Roots
+-SecretRoomsMod
+-Shadowfacts' Forgelin
+-ShetiPhianCore
+-Simpple Stroage Network
+-Simple Harvest
+-Solar Flux Reborn
+-Sonar Core
+-Sound Filters [CLIENT]
+-Stackie
+-stimmedcow : NoMoreRecipeConflict
+-StorageDrawers
+-TamModized
+-TellMe
+-Teraqueous
+-Tesla Core Lib
+-TexFix [CLIENT]
+-TheBOMPlugin
+-Thermal Dynamics
+-Thermal Expansion
+-Thermal Foundation
+-TickProfiler
+-Tinkers Construct
+-Tinkers' Tool Leveling
+-Tiny Progressions
+-Toast Control
+-TorchMaster
+-Traverse
+-UniDict
+-Useful Nullifiers
+-ValkyrieLib
+-Vending block
+-Waila Harvestability
+-WanionLib
+-Wawla -  What Are We Looking At
+-Waystones
+-Wireless Charger
+-XNet
+-Xtones
+-ZeroCore
