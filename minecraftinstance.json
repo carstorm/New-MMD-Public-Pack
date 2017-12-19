@@ -8589,19 +8589,23 @@
       "addonID": 244258,
       "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
       "installedFile": {
-        "Id": 2508665,
-        "FileName": "UniDict-1.12.2-1.6.jar",
-        "FileNameOnDisk": "UniDict-1.12.2-1.6.jar",
-        "FileDate": "2017-12-11T16:21:47.513",
+        "Id": 2510569,
+        "FileName": "UniDict-1.12.2-1.8.jar",
+        "FileNameOnDisk": "UniDict-1.12.2-1.8.jar",
+        "FileDate": "2017-12-16T23:34:26.187",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2508/665/UniDict-1.12.2-1.6.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2510/569/UniDict-1.12.2-1.8.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
           {
             "AddOnId": 253043,
             "Type": 1
+          },
+          {
+            "AddOnId": 277047,
+            "Type": 2
           }
         ],
         "IsAvailable": true,
@@ -8612,11 +8616,11 @@
           },
           {
             "Foldername": "wanion",
-            "Fingerprint": 2075689927
+            "Fingerprint": 931631606
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 3770749357
+            "Fingerprint": 3039593377
           },
           {
             "Foldername": "pack.mcmeta",
@@ -8627,15 +8631,15 @@
             "Fingerprint": 3434512620
           }
         ],
-        "PackageFingerprint": 1774438928,
+        "PackageFingerprint": 2450119204,
         "GameVersion": [
           "1.12.2"
         ]
       },
       "dateInstalled": "2017-11-30T06:26:08.0566119Z",
-      "dateUpdated": "2017-12-12T03:08:00.0429856Z",
-      "dateLastUpdateAttempted": "2017-12-12T03:08:00.0429856Z",
-      "status": 3,
+      "dateUpdated": "2017-12-19T20:58:43.537181Z",
+      "dateLastUpdateAttempted": "2017-12-19T20:58:43.537181Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10292,13 +10296,13 @@
       "addonID": 225561,
       "gameInstanceID": "567dd528-35d3-4c11-9fa6-9655673f0f49",
       "installedFile": {
-        "Id": 2510405,
-        "FileName": "Extra Utilities 2 - 1.12 - 1.7.1",
-        "FileNameOnDisk": "extrautils2-1.12-1.7.1.jar",
-        "FileDate": "2017-12-16T17:08:05.863",
+        "Id": 2504264,
+        "FileName": "Extra Utilities 2 - 1.12 - 1.6.8",
+        "FileNameOnDisk": "extrautils2-1.12-1.6.8.jar",
+        "FileDate": "2017-11-28T03:13:44.8",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2510/405/extrautils2-1.12-1.7.1.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2504/264/extrautils2-1.12-1.6.8.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -10310,11 +10314,11 @@
           },
           {
             "Foldername": "com",
-            "Fingerprint": 1805377092
+            "Fingerprint": 4068230000
           },
           {
             "Foldername": "assets",
-            "Fingerprint": 17645961
+            "Fingerprint": 2385988445
           },
           {
             "Foldername": "mcmod.info",
@@ -10325,7 +10329,7 @@
             "Fingerprint": 314185225
           }
         ],
-        "PackageFingerprint": 270488779,
+        "PackageFingerprint": 3712143952,
         "GameVersion": [
           "1.12.2",
           "1.12.1",
@@ -10333,8 +10337,8 @@
         ]
       },
       "dateInstalled": "2017-11-30T06:30:30.4891159Z",
-      "dateUpdated": "2017-12-19T18:33:02.9106559Z",
-      "dateLastUpdateAttempted": "2017-12-19T18:33:02.9106559Z",
+      "dateUpdated": "2017-12-19T20:59:12.518523Z",
+      "dateLastUpdateAttempted": "2017-12-19T20:59:12.518523Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
