@@ -1,4 +1,4 @@
-14833 nodes in total
+14836 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -289,6 +289,7 @@ command.ftb.edit_config.traverse\traverse: CMD
 command.ftb.edit_config.unidict\IntegrationModule: CMD
 command.ftb.edit_config.unidict\UniDict: CMD
 command.ftb.edit_config.usefulnullifiers: CMD
+command.ftb.edit_config.valkyrielib\main: CMD
 command.ftb.edit_config.vending: CMD
 command.ftb.edit_config.waila\waila: CMD
 command.ftb.edit_config.wailaharvestability: CMD
@@ -1777,6 +1778,7 @@ ftbu.claims.block.edit.cyclicmagic.fluid_placer: OP
 ftbu.claims.block.edit.cyclicmagic.fluid_pump: OP
 ftbu.claims.block.edit.cyclicmagic.harvester_block: OP
 ftbu.claims.block.edit.cyclicmagic.item_pipe: OP
+ftbu.claims.block.edit.cyclicmagic.item_pipe_sort: OP
 ftbu.claims.block.edit.cyclicmagic.item_pump: OP
 ftbu.claims.block.edit.cyclicmagic.magnet_anti_block: OP
 ftbu.claims.block.edit.cyclicmagic.magnet_block: OP
@@ -5704,6 +5706,7 @@ ftbu.claims.block.interact.cyclicmagic.fluid_placer: OP
 ftbu.claims.block.interact.cyclicmagic.fluid_pump: OP
 ftbu.claims.block.interact.cyclicmagic.harvester_block: OP
 ftbu.claims.block.interact.cyclicmagic.item_pipe: OP
+ftbu.claims.block.interact.cyclicmagic.item_pipe_sort: OP
 ftbu.claims.block.interact.cyclicmagic.item_pump: OP
 ftbu.claims.block.interact.cyclicmagic.magnet_anti_block: OP
 ftbu.claims.block.interact.cyclicmagic.magnet_block: OP
@@ -10959,6 +10962,7 @@ ftbu.claims.item.cyclicmagic.horse_upgrade_type: ALL
 ftbu.claims.item.cyclicmagic.horse_upgrade_variant: ALL
 ftbu.claims.item.cyclicmagic.inventory_food: ALL
 ftbu.claims.item.cyclicmagic.item_pipe: ALL
+ftbu.claims.item.cyclicmagic.item_pipe_sort: ALL
 ftbu.claims.item.cyclicmagic.item_pump: ALL
 ftbu.claims.item.cyclicmagic.magic_net: ALL
 ftbu.claims.item.cyclicmagic.magnet_anti_block: ALL
